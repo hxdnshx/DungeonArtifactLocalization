@@ -4,7 +4,7 @@
 [下载链接](../../releases)
 
 ## 安装（整合包）
-1. 通过下载链接下载 `DAT_整合.zip`，解压到游戏的本体目录，即 `steamapps\common\DUNGEON_ARTIFACT`，
+1. 通过下载链接下载 `DAT_AllInOne.7z`，解压到游戏的本体目录，即 `steamapps\common\DUNGEON_ARTIFACT`，
 你可以通过Steam页面指定游戏上的 右键菜单->管理->浏览本地文件 进入到这个目录。成功进入后，你应当可以见到 `DUNGEON_ARTIFACT.exe`。
 成功解压后你应当可以看到 `winhttp.dll` 与 `DUNGEON_ARTIFACT.exe` 在同一层目录上。
 
