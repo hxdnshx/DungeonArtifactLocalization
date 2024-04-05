@@ -34,4 +34,7 @@
   <img src="https://contrib.rocks/image?repo=hxdnshx/DungeonArtifactLocalization" />
 </a>
 
+## 使用的其他项目
+- 字体支持：[LLC_ChineseFontAsset](https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset)
+
 ## [译文ParaTranz项目](https://paratranz.cn/projects/9841/leaderboard)
