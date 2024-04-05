@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" InitialTargets="ValidateGamePath">
+
+  <Import Project="GameFolder.props" Condition="Exists('./GameFolder.props')" />
+  <Target Name="ValidateGamePath">
+    <Error Text="The GameFolder property must be set to the GTFO game folder." Condition="'$(GameFolder)' == '' or !Exists('$(GameFolder)')" />
+  </Target>
+
+  <PropertyGroup>
+    <BIELibsFolder>$(GameFolder)/BepInEx/core</BIELibsFolder>
+    <UnhollowedLibsFolder>$(GameFolder)/DUNGEON_ARTIFACT_Data/Managed</UnhollowedLibsFolder>
+    <PluginsFolder>$(GameFolder)/BepInEx/plugins</PluginsFolder>
+    <MonoManagedFolder>$(GameFolder)/mono/Managed</MonoManagedFolder>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <Version>0.1.0</Version>
+    <RootNamespace>catrice.DungeonArtifactTrans</RootNamespace>
+    <PackageId>catrice.DungeonArtifactTrans</PackageId>
+    <Authors>catrice.DungeonArtifactTrans</Authors>
+    <Company>catrice.DungeonArtifactTrans</Company>
+    <Product>catrice.DungeonArtifactTrans</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="$(BIELibsFolder)/BepInEx.dll" Private="false" />
+    <Reference Include="$(BIELibsFolder)/0Harmony.dll" Private="false" />
+    <Reference Include="$(UnhollowedLibsFolder)/*.dll" Private="false" />
+    <Compile Remove="Converters\**" />
+    <Compile Remove="DTO\**" />
+    <Compile Remove="Properties\**" />
+    <Compile Remove="Utils\**" />
+    <EmbeddedResource Remove="Converters\**" />
+    <EmbeddedResource Remove="DTO\**" />
+    <EmbeddedResource Remove="Properties\**" />
+    <EmbeddedResource Remove="Utils\**" />
+    <None Remove="Converters\**" />
+    <None Remove="DTO\**" />
+    <None Remove="Properties\**" />
+    <None Remove="Utils\**" />
+    <Reference Include="$(MonoManagedFolder)/Microsoft.CSharp.dll" Private="false" />
+    <Reference Remove="$(UnhollowedLibsFolder)/Newtonsoft.Json.dll" />
+    <Reference Remove="$(UnhollowedLibsFolder)/netstandard.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Text.Json" Version="5.0.0" />
+  </ItemGroup>
+</Project>
