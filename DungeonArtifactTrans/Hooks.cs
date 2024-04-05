@@ -25,13 +25,22 @@ namespace catrice.DungeonArtifactTrans
             {
                 if (fndValue.IsReplaced) return;
                 fndValue.IsReplaced = true;
-                var fndContext = TranslationDB.CardInfo[contextId];
                 __result.name = fndValue.Translation;
-                __result.context = fndContext.Translation;
+                if (TranslationDB.CardInfo.TryGetValue(contextId, out var fndContext))
+                {
+                    __result.context = fndContext.Translation;
+                }
+                else
+                {
+                    
+                    Logger.Log($"Unexpected Replace Result {nameId} with {__result.name} , {contextId} with {__result.context}");
+                }
+
             }
         }
     }
     
+
     [HarmonyPatch(typeof(EnchantContainer), nameof(EnchantContainer.LoadResource))]
     public static class EnchantPostfix
     {
@@ -56,7 +65,6 @@ namespace catrice.DungeonArtifactTrans
             }
         }
     }
-    
     [HarmonyPatch(typeof(Vocabulary), nameof(Vocabulary.Load))]
     public static class VocabularyFix
     {
@@ -66,7 +74,7 @@ namespace catrice.DungeonArtifactTrans
                 .Select(item => TranslationDB.VocabularyInfo.GetValueOrDefault(item, item))
                 .ToArray();
         }
-        
+
         public static void Postfix()
         {
             {
@@ -93,4 +101,5 @@ namespace catrice.DungeonArtifactTrans
             Logger.Log($"Translated:{str}");
         }
     }
+    
 }
