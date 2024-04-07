@@ -12,6 +12,7 @@ public class ScenarioTrans
 
         foreach (var filePath in Directory.GetFiles(directoryPath, "*.txt", SearchOption.AllDirectories))
         {
+            var fi = new FileInfo(filePath);
             var fileContent = File.ReadAllText(filePath);
             var matches = Regex.Matches(fileContent, @"Write\(""(.*?)""\);");
 
@@ -22,7 +23,7 @@ public class ScenarioTrans
                     var text = match.Groups[1].Value; // 获取Write函数中的字符串参数
                     jsonList.Add(new Dictionary<string, object>
                     {
-                        { "key", text },
+                        { "key", $"{fi.Name}.{text}" },
                         { "original", text },
                         { "translation", text },
                         { "context", null }

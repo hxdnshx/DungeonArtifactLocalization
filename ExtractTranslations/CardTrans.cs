@@ -16,6 +16,7 @@ public static class CardTrans
         foreach (var filePath in Directory.GetFiles(directoryPath, "*.xml", SearchOption.AllDirectories))
         {
             FileInfo fi = new FileInfo(filePath);
+            var parentName = fi.Directory.Name;
             var doc = XDocument.Load(filePath);
             var mainClass = doc.Root.Element("mainClass")?.Value;
             var name = doc.Root.Element("name")?.Value;
@@ -25,7 +26,7 @@ public static class CardTrans
             {
                 translations.Add(new Dictionary<string, object>
                 {
-                    { "key", $"{fi.Name}.name" },
+                    { "key", $"{parentName}.{fi.Name}.name" },
                     { "original", name },
                     { "translation", name },
                     { "context", null }
@@ -33,7 +34,7 @@ public static class CardTrans
 
                 translations.Add(new Dictionary<string, object>
                 {
-                    { "key", $"{fi.Name}.context" },
+                    { "key", $"{parentName}.{fi.Name}.context" },
                     { "original", context },
                     { "translation", context },
                     { "context", null }
