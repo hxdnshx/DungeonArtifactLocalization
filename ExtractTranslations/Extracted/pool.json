@@ -1,0 +1,86 @@
+[
+  {
+    "key": "0.pool.title",
+    "original": "スタンダード",
+    "translation": "スタンダード",
+    "context": null
+  },
+  {
+    "key": "0.pool.context",
+    "original": "基礎的な魔法群。",
+    "translation": "基礎的な魔法群。",
+    "context": null
+  },
+  {
+    "key": "1.pool.title",
+    "original": "リディア:拡張セット1",
+    "translation": "リディア:拡張セット1",
+    "context": null
+  },
+  {
+    "key": "1.pool.context",
+    "original": "コストがXである魔法。魔力を注ぎ込むほど強大な力となる。",
+    "translation": "コストがXである魔法。魔力を注ぎ込むほど強大な力となる。",
+    "context": null
+  },
+  {
+    "key": "2.pool.title",
+    "original": "スミルナ:拡張セット1",
+    "translation": "スミルナ:拡張セット1",
+    "context": null
+  },
+  {
+    "key": "2.pool.context",
+    "original": "カードがフィールドに置かれたときに発動する能力",
+    "translation": "カードがフィールドに置かれたときに発動する能力",
+    "context": null
+  },
+  {
+    "key": "3.pool.title",
+    "original": "リディア:拡張セット2",
+    "translation": "リディア:拡張セット2",
+    "context": null
+  },
+  {
+    "key": "3.pool.context",
+    "original": "最大MPを増加させる。",
+    "translation": "最大MPを増加させる。",
+    "context": null
+  },
+  {
+    "key": "4.pool.title",
+    "original": "スミルナ:拡張セット2",
+    "translation": "スミルナ:拡張セット2",
+    "context": null
+  },
+  {
+    "key": "4.pool.context",
+    "original": "カードがフィールドに置かれたときに発動する能力",
+    "translation": "カードがフィールドに置かれたときに発動する能力",
+    "context": null
+  },
+  {
+    "key": "5.pool.title",
+    "original": "リディア:拡張セット3",
+    "translation": "リディア:拡張セット3",
+    "context": null
+  },
+  {
+    "key": "5.pool.context",
+    "original": "元々のコストが大きい魔法",
+    "translation": "元々のコストが大きい魔法",
+    "context": null
+  },
+  {
+    "key": "6.pool.title",
+    "original": "スミルナ:拡張セット3",
+    "translation": "スミルナ:拡張セット3",
+    "context": null
+  },
+  {
+    "key": "6.pool.context",
+    "original": "敵の魔法を妨害",
+    "translation": "敵の魔法を妨害",
+    "context": null
+  }
+]

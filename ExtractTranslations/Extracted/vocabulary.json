@@ -1,0 +1,1034 @@
+[
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキ外からデッキに追加",
+    "original": "{0}{1}を_デッキ外からデッキに追加",
+    "translation": "{0}{1}を_デッキ外からデッキに追加",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキ外から手札に追加",
+    "original": "{0}{1}を_デッキ外から手札に追加",
+    "translation": "{0}{1}を_デッキ外から手札に追加",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキ外からフィールドに追加",
+    "original": "{0}{1}を_デッキ外からフィールドに追加",
+    "translation": "{0}{1}を_デッキ外からフィールドに追加",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキ外から墓地に追加",
+    "original": "{0}{1}を_デッキ外から墓地に追加",
+    "translation": "{0}{1}を_デッキ外から墓地に追加",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキ外から除外領域に追加",
+    "original": "{0}{1}を_デッキ外から除外領域に追加",
+    "translation": "{0}{1}を_デッキ外から除外領域に追加",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキ外からスタックに置く",
+    "original": "{0}{1}を_デッキ外からスタックに置く",
+    "translation": "{0}{1}を_デッキ外からスタックに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキから削除",
+    "original": "{0}{1}を_デッキから削除",
+    "translation": "{0}{1}を_デッキから削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキから手札に加える",
+    "original": "{0}{1}を_デッキから手札に加える",
+    "translation": "{0}{1}を_デッキから手札に加える",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキからフィールドに置く",
+    "original": "{0}{1}を_デッキからフィールドに置く",
+    "translation": "{0}{1}を_デッキからフィールドに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキから墓地に送る",
+    "original": "{0}{1}を_デッキから墓地に送る",
+    "translation": "{0}{1}を_デッキから墓地に送る",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキから除外する",
+    "original": "{0}{1}を_デッキから除外する",
+    "translation": "{0}{1}を_デッキから除外する",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_デッキからスタックに置く",
+    "original": "{0}{1}を_デッキからスタックに置く",
+    "translation": "{0}{1}を_デッキからスタックに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_手札から削除",
+    "original": "{0}{1}を_手札から削除",
+    "translation": "{0}{1}を_手札から削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_手札からデッキに戻す",
+    "original": "{0}{1}を_手札からデッキに戻す",
+    "translation": "{0}{1}を_手札からデッキに戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_手札からフィールドに置く",
+    "original": "{0}{1}を_手札からフィールドに置く",
+    "translation": "{0}{1}を_手札からフィールドに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_手札から墓地に送る",
+    "original": "{0}{1}を_手札から墓地に送る",
+    "translation": "{0}{1}を_手札から墓地に送る",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_手札から除外する",
+    "original": "{0}{1}を_手札から除外する",
+    "translation": "{0}{1}を_手札から除外する",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_手札からスタックに置く",
+    "original": "{0}{1}を_手札からスタックに置く",
+    "translation": "{0}{1}を_手札からスタックに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_フィールドから削除",
+    "original": "{0}{1}を_フィールドから削除",
+    "translation": "{0}{1}を_フィールドから削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_フィールドからデッキに戻す",
+    "original": "{0}{1}を_フィールドからデッキに戻す",
+    "translation": "{0}{1}を_フィールドからデッキに戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_フィールドから手札に戻す",
+    "original": "{0}{1}を_フィールドから手札に戻す",
+    "translation": "{0}{1}を_フィールドから手札に戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_フィールドから墓地に送る",
+    "original": "{0}{1}を_フィールドから墓地に送る",
+    "translation": "{0}{1}を_フィールドから墓地に送る",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_フィールドから除外する",
+    "original": "{0}{1}を_フィールドから除外する",
+    "translation": "{0}{1}を_フィールドから除外する",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_フィールドからスタックに置く",
+    "original": "{0}{1}を_フィールドからスタックに置く",
+    "translation": "{0}{1}を_フィールドからスタックに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_墓地から削除",
+    "original": "{0}{1}を_墓地から削除",
+    "translation": "{0}{1}を_墓地から削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_墓地からデッキに戻す",
+    "original": "{0}{1}を_墓地からデッキに戻す",
+    "translation": "{0}{1}を_墓地からデッキに戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_墓地から手札に戻す",
+    "original": "{0}{1}を_墓地から手札に戻す",
+    "translation": "{0}{1}を_墓地から手札に戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_墓地からフィールドに置く",
+    "original": "{0}{1}を_墓地からフィールドに置く",
+    "translation": "{0}{1}を_墓地からフィールドに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_墓地から除外する",
+    "original": "{0}{1}を_墓地から除外する",
+    "translation": "{0}{1}を_墓地から除外する",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_墓地からスタックに置く",
+    "original": "{0}{1}を_墓地からスタックに置く",
+    "translation": "{0}{1}を_墓地からスタックに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_除外領域から削除",
+    "original": "{0}{1}を_除外領域から削除",
+    "translation": "{0}{1}を_除外領域から削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_除外領域からデッキに戻す",
+    "original": "{0}{1}を_除外領域からデッキに戻す",
+    "translation": "{0}{1}を_除外領域からデッキに戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_除外領域から手札に戻す",
+    "original": "{0}{1}を_除外領域から手札に戻す",
+    "translation": "{0}{1}を_除外領域から手札に戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_除外領域からフィールドに置く",
+    "original": "{0}{1}を_除外領域からフィールドに置く",
+    "translation": "{0}{1}を_除外領域からフィールドに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_除外領域から墓地に戻す",
+    "original": "{0}{1}を_除外領域から墓地に戻す",
+    "translation": "{0}{1}を_除外領域から墓地に戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_除外領域からスタックに置く",
+    "original": "{0}{1}を_除外領域からスタックに置く",
+    "translation": "{0}{1}を_除外領域からスタックに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_スタックから削除",
+    "original": "{0}{1}を_スタックから削除",
+    "translation": "{0}{1}を_スタックから削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_スタックからデッキに戻す",
+    "original": "{0}{1}を_スタックからデッキに戻す",
+    "translation": "{0}{1}を_スタックからデッキに戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_スタックから手札に戻す",
+    "original": "{0}{1}を_スタックから手札に戻す",
+    "translation": "{0}{1}を_スタックから手札に戻す",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_スタックからフィールドに置く",
+    "original": "{0}{1}を_スタックからフィールドに置く",
+    "translation": "{0}{1}を_スタックからフィールドに置く",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_スタックから墓地に送る",
+    "original": "{0}{1}を_スタックから墓地に送る",
+    "translation": "{0}{1}を_スタックから墓地に送る",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_スタックから除外する",
+    "original": "{0}{1}を_スタックから除外する",
+    "translation": "{0}{1}を_スタックから除外する",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/stringinvalid",
+    "original": "invalid",
+    "translation": "invalid",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を{2}_減少",
+    "original": "{0}{1}を{2}_減少",
+    "translation": "{0}{1}を{2}_減少",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を{2}_増加",
+    "original": "{0}{1}を{2}_増加",
+    "translation": "{0}{1}を{2}_増加",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}に{2}{1}発生させた",
+    "original": "{0}に{2}{1}発生させた",
+    "translation": "{0}に{2}{1}発生させた",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}に{2}{1}与えた",
+    "original": "{0}に{2}{1}与えた",
+    "translation": "{0}に{2}{1}与えた",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}の開始直前",
+    "original": "{0}{1}の開始直前",
+    "translation": "{0}{1}の開始直前",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を開始",
+    "original": "{0}{1}を開始",
+    "translation": "{0}{1}を開始",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を終了",
+    "original": "{0}{1}を終了",
+    "translation": "{0}{1}を終了",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_移動",
+    "original": "{0}{1}を_移動",
+    "translation": "{0}{1}を_移動",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_無効化",
+    "original": "{0}{1}を_無効化",
+    "translation": "{0}{1}を_無効化",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}は_無効化された",
+    "original": "{0}{1}は_無効化された",
+    "translation": "{0}{1}は_無効化された",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_倒した",
+    "original": "{0}{1}を_倒した",
+    "translation": "{0}{1}を_倒した",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_削除した",
+    "original": "{0}{1}を_削除した",
+    "translation": "{0}{1}を_削除した",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_破壊した",
+    "original": "{0}{1}を_破壊した",
+    "translation": "{0}{1}を_破壊した",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を_発動",
+    "original": "{0}{1}を_発動",
+    "translation": "{0}{1}を_発動",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}の能力を適用",
+    "original": "{0}{1}の能力を適用",
+    "translation": "{0}{1}の能力を適用",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}の能力をコピー",
+    "original": "{0}{1}の能力をコピー",
+    "translation": "{0}{1}の能力をコピー",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}の発動を終了",
+    "original": "{0}{1}の発動を終了",
+    "translation": "{0}{1}の発動を終了",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}デッキをシャッフル",
+    "original": "{0}{1}デッキをシャッフル",
+    "translation": "{0}{1}デッキをシャッフル",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を選択",
+    "original": "{0}{1}を選択",
+    "translation": "{0}{1}を選択",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/varb/string{0}{1}を生成",
+    "original": "{0}{1}を生成",
+    "translation": "{0}{1}を生成",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/auxiliary/stringerror",
+    "original": "error",
+    "translation": "error",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/auxiliary/string{0}{1}を{2}払う",
+    "original": "{0}{1}を{2}払う",
+    "translation": "{0}{1}を{2}払う",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/auxiliary/string{0}{1}を{2}回復",
+    "original": "{0}{1}を{2}回復",
+    "translation": "{0}{1}を{2}回復",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/auxiliary/string{0}{1}を{2}ドロー",
+    "original": "{0}{1}を{2}ドロー",
+    "translation": "{0}{1}を{2}ドロー",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringHP",
+    "original": "HP",
+    "translation": "HP",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/string最大HP",
+    "original": "最大HP",
+    "translation": "最大HP",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringMP",
+    "original": "MP",
+    "translation": "MP",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/string最大MP",
+    "original": "最大MP",
+    "translation": "最大MP",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringバリア",
+    "original": "バリア",
+    "translation": "バリア",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/string位置",
+    "original": "位置",
+    "translation": "位置",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringカード",
+    "original": "カード",
+    "translation": "カード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringエンチャント",
+    "original": "エンチャント",
+    "translation": "エンチャント",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/string能力",
+    "original": "能力",
+    "translation": "能力",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringターン",
+    "original": "ターン",
+    "translation": "ターン",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/string",
+    "original": "",
+    "translation": "",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringダメージ",
+    "original": "ダメージ",
+    "translation": "ダメージ",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/possessive/stringバトル",
+    "original": "バトル",
+    "translation": "バトル",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subject/stringルール",
+    "original": "ルール",
+    "translation": "ルール",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subject/stringコスト",
+    "original": "コスト",
+    "translation": "コスト",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subject/string能力",
+    "original": "能力",
+    "translation": "能力",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subject/stringError",
+    "original": "Error",
+    "translation": "Error",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subjectExp/stringルールによる処理",
+    "original": "ルールによる処理",
+    "translation": "ルールによる処理",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subjectExp/stringカードの発動コスト",
+    "original": "カードの発動コスト",
+    "translation": "カードの発動コスト",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subjectExp/stringカードの能力",
+    "original": "カードの能力",
+    "translation": "カードの能力",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/subjectExp/stringシステムメッセージ",
+    "original": "システムメッセージ",
+    "translation": "システムメッセージ",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/stringデッキ外",
+    "original": "デッキ外",
+    "translation": "デッキ外",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/stringデッキ",
+    "original": "デッキ",
+    "translation": "デッキ",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/string手札",
+    "original": "手札",
+    "translation": "手札",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/stringフィールド",
+    "original": "フィールド",
+    "translation": "フィールド",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/string墓地",
+    "original": "墓地",
+    "translation": "墓地",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/string除外領域",
+    "original": "除外領域",
+    "translation": "除外領域",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/stringスタック",
+    "original": "スタック",
+    "translation": "スタック",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/stringアーティファクト",
+    "original": "アーティファクト",
+    "translation": "アーティファクト",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/place/stringアイテムゾーン",
+    "original": "アイテムゾーン",
+    "translation": "アイテムゾーン",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/string敵マス",
+    "original": "敵マス",
+    "translation": "敵マス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringエリートマス",
+    "original": "エリートマス",
+    "translation": "エリートマス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringボスマス",
+    "original": "ボスマス",
+    "translation": "ボスマス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringボスマス",
+    "original": "ボスマス",
+    "translation": "ボスマス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/string宝箱マス",
+    "original": "宝箱マス",
+    "translation": "宝箱マス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/string回復マス",
+    "original": "回復マス",
+    "translation": "回復マス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringカードマス",
+    "original": "カードマス",
+    "translation": "カードマス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringストーリーマス",
+    "original": "ストーリーマス",
+    "translation": "ストーリーマス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringスタートマス",
+    "original": "スタートマス",
+    "translation": "スタートマス",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/string終点",
+    "original": "終点",
+    "translation": "終点",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/attribute/stringError",
+    "original": "Error",
+    "translation": "Error",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/cardType/stringアクティブカード",
+    "original": "アクティブカード",
+    "translation": "アクティブカード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/cardType/stringパーマネントカード",
+    "original": "パーマネントカード",
+    "translation": "パーマネントカード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/cardType/stringカウンターカード",
+    "original": "カウンターカード",
+    "translation": "カウンターカード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/cardType/stringアーティファクトカード",
+    "original": "アーティファクトカード",
+    "translation": "アーティファクトカード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/cardType/stringアイテムカード",
+    "original": "アイテムカード",
+    "translation": "アイテムカード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/cardType/stringエンチャント",
+    "original": "エンチャント",
+    "translation": "エンチャント",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string[トリガー]",
+    "original": "[トリガー]",
+    "translation": "[トリガー]",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string[パーマネント]",
+    "original": "[パーマネント]",
+    "translation": "[パーマネント]",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringカウントダウン",
+    "original": "カウントダウン",
+    "translation": "カウントダウン",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringX",
+    "original": "X",
+    "translation": "X",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringノックバック",
+    "original": "ノックバック",
+    "translation": "ノックバック",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string[コスト]",
+    "original": "[コスト]",
+    "translation": "[コスト]",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string廃棄",
+    "original": "廃棄",
+    "translation": "廃棄",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string天賦",
+    "original": "天賦",
+    "translation": "天賦",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string削除",
+    "original": "削除",
+    "translation": "削除",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string生成",
+    "original": "生成",
+    "translation": "生成",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringマルチキッカー",
+    "original": "マルチキッカー",
+    "translation": "マルチキッカー",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringキッカー",
+    "original": "キッカー",
+    "translation": "キッカー",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string破壊",
+    "original": "破壊",
+    "translation": "破壊",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string無効化",
+    "original": "無効化",
+    "translation": "無効化",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringスタック",
+    "original": "スタック",
+    "translation": "スタック",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringチェーン",
+    "original": "チェーン",
+    "translation": "チェーン",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string刹那",
+    "original": "刹那",
+    "translation": "刹那",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringクールダウン",
+    "original": "クールダウン",
+    "translation": "クールダウン",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string保留",
+    "original": "保留",
+    "translation": "保留",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringコピー",
+    "original": "コピー",
+    "translation": "コピー",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string[アクティベート]",
+    "original": "[アクティベート]",
+    "translation": "[アクティベート]",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/string[プレイ]",
+    "original": "[プレイ]",
+    "translation": "[プレイ]",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWords/stringノックバック",
+    "original": "ノックバック",
+    "translation": "ノックバック",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string[トリガー]に続くテキストは、何らかのイベントに反応して発動する能力であることを表す。",
+    "original": "[トリガー]に続くテキストは、何らかのイベントに反応して発動する能力であることを表す。",
+    "translation": "[トリガー]に続くテキストは、何らかのイベントに反応して発動する能力であることを表す。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string「このカードが自分のフィールドに存在する限り、」と同様の意味を持つ。",
+    "original": "「このカードが自分のフィールドに存在する限り、」と同様の意味を持つ。",
+    "translation": "「このカードが自分のフィールドに存在する限り、」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string(カウントダウン:N)と表記される。「フィールドのこのカードはN回目の自分ターン終了時に破壊される。」と同様の意味を持つ。",
+    "original": "(カウントダウン:N)と表記される。「フィールドのこのカードはN回目の自分ターン終了時に破壊される。」と同様の意味を持つ。",
+    "translation": "(カウントダウン:N)と表記される。「フィールドのこのカードはN回目の自分ターン終了時に破壊される。」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/stringXは能力で設定、変更可能な値。任意に決定できるものや、何らかの値を参照するものなどが存在する。",
+    "original": "Xは能力で設定、変更可能な値。任意に決定できるものや、何らかの値を参照するものなどが存在する。",
+    "translation": "Xは能力で設定、変更可能な値。任意に決定できるものや、何らかの値を参照するものなどが存在する。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string敵を移動させる能力である。自分から離れるような方向に移動させる。",
+    "original": "敵を移動させる能力である。自分から離れるような方向に移動させる。",
+    "translation": "敵を移動させる能力である。自分から離れるような方向に移動させる。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string[コスト]に続くテキストは、MPコストとは別に要求するコストを表す。",
+    "original": "[コスト]に続くテキストは、MPコストとは別に要求するコストを表す。",
+    "translation": "[コスト]に続くテキストは、MPコストとは別に要求するコストを表す。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string廃棄を持つカードは発動後に墓地に行かず除外領域に送られる。",
+    "original": "廃棄を持つカードは発動後に墓地に行かず除外領域に送られる。",
+    "translation": "廃棄を持つカードは発動後に墓地に行かず除外領域に送られる。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string天賦を持つカードはバトル開始時の手札に必ず入る。「[トリガー]バトル開始時に発動する。デッキからこのカードを手札に加える。」と同様の意味を持つ。",
+    "original": "天賦を持つカードはバトル開始時の手札に必ず入る。「[トリガー]バトル開始時に発動する。デッキからこのカードを手札に加える。」と同様の意味を持つ。",
+    "translation": "天賦を持つカードはバトル開始時の手札に必ず入る。「[トリガー]バトル開始時に発動する。デッキからこのカードを手札に加える。」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/stringデッキから完全に取り除くことを意味する。",
+    "original": "デッキから完全に取り除くことを意味する。",
+    "translation": "デッキから完全に取り除くことを意味する。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string対象のカードを新しく生み出す。生成したカードは外部から加わり、バトル終了時にデッキから完全に取り除かれる。",
+    "original": "対象のカードを新しく生み出す。生成したカードは外部から加わり、バトル終了時にデッキから完全に取り除かれる。",
+    "translation": "対象のカードを新しく生み出す。生成したカードは外部から加わり、バトル終了時にデッキから完全に取り除かれる。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string(マルチキッカー:N)と表記される。MPを数字分払う回数によって能力が強力になる。「このカードは発動時に追加MPコストNを任意の回数払うことができる。そうした場合、以下の能力をN回適用する。」と同様の意味を持つ。",
+    "original": "(マルチキッカー:N)と表記される。MPを数字分払う回数によって能力が強力になる。「このカードは発動時に追加MPコストNを任意の回数払うことができる。そうした場合、以下の能力をN回適用する。」と同様の意味を持つ。",
+    "translation": "(マルチキッカー:N)と表記される。MPを数字分払う回数によって能力が強力になる。「このカードは発動時に追加MPコストNを任意の回数払うことができる。そうした場合、以下の能力をN回適用する。」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string(キッカー:N)と表記される。MPを数字分払った場合に能力が強力になる。「このカードは発動時に追加MPコストNを払う。そうした場合、以下の能力を適用する。」と同様の意味を持つ。",
+    "original": "(キッカー:N)と表記される。MPを数字分払った場合に能力が強力になる。「このカードは発動時に追加MPコストNを払う。そうした場合、以下の能力を適用する。」と同様の意味を持つ。",
+    "translation": "(キッカー:N)と表記される。MPを数字分払った場合に能力が強力になる。「このカードは発動時に追加MPコストNを払う。そうした場合、以下の能力を適用する。」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string破壊されたカードは墓地に送られる。手札、デッキ、フィールドのカード以外は破壊できない。",
+    "original": "破壊されたカードは墓地に送られる。手札、デッキ、フィールドのカード以外は破壊できない。",
+    "translation": "破壊されたカードは墓地に送られる。手札、デッキ、フィールドのカード以外は破壊できない。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string無効化されたカード・能力はスタックから墓地に送られ、能力が適用されない。",
+    "original": "無効化されたカード・能力はスタックから墓地に送られ、能力が適用されない。",
+    "translation": "無効化されたカード・能力はスタックから墓地に送られ、能力が適用されない。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string全プレイヤー共通のカード領域。手札から発動したカードはスタックに置かれ、発動後にスタックから墓地に送られる。",
+    "original": "全プレイヤー共通のカード領域。手札から発動したカードはスタックに置かれ、発動後にスタックから墓地に送られる。",
+    "translation": "全プレイヤー共通のカード領域。手札から発動したカードはスタックに置かれ、発動後にスタックから墓地に送られる。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string一度に複数回の能力を発動した時の解決手法。最後に発動したものから順に能力を適用していく。",
+    "original": "一度に複数回の能力を発動した時の解決手法。最後に発動したものから順に能力を適用していく。",
+    "translation": "一度に複数回の能力を発動した時の解決手法。最後に発動したものから順に能力を適用していく。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string(刹那:N)と表記される。「このカードの発動時にこのカードのMPコストを-Nできる。そうした場合このカードは発動後墓地に送られる。」と同様の意味を持つ。",
+    "original": "(刹那:N)と表記される。「このカードの発動時にこのカードのMPコストを-Nできる。そうした場合このカードは発動後墓地に送られる。」と同様の意味を持つ。",
+    "translation": "(刹那:N)と表記される。「このカードの発動時にこのカードのMPコストを-Nできる。そうした場合このカードは発動後墓地に送られる。」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/stringクールダウンを持つカードは、同じ名前のカードを1ターンに1度しか発動できない。「このカードまたはこのカードの同名カードを発動した場合、このカードはターン終了時まで発動できない。」と同様の意味を持つ。",
+    "original": "クールダウンを持つカードは、同じ名前のカードを1ターンに1度しか発動できない。「このカードまたはこのカードの同名カードを発動した場合、このカードはターン終了時まで発動できない。」と同様の意味を持つ。",
+    "translation": "クールダウンを持つカードは、同じ名前のカードを1ターンに1度しか発動できない。「このカードまたはこのカードの同名カードを発動した場合、このカードはターン終了時まで発動できない。」と同様の意味を持つ。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string保留を持つカードはターン開始時の手札交換で墓地に送られず、そのまま手札に残る。",
+    "original": "保留を持つカードはターン開始時の手札交換で墓地に送られず、そのまま手札に残る。",
+    "translation": "保留を持つカードはターン開始時の手札交換で墓地に送られず、そのまま手札に残る。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/stringコピーした場合、対象のカードの能力を複製し、それをコストを支払わずに発動する。コピーしたカードはスタックとフィールドにしか存在できず、他の領域に移動すると削除される。",
+    "original": "コピーした場合、対象のカードの能力を複製し、それをコストを支払わずに発動する。コピーしたカードはスタックとフィールドにしか存在できず、他の領域に移動すると削除される。",
+    "translation": "コピーした場合、対象のカードの能力を複製し、それをコストを支払わずに発動する。コピーしたカードはスタックとフィールドにしか存在できず、他の領域に移動すると削除される。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string[アクティベート]に続くテキストは、好きなタイミングで起動できる能力である。条件を満たしているなら手札の隣に表示される。",
+    "original": "[アクティベート]に続くテキストは、好きなタイミングで起動できる能力である。条件を満たしているなら手札の隣に表示される。",
+    "translation": "[アクティベート]に続くテキストは、好きなタイミングで起動できる能力である。条件を満たしているなら手札の隣に表示される。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/keyWordsExp/string[プレイ]に続くテキストは、カードを発動して適用される能力を表す。通常、このテキストは省略されている。",
+    "original": "[プレイ]に続くテキストは、カードを発動して適用される能力を表す。通常、このテキストは省略されている。",
+    "translation": "[プレイ]に続くテキストは、カードを発動して適用される能力を表す。通常、このテキストは省略されている。",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/string初期カード",
+    "original": "初期カード",
+    "translation": "初期カード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/string宝箱の報酬カード",
+    "original": "宝箱の報酬カード",
+    "translation": "宝箱の報酬カード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/string敵専用カード(入手不可)",
+    "original": "敵専用カード(入手不可)",
+    "translation": "敵専用カード(入手不可)",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/stringエリートの報酬カード",
+    "original": "エリートの報酬カード",
+    "translation": "エリートの報酬カード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/stringボスの報酬カード",
+    "original": "ボスの報酬カード",
+    "translation": "ボスの報酬カード",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/stringカード能力でのみ入手可能",
+    "original": "カード能力でのみ入手可能",
+    "translation": "カード能力でのみ入手可能",
+    "context": null
+  },
+  {
+    "key": "/VocabularyXml/categories/stringクリア時の報酬カード",
+    "original": "クリア時の報酬カード",
+    "translation": "クリア時の報酬カード",
+    "context": null
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "key": "0.xml.name",
+    "original": "強化",
+    "translation": "強化",
+    "context": null
+  },
+  {
+    "key": "0.xml.context",
+    "original": "自分が敵に与えるダメージを{0}する。",
+    "translation": "自分が敵に与えるダメージを{0}する。",
+    "context": null
+  },
+  {
+    "key": "1.xml.name",
+    "original": "毒",
+    "translation": "毒",
+    "context": null
+  },
+  {
+    "key": "1.xml.context",
+    "original": "自分のターンを開始する毎に、HPが{0}減少する。その後毒の値を1減らす。",
+    "translation": "自分のターンを開始する毎に、HPが{0}減少する。その後毒の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "10.xml.name",
+    "original": "燃焼",
+    "translation": "燃焼",
+    "context": null
+  },
+  {
+    "key": "10.xml.context",
+    "original": "自分のターンを終了する毎に、自分は{0}ダメージを受ける。その後燃焼の値を1減らす。",
+    "translation": "自分のターンを終了する毎に、自分は{0}ダメージを受ける。その後燃焼の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "11.xml.name",
+    "original": "知力",
+    "translation": "知力",
+    "context": null
+  },
+  {
+    "key": "11.xml.context",
+    "original": "自分のターン開始時のドロー枚数を{0}する。",
+    "translation": "自分のターン開始時のドロー枚数を{0}する。",
+    "context": null
+  },
+  {
+    "key": "12.xml.name",
+    "original": "棘",
+    "translation": "棘",
+    "context": null
+  },
+  {
+    "key": "12.xml.context",
+    "original": "カードによって自分にダメージが発生する毎に、そのダメージを与えた敵に{0}ダメージを与える。",
+    "translation": "カードによって自分にダメージが発生する毎に、そのダメージを与えた敵に{0}ダメージを与える。",
+    "context": null
+  },
+  {
+    "key": "13.xml.name",
+    "original": "軽減",
+    "translation": "軽減",
+    "context": null
+  },
+  {
+    "key": "13.xml.context",
+    "original": "自分の受けるダメージが-{0}される。",
+    "translation": "自分の受けるダメージが-{0}される。",
+    "context": null
+  },
+  {
+    "key": "14.xml.name",
+    "original": "激昂",
+    "translation": "激昂",
+    "context": null
+  },
+  {
+    "key": "14.xml.context",
+    "original": "自分が敵に与えるダメージを1.5倍する。自分のターンを開始する毎に、激昂の値を1減らす。",
+    "translation": "自分が敵に与えるダメージを1.5倍する。自分のターンを開始する毎に、激昂の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "15.xml.name",
+    "original": "頭痛",
+    "translation": "頭痛",
+    "context": null
+  },
+  {
+    "key": "15.xml.context",
+    "original": "自分は能力でドローする毎に{0}のダメージを受ける。",
+    "translation": "自分は能力でドローする毎に{0}のダメージを受ける。",
+    "context": null
+  },
+  {
+    "key": "16.xml.name",
+    "original": "呪縛",
+    "translation": "呪縛",
+    "context": null
+  },
+  {
+    "key": "16.xml.context",
+    "original": "自分は移動ができない。自分のターンを終了時に、呪縛の値を1減らす。",
+    "translation": "自分は移動ができない。自分のターンを終了時に、呪縛の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "17.xml.name",
+    "original": "麻痺",
+    "translation": "麻痺",
+    "context": null
+  },
+  {
+    "key": "17.xml.context",
+    "original": "自分は移動する毎にHPが{0}減少する。",
+    "translation": "自分は移動する毎にHPが{0}減少する。",
+    "context": null
+  },
+  {
+    "key": "18.xml.name",
+    "original": "蓄積",
+    "translation": "蓄積",
+    "context": null
+  },
+  {
+    "key": "18.xml.context",
+    "original": "蓄積10につき、自分が敵に与えるダメージが100％増加する。",
+    "translation": "蓄積10につき、自分が敵に与えるダメージが100％増加する。",
+    "context": null
+  },
+  {
+    "key": "19.xml.name",
+    "original": "保管",
+    "translation": "保管",
+    "context": null
+  },
+  {
+    "key": "19.xml.context",
+    "original": "自分のターン開始時に、MPを{0}回復し、保管の値を0にする。",
+    "translation": "自分のターン開始時に、MPを{0}回復し、保管の値を0にする。",
+    "context": null
+  },
+  {
+    "key": "2.xml.name",
+    "original": "堅牢",
+    "translation": "堅牢",
+    "context": null
+  },
+  {
+    "key": "2.xml.context",
+    "original": "自分の得るバリアの値を{0}する。",
+    "translation": "自分の得るバリアの値を{0}する。",
+    "context": null
+  },
+  {
+    "key": "20.xml.name",
+    "original": "進化",
+    "translation": "進化",
+    "context": null
+  },
+  {
+    "key": "20.xml.context",
+    "original": "自分のターン開始時に、MP最大値を{0}する。",
+    "translation": "自分のターン開始時に、MP最大値を{0}する。",
+    "context": null
+  },
+  {
+    "key": "3.xml.name",
+    "original": "軽量化",
+    "translation": "軽量化",
+    "context": null
+  },
+  {
+    "key": "3.xml.context",
+    "original": "元々のコストが5以上のカードのコストを-{0}する。",
+    "translation": "元々のコストが5以上のカードのコストを-{0}する。",
+    "context": null
+  },
+  {
+    "key": "4.xml.name",
+    "original": "負傷",
+    "translation": "負傷",
+    "context": null
+  },
+  {
+    "key": "4.xml.context",
+    "original": "自分の受けるダメージが+{0}される。",
+    "translation": "自分の受けるダメージが+{0}される。",
+    "context": null
+  },
+  {
+    "key": "5.xml.name",
+    "original": "金剛",
+    "translation": "金剛",
+    "context": null
+  },
+  {
+    "key": "5.xml.context",
+    "original": "自分の受けるダメージを半分にする。自分のターンを開始する毎に、金剛の値を1減らす。",
+    "translation": "自分の受けるダメージを半分にする。自分のターンを開始する毎に、金剛の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "6.xml.name",
+    "original": "霊体化",
+    "translation": "霊体化",
+    "context": null
+  },
+  {
+    "key": "6.xml.context",
+    "original": "自分の受けるダメージを1にする。自分のターンを開始する毎に、霊体化の値を1減らす。",
+    "translation": "自分の受けるダメージを1にする。自分のターンを開始する毎に、霊体化の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "7.xml.name",
+    "original": "加護",
+    "translation": "加護",
+    "context": null
+  },
+  {
+    "key": "7.xml.context",
+    "original": "自分のターンを終了する毎に、バリアを{0}得る。その後加護の値を1減らす。",
+    "translation": "自分のターンを終了する毎に、バリアを{0}得る。その後加護の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "8.xml.name",
+    "original": "再生",
+    "translation": "再生",
+    "context": null
+  },
+  {
+    "key": "8.xml.context",
+    "original": "自分のターンを終了する毎に、HPを{0}回復する。その後再生の値を1減らす。",
+    "translation": "自分のターンを終了する毎に、HPを{0}回復する。その後再生の値を1減らす。",
+    "context": null
+  },
+  {
+    "key": "9.xml.name",
+    "original": "妨害",
+    "translation": "妨害",
+    "context": null
+  },
+  {
+    "key": "9.xml.context",
+    "original": "自分はカードをプレイする毎に{0}ダメージを受ける。",
+    "translation": "自分はカードをプレイする毎に{0}ダメージを受ける。",
+    "context": null
+  }
+]
