@@ -1,0 +1,170 @@
+[
+  {
+    "key": "Character.lydia.xml.name",
+    "original": "リディア",
+    "translation": "リディア",
+    "context": null
+  },
+  {
+    "key": "Character.lydia.xml.discription",
+    "original": "カードのコストを下げることが得意。己を強化し、強大な魔法で敵を薙ぎ払う。",
+    "translation": "カードのコストを下げることが得意。己を強化し、強大な魔法で敵を薙ぎ払う。",
+    "context": null
+  },
+  {
+    "key": "Character.smyrna.xml.name",
+    "original": "スミルナ",
+    "translation": "スミルナ",
+    "context": null
+  },
+  {
+    "key": "Character.smyrna.xml.discription",
+    "original": "カードのドロー、ディスカード戦術が可能。魔力を蓄積し、遠距離攻撃を放つ。",
+    "translation": "カードのドロー、ディスカード戦術が可能。魔力を蓄積し、遠距離攻撃を放つ。",
+    "context": null
+  },
+  {
+    "key": "Entity.battery.xml.name",
+    "original": "バッテリー",
+    "translation": "バッテリー",
+    "context": null
+  },
+  {
+    "key": "Entity.butterfly.xml.name",
+    "original": "バタフライ",
+    "translation": "バタフライ",
+    "context": null
+  },
+  {
+    "key": "Entity.curcular.xml.name",
+    "original": "サーキュラー",
+    "translation": "サーキュラー",
+    "context": null
+  },
+  {
+    "key": "Entity.diviner.xml.name",
+    "original": "ディバイナー",
+    "translation": "ディバイナー",
+    "context": null
+  },
+  {
+    "key": "Entity.dragon.xml.name",
+    "original": "ドラゴン",
+    "translation": "ドラゴン",
+    "context": null
+  },
+  {
+    "key": "Entity.embryo.xml.name",
+    "original": "エンブリオ",
+    "translation": "エンブリオ",
+    "context": null
+  },
+  {
+    "key": "Entity.enchanter.xml.name",
+    "original": "エンチャンター",
+    "translation": "エンチャンター",
+    "context": null
+  },
+  {
+    "key": "Entity.fortress.xml.name",
+    "original": "フォートレス",
+    "translation": "フォートレス",
+    "context": null
+  },
+  {
+    "key": "Entity.galaxy.xml.name",
+    "original": "ギャラクシー",
+    "translation": "ギャラクシー",
+    "context": null
+  },
+  {
+    "key": "Entity.grasper.xml.name",
+    "original": "グラスパー",
+    "translation": "グラスパー",
+    "context": null
+  },
+  {
+    "key": "Entity.helix.xml.name",
+    "original": "ヘリックス",
+    "translation": "ヘリックス",
+    "context": null
+  },
+  {
+    "key": "Entity.hydra.xml.name",
+    "original": "ヒュドラ",
+    "translation": "ヒュドラ",
+    "context": null
+  },
+  {
+    "key": "Entity.leviathan.xml.name",
+    "original": "リバイアサン",
+    "translation": "リバイアサン",
+    "context": null
+  },
+  {
+    "key": "Entity.nebula.xml.name",
+    "original": "ネビュラ",
+    "translation": "ネビュラ",
+    "context": null
+  },
+  {
+    "key": "Entity.oldguarder.xml.name",
+    "original": "オールドガーダー",
+    "translation": "オールドガーダー",
+    "context": null
+  },
+  {
+    "key": "Entity.phage.xml.name",
+    "original": "ファージ",
+    "translation": "ファージ",
+    "context": null
+  },
+  {
+    "key": "Entity.phoenix.xml.name",
+    "original": "フェニックス",
+    "translation": "フェニックス",
+    "context": null
+  },
+  {
+    "key": "Entity.player.xml.name",
+    "original": "リディア",
+    "translation": "リディア",
+    "context": null
+  },
+  {
+    "key": "Entity.rock.xml.name",
+    "original": "かかし",
+    "translation": "かかし",
+    "context": null
+  },
+  {
+    "key": "Entity.ruler.xml.name",
+    "original": "ルーラー",
+    "translation": "ルーラー",
+    "context": null
+  },
+  {
+    "key": "Entity.searcher.xml.name",
+    "original": "サーチャー",
+    "translation": "サーチャー",
+    "context": null
+  },
+  {
+    "key": "Entity.spyder.xml.name",
+    "original": "スパイダー",
+    "translation": "スパイダー",
+    "context": null
+  },
+  {
+    "key": "Entity.unsigned.xml.name",
+    "original": "アンサインド",
+    "translation": "アンサインド",
+    "context": null
+  },
+  {
+    "key": "Entity.wyvern.xml.name",
+    "original": "ワイバーン",
+    "translation": "ワイバーン",
+    "context": null
+  }
+]
