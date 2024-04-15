@@ -25,11 +25,14 @@ public class Program
         CardTrans.ExtractCardPollText(Path.Join(directoryPath, "Spell"), Path.Join(jsonFilePath, "pool.json"));
         EnchantTrans.ExtractEnchantText(Path.Join(directoryPath, "Enchant"), Path.Join(jsonFilePath, "enchant.json"));
         ScenarioTrans.ExtractScenario(Path.Join(directoryPath, "Scenario"), Path.Join(jsonFilePath, "scenario.json"));
+        CharacterTrans.ExtractCharacterText(Path.Join(directoryPath, "Japanese"), Path.Join(jsonFilePath, "entity.json"));
 
         VocabularyTrans.ExtractVocabulary(Path.Join(directoryPath, "Language/Japanese_Vocabulary.txt"),
             Path.Join(jsonFilePath, "vocabulary.json"));
         
         Console.WriteLine("转换完成喵！");
+        
+        
     }
 
     private static void HandleParseError(IEnumerable<Error> errs)

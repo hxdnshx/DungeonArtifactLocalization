@@ -13,6 +13,9 @@ namespace catrice.DungeonArtifactTrans
         public static Dictionary<string, TranslationItem> EnchantInfo = null;
         public static Dictionary<string, string> VocabularyInfo = null;
         public static Dictionary<string, string> ScenarioInfo = null;
+        public static Dictionary<string, TranslationItem> LangDescription = null;
+        public static Dictionary<string, string> EntityInfo = null;
+        
         public static void Init()
         {
             
@@ -96,6 +99,48 @@ namespace catrice.DungeonArtifactTrans
 
                 EnchantInfo = dst;
             }
+            
+            {
+                // 读取 JSON 文件内容
+                string jsonContent = File.ReadAllText(
+                    Path.Join(modPath, "translated_json.json"));
+
+                // 反序列化 JSON 字符串为 TranslationItem 结构体的列表
+                var items = JsonConvert.DeserializeObject<List<TranslationItem>>(jsonContent);
+                var dst = new Dictionary<string, TranslationItem>();
+                foreach (var item in items)
+                {
+                    if (!dst.TryAdd(item.Original, item))
+                    {
+                        Logger.Log($"Find Duplicated Item {item.Original}, content {item.Translation}");
+                        continue;
+                    }
+                }
+
+                LangDescription = dst;
+            }
+            
+            {
+                // 读取 JSON 文件内容
+                string jsonContent = File.ReadAllText(
+                    Path.Join(modPath, "entity_translated.json"));
+
+                // 反序列化 JSON 字符串为 TranslationItem 结构体的列表
+                var items = JsonConvert.DeserializeObject<List<TranslationItem>>(jsonContent);
+                var dst = new Dictionary<string, string>();
+                foreach (var item in items)
+                {
+                    if (!dst.TryAdd(item.Original, item.Translation))
+                    {
+                        Logger.Log($"Find Duplicated Item {item.Original}, content {item.Translation}");
+                        continue;
+                    }
+                }
+
+                EntityInfo = dst;
+            }
         }
+        
+        
     }
 }
