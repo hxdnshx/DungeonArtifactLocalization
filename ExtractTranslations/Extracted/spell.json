@@ -127,8 +127,8 @@
   },
   {
     "key": "0.107.xml.context",
-    "original": "MP最大値を+2する。自分がパーマネントカードをプレイする度にバトル終了時まで自分のMP最大値を-1する。",
-    "translation": "MP最大値を+2する。自分がパーマネントカードをプレイする度にバトル終了時まで自分のMP最大値を-1する。",
+    "original": "MP最大値を+3する。自分がパーマネントカードをプレイする度にバトル終了時まで自分のMP最大値を-1する。",
+    "translation": "MP最大値を+3する。自分がパーマネントカードをプレイする度にバトル終了時まで自分のMP最大値を-1する。",
     "context": null
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "key": "0.112.xml.context",
-    "original": "前方1マスに&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。これを3回行う。",
-    "translation": "前方1マスに&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。これを3回行う。",
+    "original": "前方1マスに&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。これを3回行う。その後&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "translation": "前方1マスに&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。これを3回行う。その後&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -283,8 +283,8 @@
   },
   {
     "key": "0.119.xml.context",
-    "original": "自分のMP最大値を+2する。1～5ターン目の自分がターン開始する度に手札のカード1枚をランダムに除外する。",
-    "translation": "自分のMP最大値を+2する。1～5ターン目の自分がターン開始する度に手札のカード1枚をランダムに除外する。",
+    "original": "自分のMP最大値を+2する。1～5ターン目の自分がターン終了する度に手札のカード1枚をランダムに除外する。",
+    "translation": "自分のMP最大値を+2する。1～5ターン目の自分がターン終了する度に手札のカード1枚をランダムに除外する。",
     "context": null
   },
   {
@@ -595,8 +595,8 @@
   },
   {
     "key": "0.142.xml.context",
-    "original": "自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;[&lt;b&gt;&lt;color=#352F00&gt;キッカー&lt;/color&gt;&lt;/b&gt;:2]&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,36&gt;ファントムブレード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。",
-    "translation": "自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;[&lt;b&gt;&lt;color=#352F00&gt;キッカー&lt;/color&gt;&lt;/b&gt;:2]&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,36&gt;ファントムブレード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。",
+    "original": "自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;[&lt;b&gt;&lt;color=#352F00&gt;キッカー&lt;/color&gt;&lt;/b&gt;:2]&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,36&gt;ファントムブレード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加え、&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "translation": "自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;[&lt;b&gt;&lt;color=#352F00&gt;キッカー&lt;/color&gt;&lt;/b&gt;:2]&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,36&gt;ファントムブレード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加え、&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -919,8 +919,8 @@
   },
   {
     "key": "0.167.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;手札のカードのMPコストは1になる。自分は&lt;color=#004711&gt;頭痛+4&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードを除外し、ターン終了時にフィールドに置く。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;手札のカードのMPコストは1になる。自分は&lt;color=#004711&gt;頭痛+4&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードを除外し、ターン終了時にフィールドに置く。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:3)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;手札のカードのMPコストは1になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードを除外し、ターン終了時にフィールドに置く。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:3)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;手札のカードのMPコストは1になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードを除外し、ターン終了時にフィールドに置く。",
     "context": null
   },
   {
@@ -931,8 +931,8 @@
   },
   {
     "key": "0.168.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。: カードを2枚ドローする。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。: カードを2枚ドローする。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;クールダウン&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。: カードを2枚ドローする。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;クールダウン&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。: カードを2枚ドローする。",
     "context": null
   },
   {
@@ -1243,8 +1243,8 @@
   },
   {
     "key": "0.195.xml.context",
-    "original": "自分はカードを1枚ドローする。&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;アクティブカードを発動できるときに発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを2払う。:このカードを墓地から手札に戻す。",
-    "translation": "自分はカードを1枚ドローする。&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;アクティブカードを発動できるときに発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを2払う。:このカードを墓地から手札に戻す。",
+    "original": "自分はカードを1枚ドローする。&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを2払う。:このカードを墓地から手札に戻す。",
+    "translation": "自分はカードを1枚ドローする。&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを2払う。:このカードを墓地から手札に戻す。",
     "context": null
   },
   {
@@ -1315,8 +1315,8 @@
   },
   {
     "key": "0.20.xml.context",
-    "original": "自分または距離2マス以内の敵から、フィールドのカードを1枚を選択して&lt;b&gt;&lt;color=#352F00&gt;破壊&lt;/color&gt;&lt;/b&gt;する。",
-    "translation": "自分または距離2マス以内の敵から、フィールドのカードを1枚を選択して&lt;b&gt;&lt;color=#352F00&gt;破壊&lt;/color&gt;&lt;/b&gt;する。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;自分または距離2マス以内の敵から、フィールドのカードを1枚を選択して&lt;b&gt;&lt;color=#352F00&gt;破壊&lt;/color&gt;&lt;/b&gt;できる。その後&lt;color=#004711&gt;堅牢+2&lt;/color&gt;を得る。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;自分または距離2マス以内の敵から、フィールドのカードを1枚を選択して&lt;b&gt;&lt;color=#352F00&gt;破壊&lt;/color&gt;&lt;/b&gt;できる。その後&lt;color=#004711&gt;堅牢+2&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -2047,8 +2047,8 @@
   },
   {
     "key": "0.26.xml.context",
-    "original": "距離3以内の最も近い敵に&lt;color=#870011&gt;2&lt;/color&gt;ダメージを与える。これを3回行う。",
-    "translation": "距離3以内の最も近い敵に&lt;color=#870011&gt;2&lt;/color&gt;ダメージを与える。これを3回行う。",
+    "original": "距離3以内の最も近い敵に&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。これを3回行う。その後&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "translation": "距離3以内の最も近い敵に&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。これを3回行う。その後&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -2671,8 +2671,8 @@
   },
   {
     "key": "0.55.xml.context",
-    "original": "周囲の敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを1回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
-    "translation": "周囲の敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを1回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;保留&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲の敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを2回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;保留&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲の敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを2回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
     "context": null
   },
   {
@@ -3199,8 +3199,8 @@
   },
   {
     "key": "0.96.xml.context",
-    "original": "前方1マスに&lt;color=#870011&gt;2&lt;/color&gt;ダメージを与える。これを4回行う。",
-    "translation": "前方1マスに&lt;color=#870011&gt;2&lt;/color&gt;ダメージを与える。これを4回行う。",
+    "original": "前方1マスに&lt;color=#870011&gt;2&lt;/color&gt;ダメージを与える。これを5回行う。",
+    "translation": "前方1マスに&lt;color=#870011&gt;2&lt;/color&gt;ダメージを与える。これを5回行う。",
     "context": null
   },
   {
@@ -3547,8 +3547,8 @@
   },
   {
     "key": "3.5.xml.context",
-    "original": "前方2マスに&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードのプレイ能力を&lt;b&gt;X&lt;/b&gt;回&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。&lt;b&gt;X&lt;/b&gt;はこのターンにカードをプレイした回数である。",
-    "translation": "前方2マスに&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードのプレイ能力を&lt;b&gt;X&lt;/b&gt;回&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。&lt;b&gt;X&lt;/b&gt;はこのターンにカードをプレイした回数である。",
+    "original": "距離2以内の最も近い敵に&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードのプレイ能力を&lt;b&gt;X&lt;/b&gt;回&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。&lt;b&gt;X&lt;/b&gt;はこのターンにカードをプレイした回数である。",
+    "translation": "距離2以内の最も近い敵に&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをプレイしたときに発動する。このカードのプレイ能力を&lt;b&gt;X&lt;/b&gt;回&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。&lt;b&gt;X&lt;/b&gt;はこのターンにカードをプレイした回数である。",
     "context": null
   },
   {
@@ -3739,8 +3739,8 @@
   },
   {
     "key": "5.1.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに1度発動できる。自分の手札にある、元々のコストが5以上のカードを選択し、そのカードのMPコストを-2する。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに1度発動できる。自分の手札にある、元々のコストが5以上のカードを選択し、そのカードのMPコストを-2する。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに1度発動できる。自分の手札にあるカードを選択し、そのカードのMPコストを-2する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに1度発動できる。自分の手札にあるカードを選択し、そのカードのMPコストを-2する。",
     "context": null
   },
   {
