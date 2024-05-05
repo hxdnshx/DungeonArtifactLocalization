@@ -115,6 +115,7 @@ namespace catrice.DungeonArtifactTrans
     {
         public static void Postfix(ref string __result)
         {
+            if (String.IsNullOrEmpty(__result)) return;
             if (TranslationDB.LangDescription.TryGetValue(__result, out var transValue))
             {
                 //Logger.Log($"{__result} to {transValue.Translation}");

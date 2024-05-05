@@ -2923,8 +2923,8 @@
   },
   {
     "key": "0.75.xml.context",
-    "original": "前方1マスに&lt;color=#870011&gt;7&lt;/color&gt;ダメージを与える。カードを1枚ドローする。",
-    "translation": "前方1マスに&lt;color=#870011&gt;7&lt;/color&gt;ダメージを与える。カードを1枚ドローする。",
+    "original": "前方1マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。カードを1枚ドローする。",
+    "translation": "前方1マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。カードを1枚ドローする。",
     "context": null
   },
   {
@@ -3223,8 +3223,8 @@
   },
   {
     "key": "0.98.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:3)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:3)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。フィールドのこのカードを墓地に送る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。フィールドのこのカードを墓地に送る。",
     "context": null
   },
   {
