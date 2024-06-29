@@ -1375,8 +1375,8 @@
   },
   {
     "key": "0.204.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動する。&lt;b&gt;X&lt;/b&gt;はコストで墓地に送ったカードの元々のMPコストと等しい。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動する。&lt;b&gt;X&lt;/b&gt;はコストで墓地に送ったカードの元々のMPコストと等しい。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動条件を無視して発動する。&lt;b&gt;X&lt;/b&gt;はコストで墓地に送ったカードの元々のMPコストと等しい。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動条件を無視して発動する。&lt;b&gt;X&lt;/b&gt;はコストで墓地に送ったカードの元々のMPコストと等しい。",
     "context": null
   },
   {
