@@ -91,6 +91,8 @@ namespace catrice.DungeonArtifactTrans
                 Vocabulary.keyWords = ApplyLocalization(Vocabulary.keyWords);
                 Vocabulary.keyWordsExp = ApplyLocalization(Vocabulary.keyWordsExp);
                 Vocabulary.categoryToStr = ApplyLocalization(Vocabulary.categoryToStr);
+                Vocabulary.VrbToStr = ApplyLocalization(Vocabulary.VrbToStr);
+                Vocabulary.AuxToStr = ApplyLocalization(Vocabulary.AuxToStr);
             }
 
             var fi = AccessTools.Field(typeof(GameProgress), "values");
@@ -125,6 +127,24 @@ namespace catrice.DungeonArtifactTrans
             else
             {
                 Logger.Log($"Unmatched <{__result}>");
+            }
+        }
+    }
+    
+    [HarmonyPatch(typeof(Lang), nameof(Lang.LoadResource))]
+    public static class LangFix2
+    {
+        public static void Postfix()
+        {
+            var fi = AccessTools.Field(typeof(Lang), "dictionary");
+            var val = fi.GetValue(null) as Dictionary<string, string>;
+            if (val == null)
+            {
+                Logger.Error($"Failed to Get Field dictionary");
+            }
+            foreach (var ele in TranslationDB.VocabularyInfo2)
+            {
+                val[ele.Key] = ele.Value;
             }
         }
     }

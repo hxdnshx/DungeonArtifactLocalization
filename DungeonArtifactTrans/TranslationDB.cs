@@ -12,6 +12,7 @@ namespace catrice.DungeonArtifactTrans
         public static Dictionary<string, TranslationItem> CardInfo = null;
         public static Dictionary<string, TranslationItem> EnchantInfo = null;
         public static Dictionary<string, string> VocabularyInfo = null;
+        public static Dictionary<string, string> VocabularyInfo2 = null;
         public static Dictionary<string, string> ScenarioInfo = null;
         public static Dictionary<string, TranslationItem> LangDescription = null;
         public static Dictionary<string, string> EntityInfo = null;
@@ -138,6 +139,26 @@ namespace catrice.DungeonArtifactTrans
                 }
 
                 EntityInfo = dst;
+            }
+            
+            {
+                // 读取 JSON 文件内容
+                string jsonContent = File.ReadAllText(
+                    Path.Join(modPath, "vocabulary2_translated.json"));
+
+                // 反序列化 JSON 字符串为 TranslationItem 结构体的列表
+                var items = JsonConvert.DeserializeObject<List<TranslationItem>>(jsonContent);
+                var dst = new Dictionary<string, string>();
+                foreach (var item in items)
+                {
+                    if (!dst.TryAdd(item.Key, item.Translation))
+                    {
+                        Logger.Log($"Find Duplicated Item {item.Key} {item.Original}, content {item.Translation}");
+                        continue;
+                    }
+                }
+
+                VocabularyInfo2 = dst;
             }
         }
         

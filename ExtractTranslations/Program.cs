@@ -29,6 +29,8 @@ public class Program
 
         VocabularyTrans.ExtractVocabulary(Path.Join(directoryPath, "Language/Japanese_Vocabulary.txt"),
             Path.Join(jsonFilePath, "vocabulary.json"));
+        VocabularyTrans.ExtractTsv(Path.Join(directoryPath, "Language/Japanese.tsv"),
+            Path.Join(jsonFilePath, "vocabulary2.json"));
         
         Console.WriteLine("转换完成喵！");
         

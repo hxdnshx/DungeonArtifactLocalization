@@ -45,4 +45,25 @@ public static class VocabularyTrans
         string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
         File.WriteAllText(outJsonPath, json);
     }
+
+    public static void ExtractTsv(string filePath, string outJsonPath)
+    {
+        var jsonList = new List<Dictionary<string, object>>();
+        var stringElements = File.ReadAllLines(filePath);
+        foreach (var element in stringElements)
+        {
+            var values = element.Split("\t");
+            if (values.Length < 2) continue;
+            
+            jsonList.Add(new Dictionary<string, object>
+            {
+                { "key", values[0] },
+                { "original", values[1] },
+                { "translation", values[1] },
+                { "context", null }
+            });
+        }
+        string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
+        File.WriteAllText(outJsonPath, json);
+    }
 }

@@ -1,0 +1,1724 @@
+[
+  {
+    "key": "dungeontoconfig",
+    "original": "コンフィグ",
+    "translation": "コンフィグ",
+    "context": null
+  },
+  {
+    "key": "dungeontoconfig_exp",
+    "original": "ゲームの設定とログの確認ができます。",
+    "translation": "ゲームの設定とログの確認ができます。",
+    "context": null
+  },
+  {
+    "key": "handless",
+    "original": "{0}の枚数が0枚です",
+    "translation": "{0}の枚数が0枚です",
+    "context": null
+  },
+  {
+    "key": "map",
+    "original": "マップ",
+    "translation": "マップ",
+    "context": null
+  },
+  {
+    "key": "map_exp",
+    "original": "ダンジョンの構造とマスの情報を確認できます。",
+    "translation": "ダンジョンの構造とマスの情報を確認できます。",
+    "context": null
+  },
+  {
+    "key": "playable_exp",
+    "original": "現在の所持カードを確認<br>(デッキ外から加えたカードを除く)",
+    "translation": "現在の所持カードを確認<br>(デッキ外から加えたカードを除く)",
+    "context": null
+  },
+  {
+    "key": "barriar_exp",
+    "original": "自分がダメージを受ける代わりにバリアの数値が減少します。ターン開始時にバリアは0になります。",
+    "translation": "自分がダメージを受ける代わりにバリアの数値が減少します。ターン開始時にバリアは0になります。",
+    "context": null
+  },
+  {
+    "key": "agillity_exp",
+    "original": "このターン中で移動できる残りの回数です。",
+    "translation": "このターン中で移動できる残りの回数です。",
+    "context": null
+  },
+  {
+    "key": "deck_exp",
+    "original": "カードをドローする場合、ここから手札に加えます。デッキの枚数が0の場合は墓地のカードをデッキに戻してシャッフルしてからドローします。",
+    "translation": "カードをドローする場合、ここから手札に加えます。デッキの枚数が0の場合は墓地のカードをデッキに戻してシャッフルしてからドローします。",
+    "context": null
+  },
+  {
+    "key": "grave_exp",
+    "original": "発動し終わったカードや、破壊されたカードはここに送られます。",
+    "translation": "発動し終わったカードや、破壊されたカードはここに送られます。",
+    "context": null
+  },
+  {
+    "key": "field_exp",
+    "original": "発動したパーマネントカードはここに置かれます。パーマネントカードはフィールドに存在する限り能力が適用されることが多いです。",
+    "translation": "発動したパーマネントカードはここに置かれます。パーマネントカードはフィールドに存在する限り能力が適用されることが多いです。",
+    "context": null
+  },
+  {
+    "key": "banish_exp",
+    "original": "カードの能力などよってここに送られます。除外領域のカードはデッキに戻らないので基本的に再利用できません。",
+    "translation": "カードの能力などよってここに送られます。除外領域のカードはデッキに戻らないので基本的に再利用できません。",
+    "context": null
+  },
+  {
+    "key": "turn_exp",
+    "original": "自分及びすべての敵がターン終了するごとに+1されます。",
+    "translation": "自分及びすべての敵がターン終了するごとに+1されます。",
+    "context": null
+  },
+  {
+    "key": "turnend_exp",
+    "original": "現在のターン数です。自分のターン終了し、敵のターンになります。",
+    "translation": "現在のターン数です。自分のターン終了し、敵のターンになります。",
+    "context": null
+  },
+  {
+    "key": "hp_exp",
+    "original": "自分の残りの体力を表します。また、次に受けるダメージの予測が赤色で表示されます。0になるとゲームオーバーです。",
+    "translation": "自分の残りの体力を表します。また、次に受けるダメージの予測が赤色で表示されます。0になるとゲームオーバーです。",
+    "context": null
+  },
+  {
+    "key": "mp_exp",
+    "original": "自分の残りの魔力を表し、カードを発動するためのコストになります。ターン開始時に最大値に戻ります。",
+    "translation": "自分の残りの魔力を表し、カードを発動するためのコストになります。ターン開始時に最大値に戻ります。",
+    "context": null
+  },
+  {
+    "key": "yourturn",
+    "original": "YourTurn",
+    "translation": "YourTurn",
+    "context": null
+  },
+  {
+    "key": "endturn",
+    "original": "TurnEnd",
+    "translation": "TurnEnd",
+    "context": null
+  },
+  {
+    "key": "selectzones",
+    "original": "他のカード領域を確認する",
+    "translation": "他のカード領域を確認する",
+    "context": null
+  },
+  {
+    "key": "mapname_format",
+    "original": "第{0}階層 {1}",
+    "translation": "第{0}階層 {1}",
+    "context": null
+  },
+  {
+    "key": "viewcards_format",
+    "original": "{0}を確認",
+    "translation": "{0}を確認",
+    "context": null
+  },
+  {
+    "key": "turn_format",
+    "original": "{0}ターン",
+    "translation": "{0}ターン",
+    "context": null
+  },
+  {
+    "key": "deckcheck",
+    "original": "デッキ確認",
+    "translation": "デッキ確認",
+    "context": null
+  },
+  {
+    "key": "menuselect",
+    "original": "メニュー選択",
+    "translation": "メニュー選択",
+    "context": null
+  },
+  {
+    "key": "itemselect",
+    "original": "項目選択",
+    "translation": "項目選択",
+    "context": null
+  },
+  {
+    "key": "change",
+    "original": "変更",
+    "translation": "変更",
+    "context": null
+  },
+  {
+    "key": "pageswitch",
+    "original": "ページ切り替え",
+    "translation": "ページ切り替え",
+    "context": null
+  },
+  {
+    "key": "move",
+    "original": "移動",
+    "translation": "移動",
+    "context": null
+  },
+  {
+    "key": "movablemode",
+    "original": "移動モードへ",
+    "translation": "移動モードへ",
+    "context": null
+  },
+  {
+    "key": "changedirection",
+    "original": "方向選択",
+    "translation": "方向選択",
+    "context": null
+  },
+  {
+    "key": "viewhand",
+    "original": "手札を見る",
+    "translation": "手札を見る",
+    "context": null
+  },
+  {
+    "key": "viewenemy",
+    "original": "敵の情報を見る",
+    "translation": "敵の情報を見る",
+    "context": null
+  },
+  {
+    "key": "vieweffect",
+    "original": "能力を見る",
+    "translation": "能力を見る",
+    "context": null
+  },
+  {
+    "key": "viewcard",
+    "original": "カードを見る",
+    "translation": "カードを見る",
+    "context": null
+  },
+  {
+    "key": "activate",
+    "original": "カードをプレイ",
+    "translation": "カードをプレイ",
+    "context": null
+  },
+  {
+    "key": "checkscore",
+    "original": "スコア詳細を見る",
+    "translation": "スコア詳細を見る",
+    "context": null
+  },
+  {
+    "key": "title",
+    "original": "ダンジョン・アーティファクト",
+    "translation": "ダンジョン・アーティファクト",
+    "context": null
+  },
+  {
+    "key": "yes",
+    "original": "はい",
+    "translation": "はい",
+    "context": null
+  },
+  {
+    "key": "no",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "context": null
+  },
+  {
+    "key": "submit",
+    "original": "決定",
+    "translation": "決定",
+    "context": null
+  },
+  {
+    "key": "select",
+    "original": "選択",
+    "translation": "選択",
+    "context": null
+  },
+  {
+    "key": "cancel",
+    "original": "キャンセル",
+    "translation": "キャンセル",
+    "context": null
+  },
+  {
+    "key": "next",
+    "original": "進む",
+    "translation": "進む",
+    "context": null
+  },
+  {
+    "key": "back",
+    "original": "戻る",
+    "translation": "戻る",
+    "context": null
+  },
+  {
+    "key": "ok",
+    "original": "OK",
+    "translation": "OK",
+    "context": null
+  },
+  {
+    "key": "close",
+    "original": "閉じる",
+    "translation": "閉じる",
+    "context": null
+  },
+  {
+    "key": "returntotitle",
+    "original": "タイトルに戻る",
+    "translation": "タイトルに戻る",
+    "context": null
+  },
+  {
+    "key": "normal",
+    "original": "ノーマル",
+    "translation": "ノーマル",
+    "context": null
+  },
+  {
+    "key": "hard",
+    "original": "ハード",
+    "translation": "ハード",
+    "context": null
+  },
+  {
+    "key": "extra",
+    "original": "エクストラ Lv {0}",
+    "translation": "エクストラ Lv {0}",
+    "context": null
+  },
+  {
+    "key": "layer_format",
+    "original": "レベル{0}",
+    "translation": "レベル{0}",
+    "context": null
+  },
+  {
+    "key": "floor_format",
+    "original": "{0}階層",
+    "translation": "{0}階層",
+    "context": null
+  },
+  {
+    "key": "layer1",
+    "original": "表層",
+    "translation": "表層",
+    "context": null
+  },
+  {
+    "key": "layer2",
+    "original": "遺跡",
+    "translation": "遺跡",
+    "context": null
+  },
+  {
+    "key": "layer3",
+    "original": "最深部",
+    "translation": "最深部",
+    "context": null
+  },
+  {
+    "key": "hp",
+    "original": "HP",
+    "translation": "HP",
+    "context": null
+  },
+  {
+    "key": "mp",
+    "original": "MP",
+    "translation": "MP",
+    "context": null
+  },
+  {
+    "key": "barriar",
+    "original": "バリア",
+    "translation": "バリア",
+    "context": null
+  },
+  {
+    "key": "agillity",
+    "original": "移動可能回数",
+    "translation": "移動可能回数",
+    "context": null
+  },
+  {
+    "key": "turn",
+    "original": "ターン",
+    "translation": "ターン",
+    "context": null
+  },
+  {
+    "key": "turnend",
+    "original": "ターン終了",
+    "translation": "ターン終了",
+    "context": null
+  },
+  {
+    "key": "deck",
+    "original": "デッキ",
+    "translation": "デッキ",
+    "context": null
+  },
+  {
+    "key": "grave",
+    "original": "墓地",
+    "translation": "墓地",
+    "context": null
+  },
+  {
+    "key": "banish",
+    "original": "除外領域",
+    "translation": "除外領域",
+    "context": null
+  },
+  {
+    "key": "field",
+    "original": "フィールド",
+    "translation": "フィールド",
+    "context": null
+  },
+  {
+    "key": "artifact",
+    "original": "アーティファクト",
+    "translation": "アーティファクト",
+    "context": null
+  },
+  {
+    "key": "playable",
+    "original": "所持カード",
+    "translation": "所持カード",
+    "context": null
+  },
+  {
+    "key": "item",
+    "original": "アイテム領域",
+    "translation": "アイテム領域",
+    "context": null
+  },
+  {
+    "key": "item_exp",
+    "original": "アイテムカードの確認とプレイができます。アイテム領域のカードはいつでもプレイすることができます。",
+    "translation": "アイテムカードの確認とプレイができます。アイテム領域のカードはいつでもプレイすることができます。",
+    "context": null
+  },
+  {
+    "key": "magicstone",
+    "original": "魔石",
+    "translation": "魔石",
+    "context": null
+  },
+  {
+    "key": "magicstone_exp",
+    "original": "敵を倒すと獲得できます。マスで起こるイベントで魔石を消費してカードを入手したり、カードを削除したりできます。",
+    "translation": "敵を倒すと獲得できます。マスで起こるイベントで魔石を消費してカードを入手したり、カードを削除したりできます。",
+    "context": null
+  },
+  {
+    "key": "skip",
+    "original": "スキップモード",
+    "translation": "スキップモード",
+    "context": null
+  },
+  {
+    "key": "skip_exp",
+    "original": "スキップモードがONである限り、カウンターカードなどの発動確認をスキップします。",
+    "translation": "スキップモードがONである限り、カウンターカードなどの発動確認をスキップします。",
+    "context": null
+  },
+  {
+    "key": "hand",
+    "original": "手札",
+    "translation": "手札",
+    "context": null
+  },
+  {
+    "key": "sorted",
+    "original": "ソート済み",
+    "translation": "ソート済み",
+    "context": null
+  },
+  {
+    "key": "version",
+    "original": "version",
+    "translation": "version",
+    "context": null
+  },
+  {
+    "key": "chain_format",
+    "original": "チェーン{0}",
+    "translation": "チェーン{0}",
+    "context": null
+  },
+  {
+    "key": "trigger_format",
+    "original": "「{0}」<br>{1}のトリガー能力を発動しますか？",
+    "translation": "「{0}」<br>{1}のトリガー能力を発動しますか？",
+    "context": null
+  },
+  {
+    "key": "counter_format",
+    "original": "「{0}」<br>手札のカードをプレイしますか？",
+    "translation": "「{0}」<br>手札のカードをプレイしますか？",
+    "context": null
+  },
+  {
+    "key": "taptostart",
+    "original": "キーを押してください",
+    "translation": "キーを押してください",
+    "context": null
+  },
+  {
+    "key": "newgame",
+    "original": "NewGame",
+    "translation": "NewGame",
+    "context": null
+  },
+  {
+    "key": "newgame_exp",
+    "original": "初めからゲームをスタートします。",
+    "translation": "初めからゲームをスタートします。",
+    "context": null
+  },
+  {
+    "key": "gamecontinue",
+    "original": "Continue",
+    "translation": "Continue",
+    "context": null
+  },
+  {
+    "key": "gamecontinue_exp",
+    "original": "続きからゲームをスタートします。",
+    "translation": "続きからゲームをスタートします。",
+    "context": null
+  },
+  {
+    "key": "score",
+    "original": "Score",
+    "translation": "Score",
+    "context": null
+  },
+  {
+    "key": "score_exp",
+    "original": "今までのプレイスコアを確認できます。",
+    "translation": "今までのプレイスコアを確認できます。",
+    "context": null
+  },
+  {
+    "key": "library",
+    "original": "Library",
+    "translation": "Library",
+    "context": null
+  },
+  {
+    "key": "library_exp",
+    "original": "ゲーム内のカードを閲覧できます。",
+    "translation": "ゲーム内のカードを閲覧できます。",
+    "context": null
+  },
+  {
+    "key": "config",
+    "original": "Config",
+    "translation": "Config",
+    "context": null
+  },
+  {
+    "key": "config_exp",
+    "original": "ゲームの設定と操作キーの変更ができます。",
+    "translation": "ゲームの設定と操作キーの変更ができます。",
+    "context": null
+  },
+  {
+    "key": "credit",
+    "original": "Credit",
+    "translation": "Credit",
+    "context": null
+  },
+  {
+    "key": "credit_exp",
+    "original": "このゲームのクレジットを見られます。",
+    "translation": "このゲームのクレジットを見られます。",
+    "context": null
+  },
+  {
+    "key": "exit",
+    "original": "Exit",
+    "translation": "Exit",
+    "context": null
+  },
+  {
+    "key": "exit_exp",
+    "original": "ゲームを終了します。",
+    "translation": "ゲームを終了します。",
+    "context": null
+  },
+  {
+    "key": "attention",
+    "original": "現在プレイ中のデータが残っています。<br>このままゲームを始めると前回のデータは削除されます。",
+    "translation": "現在プレイ中のデータが残っています。<br>このままゲームを始めると前回のデータは削除されます。",
+    "context": null
+  },
+  {
+    "key": "select_exp",
+    "original": "キャラクターを選択してください。",
+    "translation": "キャラクターを選択してください。",
+    "context": null
+  },
+  {
+    "key": "difficulty",
+    "original": "難易度",
+    "translation": "難易度",
+    "context": null
+  },
+  {
+    "key": "gamestart_conf",
+    "original": "難易度:{0}でゲームを始めますか？",
+    "translation": "難易度:{0}でゲームを始めますか？",
+    "context": null
+  },
+  {
+    "key": "enemyroom_conf",
+    "original": "オートマタがいそうだ。",
+    "translation": "オートマタがいそうだ。",
+    "context": null
+  },
+  {
+    "key": "eliteroom_conf",
+    "original": "強力なオートマタがいそうだ。",
+    "translation": "強力なオートマタがいそうだ。",
+    "context": null
+  },
+  {
+    "key": "bossroom_conf",
+    "original": "ボスがいそうだ。",
+    "translation": "ボスがいそうだ。",
+    "context": null
+  },
+  {
+    "key": "lastbossroom_conf",
+    "original": "強力なボスがいそうだ。",
+    "translation": "強力なボスがいそうだ。",
+    "context": null
+  },
+  {
+    "key": "treasuteroom_conf",
+    "original": "レアなカードがありそうだ。",
+    "translation": "レアなカードがありそうだ。",
+    "context": null
+  },
+  {
+    "key": "restroom_conf",
+    "original": "休息が取れそうだ。",
+    "translation": "休息が取れそうだ。",
+    "context": null
+  },
+  {
+    "key": "cardroom_conf",
+    "original": "デッキを調整できそうだ。",
+    "translation": "デッキを調整できそうだ。",
+    "context": null
+  },
+  {
+    "key": "storyroom_conf",
+    "original": "何か出来事が起きそうだ。",
+    "translation": "何か出来事が起きそうだ。",
+    "context": null
+  },
+  {
+    "key": "entranceroom_conf",
+    "original": "ダンジョンの入り口だ。",
+    "translation": "ダンジョンの入り口だ。",
+    "context": null
+  },
+  {
+    "key": "terminusroom_conf",
+    "original": "ここが最後になりそうだ。",
+    "translation": "ここが最後になりそうだ。",
+    "context": null
+  },
+  {
+    "key": "godown",
+    "original": "階段を降りる",
+    "translation": "階段を降りる",
+    "context": null
+  },
+  {
+    "key": "shopreward",
+    "original": "報酬を獲得！",
+    "translation": "報酬を獲得！",
+    "context": null
+  },
+  {
+    "key": "pass",
+    "original": "報酬をパス",
+    "translation": "報酬をパス",
+    "context": null
+  },
+  {
+    "key": "transstone",
+    "original": "魔石変換",
+    "translation": "魔石変換",
+    "context": null
+  },
+  {
+    "key": "transstone_msg",
+    "original": "魔石を消費して獲得したいカードを選択してください。",
+    "translation": "魔石を消費して獲得したいカードを選択してください。",
+    "context": null
+  },
+  {
+    "key": "done",
+    "original": "完了",
+    "translation": "完了",
+    "context": null
+  },
+  {
+    "key": "selectone",
+    "original": "どちらか一方の能力を選択できます。",
+    "translation": "どちらか一方の能力を選択できます。",
+    "context": null
+  },
+  {
+    "key": "gamesetting",
+    "original": "ゲーム設定",
+    "translation": "ゲーム設定",
+    "context": null
+  },
+  {
+    "key": "keyboard",
+    "original": "キーボード",
+    "translation": "キーボード",
+    "context": null
+  },
+  {
+    "key": "gamepad",
+    "original": "ゲームパッド",
+    "translation": "ゲームパッド",
+    "context": null
+  },
+  {
+    "key": "log",
+    "original": "ログ",
+    "translation": "ログ",
+    "context": null
+  },
+  {
+    "key": "flamerate",
+    "original": "フレームレート",
+    "translation": "フレームレート",
+    "context": null
+  },
+  {
+    "key": "flamerate_id",
+    "original": "{0} FPS",
+    "translation": "{0} FPS",
+    "context": null
+  },
+  {
+    "key": "vsync",
+    "original": "垂直同期",
+    "translation": "垂直同期",
+    "context": null
+  },
+  {
+    "key": "fullscreen",
+    "original": "フルスクリーン",
+    "translation": "フルスクリーン",
+    "context": null
+  },
+  {
+    "key": "bgmvolue",
+    "original": "BGMボリューム",
+    "translation": "BGMボリューム",
+    "context": null
+  },
+  {
+    "key": "sevolume",
+    "original": "SEボリューム",
+    "translation": "SEボリューム",
+    "context": null
+  },
+  {
+    "key": "fastanimation",
+    "original": "カード能力処理の速さ",
+    "translation": "カード能力処理の速さ",
+    "context": null
+  },
+  {
+    "key": "characontrol",
+    "original": "キャラの移動方法",
+    "translation": "キャラの移動方法",
+    "context": null
+  },
+  {
+    "key": "dirtomove",
+    "original": "方向キーで移動",
+    "translation": "方向キーで移動",
+    "context": null
+  },
+  {
+    "key": "clicktomove",
+    "original": "方向キーで向き変更",
+    "translation": "方向キーで向き変更",
+    "context": null
+  },
+  {
+    "key": "clicktoactivate",
+    "original": "クリックしてプレイ",
+    "translation": "クリックしてプレイ",
+    "context": null
+  },
+  {
+    "key": "viewkey",
+    "original": "操作キーを表示する",
+    "translation": "操作キーを表示する",
+    "context": null
+  },
+  {
+    "key": "simplelog",
+    "original": "ログの簡略化",
+    "translation": "ログの簡略化",
+    "context": null
+  },
+  {
+    "key": "language",
+    "original": "言語",
+    "translation": "言語",
+    "context": null
+  },
+  {
+    "key": "language_conf",
+    "original": "言語設定はタイトルに戻ると反映されます。",
+    "translation": "言語設定はタイトルに戻ると反映されます。",
+    "context": null
+  },
+  {
+    "key": "connected",
+    "original": "接続中",
+    "translation": "接続中",
+    "context": null
+  },
+  {
+    "key": "disconnected",
+    "original": "認識できません",
+    "translation": "認識できません",
+    "context": null
+  },
+  {
+    "key": "returntitle_conf",
+    "original": "タイトルに戻ります。<br>再開する場合、現在の階層の初めからになります。",
+    "translation": "タイトルに戻ります。<br>再開する場合、現在の階層の初めからになります。",
+    "context": null
+  },
+  {
+    "key": "keyreset",
+    "original": "{0}を二秒長押しでデフォルトに戻す",
+    "translation": "{0}を二秒長押しでデフォルトに戻す",
+    "context": null
+  },
+  {
+    "key": "changekey_conf",
+    "original": "変更後のキーを押してください。<br>{0}を押すか、5秒後にキャンセルされます。",
+    "translation": "変更後のキーを押してください。<br>{0}を押すか、5秒後にキャンセルされます。",
+    "context": null
+  },
+  {
+    "key": "usingpad",
+    "original": "使用ゲームパッド<br>(ボタンの名称にのみ影響します)",
+    "translation": "使用ゲームパッド<br>(ボタンの名称にのみ影響します)",
+    "context": null
+  },
+  {
+    "key": "victory",
+    "original": "Victory",
+    "translation": "Victory",
+    "context": null
+  },
+  {
+    "key": "faild",
+    "original": "Faild",
+    "translation": "Faild",
+    "context": null
+  },
+  {
+    "key": "clear",
+    "original": "Clear",
+    "translation": "Clear",
+    "context": null
+  },
+  {
+    "key": "clearturnresult",
+    "original": "{0}ターンでクリア!",
+    "translation": "{0}ターンでクリア!",
+    "context": null
+  },
+  {
+    "key": "stonebonus",
+    "original": "ボーナス{0}{1}獲得!",
+    "translation": "ボーナス{0}{1}獲得!",
+    "context": null
+  },
+  {
+    "key": "score_id",
+    "original": "スコア",
+    "translation": "スコア",
+    "context": null
+  },
+  {
+    "key": "cleartime",
+    "original": "クリア時間 : ",
+    "translation": "クリア時間 : ",
+    "context": null
+  },
+  {
+    "key": "date_format",
+    "original": "yyyy-MM-dd HH:mm",
+    "translation": "yyyy-MM-dd HH:mm",
+    "context": null
+  },
+  {
+    "key": "time_format",
+    "original": "h'時間 'm'分's'秒'",
+    "translation": "h'時間 'm'分's'秒'",
+    "context": null
+  },
+  {
+    "key": "currentfloor",
+    "original": "現在の階層",
+    "translation": "現在の階層",
+    "context": null
+  },
+  {
+    "key": "movable",
+    "original": "移動可能",
+    "translation": "移動可能",
+    "context": null
+  },
+  {
+    "key": "unreached",
+    "original": "未到達",
+    "translation": "未到達",
+    "context": null
+  },
+  {
+    "key": "downfloor",
+    "original": "移動先のマスを選択してください",
+    "translation": "移動先のマスを選択してください",
+    "context": null
+  },
+  {
+    "key": "downfloor_conf",
+    "original": "次の階層へ進みますか?",
+    "translation": "次の階層へ進みますか?",
+    "context": null
+  },
+  {
+    "key": "cardtype",
+    "original": "カードタイプ",
+    "translation": "カードタイプ",
+    "context": null
+  },
+  {
+    "key": "character",
+    "original": "キャラクター",
+    "translation": "キャラクター",
+    "context": null
+  },
+  {
+    "key": "category",
+    "original": "カテゴリー",
+    "translation": "カテゴリー",
+    "context": null
+  },
+  {
+    "key": "nodata",
+    "original": "該当なし",
+    "translation": "該当なし",
+    "context": null
+  },
+  {
+    "key": "share",
+    "original": "共通",
+    "translation": "共通",
+    "context": null
+  },
+  {
+    "key": "all",
+    "original": "すべて",
+    "translation": "すべて",
+    "context": null
+  },
+  {
+    "key": "chara_conf",
+    "original": "ここでキャラクターを選択してゲームを開始できます。",
+    "translation": "ここでキャラクターを選択してゲームを開始できます。",
+    "context": null
+  },
+  {
+    "key": "difficulty_conf",
+    "original": "難易度:{0}が解放されました！",
+    "translation": "難易度:{0}が解放されました！",
+    "context": null
+  },
+  {
+    "key": "save_conf",
+    "original": "進行状況がセーブされました。",
+    "translation": "進行状況がセーブされました。",
+    "context": null
+  },
+  {
+    "key": "heal_msg",
+    "original": "HPを{0}回復",
+    "translation": "HPを{0}回復",
+    "context": null
+  },
+  {
+    "key": "spendstone",
+    "original": "  [{0}{1}消費]",
+    "translation": "  [{0}{1}消費]",
+    "context": null
+  },
+  {
+    "key": "notenough",
+    "original": " -不足しています",
+    "translation": " -不足しています",
+    "context": null
+  },
+  {
+    "key": "deletecard",
+    "original": "カード削除",
+    "translation": "カード削除",
+    "context": null
+  },
+  {
+    "key": "deletecard_msg",
+    "original": "デッキからカードを1枚削除",
+    "translation": "デッキからカードを1枚削除",
+    "context": null
+  },
+  {
+    "key": "gainhpmax_msg",
+    "original": "HP最大値{0}",
+    "translation": "HP最大値{0}",
+    "context": null
+  },
+  {
+    "key": "artifactreward",
+    "original": "ランダムなアーティファクトから1枚選んで獲得",
+    "translation": "ランダムなアーティファクトから1枚選んで獲得",
+    "context": null
+  },
+  {
+    "key": "randumreward",
+    "original": "ランダムなカードから1枚選んで獲得",
+    "translation": "ランダムなカードから1枚選んで獲得",
+    "context": null
+  },
+  {
+    "key": "elitereward",
+    "original": "エリートドロップカードを1枚選んで獲得",
+    "translation": "エリートドロップカードを1枚選んで獲得",
+    "context": null
+  },
+  {
+    "key": "bossreward",
+    "original": "レアカード獲得",
+    "translation": "レアカード獲得",
+    "context": null
+  },
+  {
+    "key": "earn",
+    "original": "獲得する",
+    "translation": "獲得する",
+    "context": null
+  },
+  {
+    "key": "discard",
+    "original": "破棄する",
+    "translation": "破棄する",
+    "context": null
+  },
+  {
+    "key": "findcard",
+    "original": "{0}を発見した!",
+    "translation": "{0}を発見した!",
+    "context": null
+  },
+  {
+    "key": "restroom_msg",
+    "original": "不思議な力を感じる・・・",
+    "translation": "不思議な力を感じる・・・",
+    "context": null
+  },
+  {
+    "key": "cardroom_msg",
+    "original": "魔方陣を起動した",
+    "translation": "魔方陣を起動した",
+    "context": null
+  },
+  {
+    "key": "startroom_msg",
+    "original": "初期ボーナスを獲得できます。必要なものを選んでください。",
+    "translation": "初期ボーナスを獲得できます。必要なものを選んでください。",
+    "context": null
+  },
+  {
+    "key": "noneenemy_conf",
+    "original": "今はカードを起動できません。",
+    "translation": "今はカードを起動できません。",
+    "context": null
+  },
+  {
+    "key": "cantactivate_conf",
+    "original": "プレイ条件を満たしていません。",
+    "translation": "プレイ条件を満たしていません。",
+    "context": null
+  },
+  {
+    "key": "cantviewhand_conf",
+    "original": "敵がいるときにだけ手札を確認できます。",
+    "translation": "敵がいるときにだけ手札を確認できます。",
+    "context": null
+  },
+  {
+    "key": "cantmove_conf",
+    "original": "このターンはこれ以上移動できません。",
+    "translation": "このターンはこれ以上移動できません。",
+    "context": null
+  },
+  {
+    "key": "undomove_conf",
+    "original": "1マス前の位置に戻りました。",
+    "translation": "1マス前の位置に戻りました。",
+    "context": null
+  },
+  {
+    "key": "scorenothing",
+    "original": "まだスコアがありません。",
+    "translation": "まだスコアがありません。",
+    "context": null
+  },
+  {
+    "key": "loadfaild",
+    "original": "セーブデータのロードに失敗しました。",
+    "translation": "セーブデータのロードに失敗しました。",
+    "context": null
+  },
+  {
+    "key": "untilclear",
+    "original": "一度クリアすると閲覧することができます。",
+    "translation": "一度クリアすると閲覧することができます。",
+    "context": null
+  },
+  {
+    "key": "notthing",
+    "original": "無し",
+    "translation": "無し",
+    "context": null
+  },
+  {
+    "key": "gameclear",
+    "original": "Game Clear",
+    "translation": "Game Clear",
+    "context": null
+  },
+  {
+    "key": "gameover",
+    "original": "Game Over",
+    "translation": "Game Over",
+    "context": null
+  },
+  {
+    "key": "gameover_format",
+    "original": "{0}で{1}は倒れた",
+    "translation": "{0}で{1}は倒れた",
+    "context": null
+  },
+  {
+    "key": "clear_format",
+    "original": "難易度: {0} をクリア",
+    "translation": "難易度: {0} をクリア",
+    "context": null
+  },
+  {
+    "key": "slayenemy",
+    "original": "敵撃破 ×{0}",
+    "translation": "敵撃破 ×{0}",
+    "context": null
+  },
+  {
+    "key": "slayelite",
+    "original": "エリート撃破 ×{0}",
+    "translation": "エリート撃破 ×{0}",
+    "context": null
+  },
+  {
+    "key": "slayboss",
+    "original": "ボス撃破 ×{0}",
+    "translation": "ボス撃破 ×{0}",
+    "context": null
+  },
+  {
+    "key": "oroverdeck",
+    "original": "デッキ{0}枚以上でクリア",
+    "translation": "デッキ{0}枚以上でクリア",
+    "context": null
+  },
+  {
+    "key": "orunderdeck",
+    "original": "デッキ{0}枚以下でクリア",
+    "translation": "デッキ{0}枚以下でクリア",
+    "context": null
+  },
+  {
+    "key": "onlyartifact",
+    "original": "アーティファクト一枚のみ",
+    "translation": "アーティファクト一枚のみ",
+    "context": null
+  },
+  {
+    "key": "oroverartifact",
+    "original": "アーティファクト{0}枚以上",
+    "translation": "アーティファクト{0}枚以上",
+    "context": null
+  },
+  {
+    "key": "orunderartifact",
+    "original": "アーティファクト{0}枚以下",
+    "translation": "アーティファクト{0}枚以下",
+    "context": null
+  },
+  {
+    "key": "withintime",
+    "original": "{0}分以内にクリア",
+    "translation": "{0}分以内にクリア",
+    "context": null
+  },
+  {
+    "key": "starthp",
+    "original": "開始時HP {0}/{1}",
+    "translation": "開始時HP {0}/{1}",
+    "context": null
+  },
+  {
+    "key": "slay",
+    "original": "{0}を倒した",
+    "translation": "{0}を倒した",
+    "context": null
+  },
+  {
+    "key": "total_dealdamage",
+    "original": "合計{0}ダメージを与えた",
+    "translation": "合計{0}ダメージを与えた",
+    "context": null
+  },
+  {
+    "key": "takedamage",
+    "original": "能力で{0}合計ダメージを受けた",
+    "translation": "能力で{0}合計ダメージを受けた",
+    "context": null
+  },
+  {
+    "key": "healeffect",
+    "original": "能力でHPを合計{0}回復",
+    "translation": "能力でHPを合計{0}回復",
+    "context": null
+  },
+  {
+    "key": "clearturn",
+    "original": "{0}ターンでクリア",
+    "translation": "{0}ターンでクリア",
+    "context": null
+  },
+  {
+    "key": "healevent",
+    "original": "HPを{0}回復",
+    "translation": "HPを{0}回復",
+    "context": null
+  },
+  {
+    "key": "gainhp",
+    "original": "最大HP+{0}",
+    "translation": "最大HP+{0}",
+    "context": null
+  },
+  {
+    "key": "reward",
+    "original": "報酬で「{0}」を獲得",
+    "translation": "報酬で「{0}」を獲得",
+    "context": null
+  },
+  {
+    "key": "delete",
+    "original": "デッキから「{0}」を削除",
+    "translation": "デッキから「{0}」を削除",
+    "context": null
+  },
+  {
+    "key": "earnedms",
+    "original": "魔石を{0}獲得",
+    "translation": "魔石を{0}獲得",
+    "context": null
+  },
+  {
+    "key": "spendms",
+    "original": "魔石を{0}消費",
+    "translation": "魔石を{0}消費",
+    "context": null
+  },
+  {
+    "key": "tutorial_mouse",
+    "original": "{0}を押して手札を確認しましょう。",
+    "translation": "{0}を押して手札を確認しましょう。",
+    "context": null
+  },
+  {
+    "key": "tutorial_gamepad",
+    "original": "{0}を押すか画面下のカードにカーソルを合わせて手札を確認しましょう。",
+    "translation": "{0}を押すか画面下のカードにカーソルを合わせて手札を確認しましょう。",
+    "context": null
+  },
+  {
+    "key": "storyclear",
+    "original": "ストーリークリア",
+    "translation": "ストーリークリア",
+    "context": null
+  },
+  {
+    "key": "average_turn",
+    "original": "平均{0:F2}ターンでクリア",
+    "translation": "平均{0:F2}ターンでクリア",
+    "context": null
+  },
+  {
+    "key": "sum_magicstone",
+    "original": "魔石を合計{0}獲得",
+    "translation": "魔石を合計{0}獲得",
+    "context": null
+  },
+  {
+    "key": "trigger_order",
+    "original": "トリガー能力を発動させる順番を決定してください。(番号の大きいものが先に解決する)",
+    "translation": "トリガー能力を発動させる順番を決定してください。(番号の大きいものが先に解決する)",
+    "context": null
+  },
+  {
+    "key": "select_direction",
+    "original": "{0}の効果適用時の方向を選択してください。",
+    "translation": "{0}の効果適用時の方向を選択してください。",
+    "context": null
+  },
+  {
+    "key": "illgal_terget",
+    "original": "対象が不適正です",
+    "translation": "対象が不適正です",
+    "context": null
+  },
+  {
+    "key": "play_cancel",
+    "original": "プレイがキャンセルされました",
+    "translation": "プレイがキャンセルされました",
+    "context": null
+  },
+  {
+    "key": "invaild_range",
+    "original": "攻撃範囲外または移動先がありません",
+    "translation": "攻撃範囲外または移動先がありません",
+    "context": null
+  },
+  {
+    "key": "invalid_direction",
+    "original": "方向が選択されていません",
+    "translation": "方向が選択されていません",
+    "context": null
+  },
+  {
+    "key": "story_reward_conf",
+    "original": "ストーリー報酬を獲得しますか？",
+    "translation": "ストーリー報酬を獲得しますか？",
+    "context": null
+  },
+  {
+    "key": "change_randum",
+    "original": "カードを1枚選択して、ランダムなカードに変換",
+    "translation": "カードを1枚選択して、ランダムなカードに変換",
+    "context": null
+  },
+  {
+    "key": "change_done",
+    "original": "{0}に変換されました。",
+    "translation": "{0}に変換されました。",
+    "context": null
+  },
+  {
+    "key": "active_pool",
+    "original": "有効化する",
+    "translation": "有効化する",
+    "context": null
+  },
+  {
+    "key": "active_pool_conf",
+    "original": "有効化するとカード報酬に出現するようになります。",
+    "translation": "有効化するとカード報酬に出現するようになります。",
+    "context": null
+  },
+  {
+    "key": "inactive_pool",
+    "original": "無効化する",
+    "translation": "無効化する",
+    "context": null
+  },
+  {
+    "key": "inactive_pool_conf",
+    "original": "無効化すると、一時的にカード報酬に出現しなくなります。",
+    "translation": "無効化すると、一時的にカード報酬に出現しなくなります。",
+    "context": null
+  },
+  {
+    "key": "experience",
+    "original": "経験値",
+    "translation": "経験値",
+    "context": null
+  },
+  {
+    "key": "lack_experience",
+    "original": "経験値が不足しています",
+    "translation": "経験値が不足しています",
+    "context": null
+  },
+  {
+    "key": "dispose",
+    "original": "解放する",
+    "translation": "解放する",
+    "context": null
+  },
+  {
+    "key": "dispose_conf",
+    "original": "経験値を消費して、カードを解放できます",
+    "translation": "経験値を消費して、カードを解放できます",
+    "context": null
+  },
+  {
+    "key": "dispose_msg",
+    "original": "選択したカードプールを解放しますか?",
+    "translation": "選択したカードプールを解放しますか?",
+    "context": null
+  },
+  {
+    "key": "cardpool",
+    "original": "カードプール内容",
+    "translation": "カードプール内容",
+    "context": null
+  },
+  {
+    "key": "unselectable_msg",
+    "original": "一度クリアで選択可能になります",
+    "translation": "一度クリアで選択可能になります",
+    "context": null
+  },
+  {
+    "key": "story_confrict",
+    "original": "このまま進めるとストーリー上の不整合が生じる場合があります。",
+    "translation": "このまま進めるとストーリー上の不整合が生じる場合があります。",
+    "context": null
+  },
+  {
+    "key": "newdifficulty_format",
+    "original": "{0}の難易度:{1}が解放されました。",
+    "translation": "{0}の難易度:{1}が解放されました。",
+    "context": null
+  },
+  {
+    "key": "lost_maxhp",
+    "original": "最大HP{0}",
+    "translation": "最大HP{0}",
+    "context": null
+  },
+  {
+    "key": "ordeal1",
+    "original": "試練1",
+    "translation": "試練1",
+    "context": null
+  },
+  {
+    "key": "ordeal2",
+    "original": "試練2",
+    "translation": "試練2",
+    "context": null
+  },
+  {
+    "key": "ordeal3",
+    "original": "試練3",
+    "translation": "試練3",
+    "context": null
+  },
+  {
+    "key": "ordeal1_conf",
+    "original": "エリートマスに3回進む。",
+    "translation": "エリートマスに3回進む。",
+    "context": null
+  },
+  {
+    "key": "ordeal2_conf",
+    "original": "ストーリーマスに3回進む。",
+    "translation": "ストーリーマスに3回進む。",
+    "context": null
+  },
+  {
+    "key": "ordeal3_conf",
+    "original": "3体のボスを10ターン以内に倒す。",
+    "translation": "3体のボスを10ターン以内に倒す。",
+    "context": null
+  },
+  {
+    "key": "animation_normal",
+    "original": "普通",
+    "translation": "普通",
+    "context": null
+  },
+  {
+    "key": "animation_fast",
+    "original": "速い",
+    "translation": "速い",
+    "context": null
+  },
+  {
+    "key": "animation_veryfast",
+    "original": "高速",
+    "translation": "高速",
+    "context": null
+  },
+  {
+    "key": "disable_mouse",
+    "original": "他コントローラ使用時にマウス無効化",
+    "translation": "他コントローラ使用時にマウス無効化",
+    "context": null
+  },
+  {
+    "key": "cancel_by_miss",
+    "original": "攻撃範囲に敵がいないなら一度キャンセル",
+    "translation": "攻撃範囲に敵がいないなら一度キャンセル",
+    "context": null
+  },
+  {
+    "key": "manual_trigger_order",
+    "original": "トリガー能力の誘発順を手動で決定",
+    "translation": "トリガー能力の誘発順を手動で決定",
+    "context": null
+  },
+  {
+    "key": "counter_card_resolved",
+    "original": "効果処理終了に際してカードを発動する",
+    "translation": "効果処理終了に際してカードを発動する",
+    "context": null
+  },
+  {
+    "key": "counter_turn_progresss",
+    "original": "ターン進行に際してカードを発動する",
+    "translation": "ターン進行に際してカードを発動する",
+    "context": null
+  },
+  {
+    "key": "extra_menu",
+    "original": "Extra",
+    "translation": "Extra",
+    "context": null
+  },
+  {
+    "key": "extra_menu_conf",
+    "original": "経験値を消費してカードを解放できます",
+    "translation": "経験値を消費してカードを解放できます",
+    "context": null
+  },
+  {
+    "key": "deal_damage",
+    "original": "{0}ダメージを与える",
+    "translation": "{0}ダメージを与える",
+    "context": null
+  },
+  {
+    "key": "x_equal",
+    "original": "X = {0}",
+    "translation": "X = {0}",
+    "context": null
+  },
+  {
+    "key": "drow_card",
+    "original": "{0}枚ドローする",
+    "translation": "{0}枚ドローする",
+    "context": null
+  },
+  {
+    "key": "play_count",
+    "original": "{0}回プレイした",
+    "translation": "{0}回プレイした",
+    "context": null
+  },
+  {
+    "key": "invoke_count",
+    "original": "{0}回発動した",
+    "translation": "{0}回発動した",
+    "context": null
+  },
+  {
+    "key": "mpcost_mod",
+    "original": "コスト{0}",
+    "translation": "コスト{0}",
+    "context": null
+  },
+  {
+    "key": "get_barriar",
+    "original": "バリアを{0}得る",
+    "translation": "バリアを{0}得る",
+    "context": null
+  },
+  {
+    "key": "limit_active_card",
+    "original": "ターン中にアクティブカードを{0}回までしかプレイできない",
+    "translation": "ターン中にアクティブカードを{0}回までしかプレイできない",
+    "context": null
+  },
+  {
+    "key": "limit_any_card",
+    "original": "ターン中にカードを{0}回までしかプレイできない",
+    "translation": "ターン中にカードを{0}回までしかプレイできない",
+    "context": null
+  },
+  {
+    "key": "select_double_damage",
+    "original": "ダメージを2倍にするカードを1枚選択してください",
+    "translation": "ダメージを2倍にするカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "double_damage",
+    "original": "{0}のダメージ2倍",
+    "translation": "{0}のダメージ2倍",
+    "context": null
+  },
+  {
+    "key": "select_add_damage",
+    "original": "ダメージを{0}するカードを1枚選択してください",
+    "translation": "ダメージを{0}するカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "add_damage",
+    "original": "{0}のダメージ{1}",
+    "translation": "{0}のダメージ{1}",
+    "context": null
+  },
+  {
+    "key": "double_damage_all",
+    "original": "全てのダメージが2倍",
+    "translation": "全てのダメージが2倍",
+    "context": null
+  },
+  {
+    "key": "select_regist_damage",
+    "original": "ダメージを無効にするカードを1枚選択してください",
+    "translation": "ダメージを無効にするカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "regist_damage",
+    "original": "{0}のダメージ無効",
+    "translation": "{0}のダメージ無効",
+    "context": null
+  },
+  {
+    "key": "select_reflection",
+    "original": "ダメージを反射するカードを1枚選択してください",
+    "translation": "ダメージを反射するカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "reflection",
+    "original": "{0}のダメージ反射",
+    "translation": "{0}のダメージ反射",
+    "context": null
+  },
+  {
+    "key": "mpcost_mod_format",
+    "original": "{0}のMPコスト{1}",
+    "translation": "{0}のMPコスト{1}",
+    "context": null
+  },
+  {
+    "key": "mpcost_half_all",
+    "original": "全てのカードのマナコスト半減",
+    "translation": "全てのカードのマナコスト半減",
+    "context": null
+  },
+  {
+    "key": "mpcost_mod_x",
+    "original": "元々のコストがXのコスト{0}",
+    "translation": "元々のコストがXのコスト{0}",
+    "context": null
+  },
+  {
+    "key": "mpcost_mod_over2",
+    "original": "元々のコスト2以上の{0}のコスト{1}",
+    "translation": "元々のコスト2以上の{0}のコスト{1}",
+    "context": null
+  },
+  {
+    "key": "mpcost_mod_move",
+    "original": "移動能力のあるカードのコスト{0}",
+    "translation": "移動能力のあるカードのコスト{0}",
+    "context": null
+  },
+  {
+    "key": "select_x_value",
+    "original": "Xの値を決定してください",
+    "translation": "Xの値を決定してください",
+    "context": null
+  },
+  {
+    "key": "xcost_format",
+    "original": "X = {0} (総MPコスト {1})",
+    "translation": "X = {0} (総MPコスト {1})",
+    "context": null
+  },
+  {
+    "key": "select_field_grave",
+    "original": "フィールドから墓地に送るカードを{0}枚選択してください",
+    "translation": "フィールドから墓地に送るカードを{0}枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_hand_grave",
+    "original": "手札から墓地に送るカードを{0}枚選択してください",
+    "translation": "手札から墓地に送るカードを{0}枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_copy",
+    "original": "能力をコピーするカードを1枚選択してください",
+    "translation": "能力をコピーするカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_cost_down",
+    "original": "コストを減らすカードを1枚選択してください",
+    "translation": "コストを減らすカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "check_possession",
+    "original": "所持カードを確認",
+    "translation": "所持カードを確認",
+    "context": null
+  }
+]
