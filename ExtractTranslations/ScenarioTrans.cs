@@ -14,13 +14,13 @@ public class ScenarioTrans
         {
             var fi = new FileInfo(filePath);
             var fileContent = File.ReadAllText(filePath);
-            var matches = Regex.Matches(fileContent, @"Write\(""(.*?)""\);");
+            var matches = Regex.Matches(fileContent, @"Write(Add)*\(""(.*?)""\);");
 
             foreach (Match match in matches)
             {
-                if (match.Groups.Count > 1) // 确保有捕获组
+                if (match.Groups.Count > 2) // 确保有捕获组
                 {
-                    var text = match.Groups[1].Value; // 获取Write函数中的字符串参数
+                    var text = match.Groups[2].Value; // 获取Write函数中的字符串参数
                     jsonList.Add(new Dictionary<string, object>
                     {
                         { "key", $"{fi.Name}.{text}" },

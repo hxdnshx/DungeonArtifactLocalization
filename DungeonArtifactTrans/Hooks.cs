@@ -111,6 +111,17 @@ namespace catrice.DungeonArtifactTrans
             Logger.Log($"Translated:{str}");
         }
     }
+    
+    [HarmonyPatch(typeof(ScenarioComponent), nameof(ScenarioComponent.WriteAdd))]
+    public static class ScenarioFix2
+    {
+        public static void Prefix(ScenarioComponent __instance, ref string str)
+        {
+            Logger.Log($"Translate:{str}");
+            str = TranslationDB.ScenarioInfo.GetValueOrDefault(str, str);
+            Logger.Log($"Translated:{str}");
+        }
+    }
 
     [HarmonyPatch(typeof(Lang), nameof(Lang.ToText))]
     public static class LangFix

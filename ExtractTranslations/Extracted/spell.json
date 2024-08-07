@@ -1627,8 +1627,8 @@
   },
   {
     "key": "0.225.xml.context",
-    "original": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;28&lt;/color&gt;ダメージを与える。ダメージを与えた敵に&lt;color=#004711&gt;毒+6&lt;/color&gt;を与え、2マス&lt;b&gt;&lt;color=#352F00&gt;ノックバック&lt;/color&gt;&lt;/b&gt;させる。",
-    "translation": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;28&lt;/color&gt;ダメージを与える。ダメージを与えた敵に&lt;color=#004711&gt;毒+6&lt;/color&gt;を与え、2マス&lt;b&gt;&lt;color=#352F00&gt;ノックバック&lt;/color&gt;&lt;/b&gt;させる。",
+    "original": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;28&lt;/color&gt;ダメージと&lt;color=#004711&gt;毒+6&lt;/color&gt;を与え、2マス&lt;b&gt;&lt;color=#352F00&gt;ノックバック&lt;/color&gt;&lt;/b&gt;させる。",
+    "translation": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;28&lt;/color&gt;ダメージと&lt;color=#004711&gt;毒+6&lt;/color&gt;を与え、2マス&lt;b&gt;&lt;color=#352F00&gt;ノックバック&lt;/color&gt;&lt;/b&gt;させる。",
     "context": null
   },
   {

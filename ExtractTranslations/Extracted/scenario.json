@@ -432,6 +432,12 @@
     "context": null
   },
   {
+    "key": "afterwarp.txt.はぐれてしまった。」",
+    "original": "はぐれてしまった。」",
+    "translation": "はぐれてしまった。」",
+    "context": null
+  },
+  {
     "key": "afterwarp.txt.「私が転移させられたのだとすれば、合流すべきか。いや、場所が分からない。」",
     "original": "「私が転移させられたのだとすれば、合流すべきか。いや、場所が分からない。」",
     "translation": "「私が転移させられたのだとすれば、合流すべきか。いや、場所が分からない。」",
@@ -1149,6 +1155,12 @@
     "key": "gameclearnormal.txt.（スミルナとのダンジョン攻略、とても充実していた。",
     "original": "（スミルナとのダンジョン攻略、とても充実していた。",
     "translation": "（スミルナとのダンジョン攻略、とても充実していた。",
+    "context": null
+  },
+  {
+    "key": "gameclearnormal.txt.だが・・・）",
+    "original": "だが・・・）",
+    "translation": "だが・・・）",
     "context": null
   },
   {
@@ -2415,6 +2427,12 @@
     "key": "epiloguetrue.txt.「あなたは・・・",
     "original": "「あなたは・・・",
     "translation": "「あなたは・・・",
+    "context": null
+  },
+  {
+    "key": "epiloguetrue.txt.誰ですか？」",
+    "original": "誰ですか？」",
+    "translation": "誰ですか？」",
     "context": null
   },
   {
