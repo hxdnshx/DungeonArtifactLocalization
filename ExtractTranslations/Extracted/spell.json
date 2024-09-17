@@ -1363,8 +1363,8 @@
   },
   {
     "key": "0.203.xml.context",
-    "original": "自分のターン終了する度にMPを1回復する。",
-    "translation": "自分のターン終了する度にMPを1回復する。",
+    "original": "自分または敵のターンが終了する度にMPを1回復する。",
+    "translation": "自分または敵のターンが終了する度にMPを1回復する。",
     "context": null
   },
   {

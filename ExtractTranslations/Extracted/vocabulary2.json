@@ -1657,8 +1657,8 @@
   },
   {
     "key": "mpcost_half_all",
-    "original": "全てのカードのマナコスト半減",
-    "translation": "全てのカードのマナコスト半減",
+    "original": "全てのカードのMPコスト半減",
+    "translation": "全てのカードのMPコスト半減",
     "context": null
   },
   {
@@ -1704,9 +1704,9 @@
     "context": null
   },
   {
-    "key": "select_copy",
-    "original": "能力をコピーするカードを1枚選択してください",
-    "translation": "能力をコピーするカードを1枚選択してください",
+    "key": "select_copy_counter",
+    "original": "能力をコピーするカウンターカードを1枚選択してください",
+    "translation": "能力をコピーするカウンターカードを1枚選択してください",
     "context": null
   },
   {
@@ -1719,6 +1719,426 @@
     "key": "check_possession",
     "original": "所持カードを確認",
     "translation": "所持カードを確認",
+    "context": null
+  },
+  {
+    "key": "card_translation",
+    "original": "カード変換",
+    "translation": "カード変換",
+    "context": null
+  },
+  {
+    "key": "reward_msg",
+    "original": "{0}を獲得!",
+    "translation": "{0}を獲得!",
+    "context": null
+  },
+  {
+    "key": "no_exist_graveyard",
+    "original": "{0}が墓地に存在しません",
+    "translation": "{0}が墓地に存在しません",
+    "context": null
+  },
+  {
+    "key": "no_exist_target",
+    "original": "対象のカードが存在しません",
+    "translation": "対象のカードが存在しません",
+    "context": null
+  },
+  {
+    "key": "select_copy_ability",
+    "original": "能力をコピーするカードを1枚選択してください",
+    "translation": "能力をコピーするカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "turnend_enchant_format",
+    "original": "ターン終了時に{0}",
+    "translation": "ターン終了時に{0}",
+    "context": null
+  },
+  {
+    "key": "could_not_drow",
+    "original": "ドローできませんでした",
+    "translation": "ドローできませんでした",
+    "context": null
+  },
+  {
+    "key": "mpcost_change_format",
+    "original": "{0}のMPコストを{1}にする",
+    "translation": "{0}のMPコストを{1}にする",
+    "context": null
+  },
+  {
+    "key": "select_search_card",
+    "original": "手札に加えるカードを1枚選択してください",
+    "translation": "手札に加えるカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_cost_half",
+    "original": "MPコストを半分にするカードを選択してください",
+    "translation": "MPコストを半分にするカードを選択してください",
+    "context": null
+  },
+  {
+    "key": "mpcost_half_format",
+    "original": "{0}のMPコストを半減する",
+    "translation": "{0}のMPコストを半減する",
+    "context": null
+  },
+  {
+    "key": "select_apply_ability",
+    "original": "適用する能力を選択してください",
+    "translation": "適用する能力を選択してください",
+    "context": null
+  },
+  {
+    "key": "get_enchant_format",
+    "original": "{0}を得る",
+    "translation": "{0}を得る",
+    "context": null
+  },
+  {
+    "key": "select_generate_permanent",
+    "original": "生成するパーマネントカードを1枚選択してください",
+    "translation": "生成するパーマネントカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_salvage_format",
+    "original": "フィールドに戻すカードを1枚選択してください",
+    "translation": "フィールドに戻すカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_dispell",
+    "original": "無効化するカードを1枚選択してください",
+    "translation": "無効化するカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "instead_payhp_format",
+    "original": "MPコストの代わりにHPを{0}払いますか?",
+    "translation": "MPコストの代わりにHPを{0}払いますか?",
+    "context": null
+  },
+  {
+    "key": "select_put_field",
+    "original": "フィールドに置くカードを1枚選んでください",
+    "translation": "フィールドに置くカードを1枚選んでください",
+    "context": null
+  },
+  {
+    "key": "select_enemy",
+    "original": "対象の敵を選択してください",
+    "translation": "対象の敵を選択してください",
+    "context": null
+  },
+  {
+    "key": "select_destroy_field",
+    "original": "破壊するフィールドのカードを1枚選択してください",
+    "translation": "破壊するフィールドのカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_send_graveyard",
+    "original": "墓地に送るフィールドのカードを1枚選択してください",
+    "translation": "墓地に送るフィールドのカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "resonance_buff",
+    "original": "ターン終了時最大MPを1増加する",
+    "translation": "ターン終了時最大MPを1増加する",
+    "context": null
+  },
+  {
+    "key": "play_to_zero",
+    "original": "プレイ時にMPを0にする",
+    "translation": "プレイ時にMPを0にする",
+    "context": null
+  },
+  {
+    "key": "select_invoke_active",
+    "original": "発動するアクティブカードを1枚選択してください",
+    "translation": "発動するアクティブカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "enchant_buff",
+    "original": "(エンチャント/バフ)",
+    "translation": "(エンチャント/バフ)",
+    "context": null
+  },
+  {
+    "key": "enchant_debuff",
+    "original": "(エンチャント/デバフ)",
+    "translation": "(エンチャント/デバフ)",
+    "context": null
+  },
+  {
+    "key": "no_exist_targetenemy",
+    "original": "対象の敵が存在しません",
+    "translation": "対象の敵が存在しません",
+    "context": null
+  },
+  {
+    "key": "no_exist_coord",
+    "original": "選択された座標が存在しません",
+    "translation": "選択された座標が存在しません",
+    "context": null
+  },
+  {
+    "key": "select_destroy_hand",
+    "original": "破壊する手札のカードを選択してください",
+    "translation": "破壊する手札のカードを選択してください",
+    "context": null
+  },
+  {
+    "key": "damageup_mpcost",
+    "original": "ダメージがそのカードの元々のコスト分増加",
+    "translation": "ダメージがそのカードの元々のコスト分増加",
+    "context": null
+  },
+  {
+    "key": "onturnend_barriar_format",
+    "original": "自分のターン終了時に{0}バリアを得る",
+    "translation": "自分のターン終了時に{0}バリアを得る",
+    "context": null
+  },
+  {
+    "key": "mpcost_hand_change",
+    "original": "手札のカードのMPコストは{0}になる",
+    "translation": "手札のカードのMPコストは{0}になる",
+    "context": null
+  },
+  {
+    "key": "onturnstart_halfbarriar",
+    "original": "ターン開始時にバリア半減",
+    "translation": "ターン開始時にバリア半減",
+    "context": null
+  },
+  {
+    "key": "circlet_format",
+    "original": "ターンの最初に発動するカードのMPコストは{0}になる",
+    "translation": "ターンの最初に発動するカードのMPコストは{0}になる",
+    "context": null
+  },
+  {
+    "key": "invoke_limit",
+    "original": "ターン中にカードを{0}枚までしか発動できない",
+    "translation": "ターン中にカードを{0}枚までしか発動できない",
+    "context": null
+  },
+  {
+    "key": "select_hold_card",
+    "original": "保留するカードを1枚選択してください",
+    "translation": "保留するカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_destination",
+    "original": "移動先を選択してください",
+    "translation": "移動先を選択してください",
+    "context": null
+  },
+  {
+    "key": "invoke_conf_format",
+    "original": "{0}を発動しますか?",
+    "translation": "{0}を発動しますか?",
+    "context": null
+  },
+  {
+    "key": "select_card_generate",
+    "original": "生成するカードを1枚選択してください",
+    "translation": "生成するカードを1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "putfield_turnend",
+    "original": "ターン終了時に{0}をフィールドに置く",
+    "translation": "ターン終了時に{0}をフィールドに置く",
+    "context": null
+  },
+  {
+    "key": "select_banish_card",
+    "original": "除外するカードを1枚選んでください",
+    "translation": "除外するカードを1枚選んでください",
+    "context": null
+  },
+  {
+    "key": "salvage_ability",
+    "original": "墓地のカードを手札に加える",
+    "translation": "墓地のカードを手札に加える",
+    "context": null
+  },
+  {
+    "key": "pull_ability",
+    "original": "(廃棄)を持つ。除外領域のカードを手札に加える",
+    "translation": "(廃棄)を持つ。除外領域のカードを手札に加える",
+    "context": null
+  },
+  {
+    "key": "log_nothing",
+    "original": "ログがありません",
+    "translation": "ログがありません",
+    "context": null
+  },
+  {
+    "key": "copy_cardtext",
+    "original": "(コピー)",
+    "translation": "(コピー)",
+    "context": null
+  },
+  {
+    "key": "select_generate_same",
+    "original": "同名カードを生成する対象を1枚選択してください",
+    "translation": "同名カードを生成する対象を1枚選択してください",
+    "context": null
+  },
+  {
+    "key": "send_graveyard_conf",
+    "original": "手札からカードを{0}枚墓地に送りますか？",
+    "translation": "手札からカードを{0}枚墓地に送りますか？",
+    "context": null
+  },
+  {
+    "key": "disable_barriar_reset",
+    "original": "ターン開始時にバリアが0にならない",
+    "translation": "ターン開始時にバリアが0にならない",
+    "context": null
+  },
+  {
+    "key": "get_barriar_half",
+    "original": "得られるバリアが半分になる",
+    "translation": "得られるバリアが半分になる",
+    "context": null
+  },
+  {
+    "key": "kicker_total_format",
+    "original": "総MPコスト {0}",
+    "translation": "総MPコスト {0}",
+    "context": null
+  },
+  {
+    "key": "kicker_conf_format",
+    "original": "{0}MPのコストを追加で払いますか?",
+    "translation": "{0}MPのコストを追加で払いますか?",
+    "context": null
+  },
+  {
+    "key": "kicker_reject_format",
+    "original": "払わない (総コスト {0})",
+    "translation": "払わない (総コスト {0})",
+    "context": null
+  },
+  {
+    "key": "multikicker_conf_format",
+    "original": "{0}MPのコストを追加で何回払いますか?",
+    "translation": "{0}MPのコストを追加で何回払いますか?",
+    "context": null
+  },
+  {
+    "key": "multikicker_total_format",
+    "original": "{0}回払う (総MPコスト {1})",
+    "translation": "{0}回払う (総MPコスト {1})",
+    "context": null
+  },
+  {
+    "key": "mpcost_mod_conf",
+    "original": "このカードのMPコストを{0}しますか?\"",
+    "translation": "このカードのMPコストを{0}しますか?\"",
+    "context": null
+  },
+  {
+    "key": "hold_format",
+    "original": "{0}を保留する",
+    "translation": "{0}を保留する",
+    "context": null
+  },
+  {
+    "key": "select_count_format",
+    "original": "{0}枚を選択",
+    "translation": "{0}枚を選択",
+    "context": null
+  },
+  {
+    "key": "continue_game",
+    "original": "コンティニュー",
+    "translation": "コンティニュー",
+    "context": null
+  },
+  {
+    "key": "unlocked_pool",
+    "original": "解放済み",
+    "translation": "解放済み",
+    "context": null
+  },
+  {
+    "key": "disabled_pool",
+    "original": "解放済み(無効)",
+    "translation": "解放済み(無効)",
+    "context": null
+  },
+  {
+    "key": "seed_value",
+    "original": "シード値",
+    "translation": "シード値",
+    "context": null
+  },
+  {
+    "key": "seed_conf",
+    "original": "同じシードなら同じ報酬・同じマップになります。",
+    "translation": "同じシードなら同じ報酬・同じマップになります。",
+    "context": null
+  },
+  {
+    "key": "remove_char",
+    "original": "一文字消す",
+    "translation": "一文字消す",
+    "context": null
+  },
+  {
+    "key": "too_large_value",
+    "original": "値が大きすぎます",
+    "translation": "値が大きすぎます",
+    "context": null
+  },
+  {
+    "key": "invalid_value",
+    "original": "値が不正です。",
+    "translation": "値が不正です。",
+    "context": null
+  },
+  {
+    "key": "specify_seed_value",
+    "original": "指定シード値",
+    "translation": "指定シード値",
+    "context": null
+  },
+  {
+    "key": "random_seed_value",
+    "original": "ランダムシード値",
+    "translation": "ランダムシード値",
+    "context": null
+  },
+  {
+    "key": "random",
+    "original": "ランダム",
+    "translation": "ランダム",
+    "context": null
+  },
+  {
+    "key": "select_copy_order",
+    "original": "コピーする順番を選択してください。（数字の大きいカードの能力が先に適用される）",
+    "translation": "コピーする順番を選択してください。（数字の大きいカードの能力が先に適用される）",
+    "context": null
+  },
+  {
+    "key": "copy_order_conf",
+    "original": "コピーする順番を手動で選択しますか？",
+    "translation": "コピーする順番を手動で選択しますか？",
     "context": null
   }
 ]
