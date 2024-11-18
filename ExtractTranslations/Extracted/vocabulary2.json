@@ -294,9 +294,9 @@
     "context": null
   },
   {
-    "key": "extra",
-    "original": "エクストラ Lv {0}",
-    "translation": "エクストラ Lv {0}",
+    "key": "veryhard",
+    "original": "ベリーハード",
+    "translation": "ベリーハード",
     "context": null
   },
   {
@@ -2139,6 +2139,48 @@
     "key": "copy_order_conf",
     "original": "コピーする順番を手動で選択しますか？",
     "translation": "コピーする順番を手動で選択しますか？",
+    "context": null
+  },
+  {
+    "key": "seed_attention",
+    "original": "※同じシード値であってもバージョンが異なる場合、同じゲームプレイにならない可能性があります。",
+    "translation": "※同じシード値であってもバージョンが異なる場合、同じゲームプレイにならない可能性があります。",
+    "context": null
+  },
+  {
+    "key": "double_card_reward",
+    "original": "ランダムなカード報酬を2枚獲得する",
+    "translation": "ランダムなカード報酬を2枚獲得する",
+    "context": null
+  },
+  {
+    "key": "normal_discription",
+    "original": "難易度ノーマル : 基本的な難易度",
+    "translation": "難易度ノーマル : 基本的な難易度",
+    "context": null
+  },
+  {
+    "key": "hard_discription",
+    "original": "難易度ハード : 敵の体力増加、強化+2",
+    "translation": "難易度ハード : 敵の体力増加、強化+2",
+    "context": null
+  },
+  {
+    "key": "veryhard_discription",
+    "original": "難易度ベリーハード : 敵の体力増加、強化+2、デッキの強化",
+    "translation": "難易度ベリーハード : 敵の体力増加、強化+2、デッキの強化",
+    "context": null
+  },
+  {
+    "key": "barriar_limitter",
+    "original": "自分はバリアが{0}以上ある限り、バリアを得られない",
+    "translation": "自分はバリアが{0}以上ある限り、バリアを得られない",
+    "context": null
+  },
+  {
+    "key": "card_search",
+    "original": "テキストでカード名を検索",
+    "translation": "テキストでカード名を検索",
     "context": null
   }
 ]
