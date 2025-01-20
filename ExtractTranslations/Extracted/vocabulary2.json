@@ -2182,5 +2182,35 @@
     "original": "テキストでカード名を検索",
     "translation": "テキストでカード名を検索",
     "context": null
+  },
+  {
+    "key": "card_banished",
+    "original": "{0}が除外された",
+    "translation": "{0}が除外された",
+    "context": null
+  },
+  {
+    "key": "reroll",
+    "original": "リロール",
+    "translation": "リロール",
+    "context": null
+  },
+  {
+    "key": "reroll_message",
+    "original": "{0}{1}を消費して報酬をリロールしますか？",
+    "translation": "{0}{1}を消費して報酬をリロールしますか？",
+    "context": null
+  },
+  {
+    "key": "view_status",
+    "original": "プレイヤーキャラ上のステータスを表示する",
+    "translation": "プレイヤーキャラ上のステータスを表示する",
+    "context": null
+  },
+  {
+    "key": "view_enemy_atrifact",
+    "original": "敵のアーティファクトを表示する",
+    "translation": "敵のアーティファクトを表示する",
+    "context": null
   }
 ]

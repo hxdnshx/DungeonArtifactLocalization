@@ -151,8 +151,8 @@
   },
   {
     "key": "0.109.xml.context",
-    "original": "自分は&lt;color=#004711&gt;強化3&lt;/color&gt;を得る。ターン終了時に&lt;color=#004711&gt;強化2&lt;/color&gt;を失う。",
-    "translation": "自分は&lt;color=#004711&gt;強化3&lt;/color&gt;を得る。ターン終了時に&lt;color=#004711&gt;強化2&lt;/color&gt;を失う。",
+    "original": "自分は&lt;color=#004711&gt;強化+4&lt;/color&gt;を得る。ターン終了時に&lt;color=#004711&gt;強化+2&lt;/color&gt;を失う。",
+    "translation": "自分は&lt;color=#004711&gt;強化+4&lt;/color&gt;を得る。ターン終了時に&lt;color=#004711&gt;強化+2&lt;/color&gt;を失う。",
     "context": null
   },
   {
@@ -343,8 +343,8 @@
   },
   {
     "key": "0.123.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;自分の手札を1枚墓地に送る。: 自分は&lt;color=#004711&gt;蓄積+2&lt;/color&gt;を得る。その後カードを2枚ドローする。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;自分の手札を1枚墓地に送る。: 自分は&lt;color=#004711&gt;蓄積+2&lt;/color&gt;を得る。その後カードを2枚ドローする。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;自分の手札を1枚墓地に送る。: カードを2枚ドローする。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;自分の手札を1枚墓地に送る。: カードを2枚ドローする。",
     "context": null
   },
   {
@@ -1027,8 +1027,8 @@
   },
   {
     "key": "0.176.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。その後、HPが1減少する。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。その後、HPが1減少する。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -1375,8 +1375,8 @@
   },
   {
     "key": "0.204.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動条件を無視して発動する。&lt;b&gt;X&lt;/b&gt;はコストで墓地に送ったカードの元々のMPコストと等しい。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動条件を無視して発動する。&lt;b&gt;X&lt;/b&gt;はコストで墓地に送ったカードの元々のMPコストと等しい。",
+    "original": "手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動条件を無視して発動する。&lt;br&gt;このカードのMPコストはこのカードの能力で発動したカードの元々のMPコストと等しい。",
+    "translation": "手札の元々のコストが&lt;b&gt;X&lt;/b&gt;でないアクティブカード1枚を選択し、そのカードをコストを支払わずに発動条件を無視して発動する。&lt;br&gt;このカードのMPコストはこのカードの能力で発動したカードの元々のMPコストと等しい。",
     "context": null
   },
   {
@@ -1447,8 +1447,8 @@
   },
   {
     "key": "0.21.xml.context",
-    "original": "このカードのMPコストはこのカード以外の手札の枚数分減少する。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;強化+4&lt;/color&gt;を得る。",
-    "translation": "このカードのMPコストはこのカード以外の手札の枚数分減少する。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;強化+4&lt;/color&gt;を得る。",
+    "original": "このカードのMPコストはこのカード以外の手札の枚数分減少する。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;強化+5&lt;/color&gt;を得る。",
+    "translation": "このカードのMPコストはこのカード以外の手札の枚数分減少する。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;強化+5&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -1459,8 +1459,8 @@
   },
   {
     "key": "0.210.xml.context",
-    "original": "自分は&lt;color=#004711&gt;強化+2&lt;/color&gt;を得る。",
-    "translation": "自分は&lt;color=#004711&gt;強化+2&lt;/color&gt;を得る。",
+    "original": "自分は&lt;color=#004711&gt;強化+3&lt;/color&gt;を得る。",
+    "translation": "自分は&lt;color=#004711&gt;強化+3&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -1555,8 +1555,8 @@
   },
   {
     "key": "0.219.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:3)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードがフィールドから墓地に送られた時に発動する。周囲2マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:3)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードがフィールドから墓地に送られた時に発動する。周囲2マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:2)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードがフィールドから墓地に送られた時に発動する。周囲2マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;カウントダウン&lt;/color&gt;&lt;/b&gt;:2)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードがフィールドから墓地に送られた時に発動する。周囲2マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {
@@ -1759,8 +1759,8 @@
   },
   {
     "key": "0.235.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;前方1マスの3×3の範囲に&lt;color=#870011&gt;16&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;前方1マスの3×3の範囲に&lt;color=#870011&gt;16&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。自分は&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -1843,8 +1843,8 @@
   },
   {
     "key": "0.241.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。:自分の墓地からパーマネントカード1枚を選び、フィールドに置く。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。:自分の墓地からパーマネントカード1枚を選び、フィールドに置く。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;パーマネントカード以外の手札を2枚墓地に送る。:自分の手札か墓地からパーマネントカード1枚を選択し、フィールドに置く。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;パーマネントカード以外の手札を2枚墓地に送る。:自分の手札か墓地からパーマネントカード1枚を選択し、フィールドに置く。",
     "context": null
   },
   {
@@ -1977,6 +1977,18 @@
     "key": "0.251.xml.context",
     "original": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;28&lt;/color&gt;ダメージを与え、距離3マスの位置まで&lt;b&gt;&lt;color=#352F00&gt;ノックバック&lt;/color&gt;&lt;/b&gt;させる。",
     "translation": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;28&lt;/color&gt;ダメージを与え、距離3マスの位置まで&lt;b&gt;&lt;color=#352F00&gt;ノックバック&lt;/color&gt;&lt;/b&gt;させる。",
+    "context": null
+  },
+  {
+    "key": "0.252.xml.name",
+    "original": "[薙]{な}ぎ[払]{はら}い",
+    "translation": "[薙]{な}ぎ[払]{はら}い",
+    "context": null
+  },
+  {
+    "key": "0.252.xml.context",
+    "original": "周囲1マス及び距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。ダメージを与えた敵に&lt;color=#004711&gt;強化-3&lt;/color&gt;を与える。",
+    "translation": "周囲1マス及び距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。ダメージを与えた敵に&lt;color=#004711&gt;強化-3&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2119,8 +2131,8 @@
   },
   {
     "key": "0.264.xml.context",
-    "original": "自分はバリア5を得る。距離2マス以内のすべての敵に&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
-    "translation": "自分はバリア5を得る。距離2マス以内のすべての敵に&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
+    "original": "自分はバリア&lt;color=#002A66&gt;5&lt;/color&gt;を得る。距離2マス以内のすべての敵に&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
+    "translation": "自分はバリア&lt;color=#002A66&gt;5&lt;/color&gt;を得る。距離2マス以内のすべての敵に&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2239,8 +2251,8 @@
   },
   {
     "key": "0.273.xml.context",
-    "original": "周囲3マスの敵に&lt;color=#870011&gt;35&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
-    "translation": "周囲3マスの敵に&lt;color=#870011&gt;35&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
+    "original": "周囲3マスに&lt;color=#870011&gt;35&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
+    "translation": "周囲3マスに&lt;color=#870011&gt;35&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2359,8 +2371,8 @@
   },
   {
     "key": "0.282.xml.context",
-    "original": "前方3マスの敵に&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;激昂+3&lt;/color&gt;を得る。",
-    "translation": "前方3マスの敵に&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;激昂+3&lt;/color&gt;を得る。",
+    "original": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;激昂+3&lt;/color&gt;を得る。",
+    "translation": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;激昂+3&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -2371,8 +2383,8 @@
   },
   {
     "key": "0.283.xml.context",
-    "original": "周囲2マスの敵に&lt;color=#870011&gt;9&lt;/color&gt;ダメージと麻痺+2を与える。",
-    "translation": "周囲2マスの敵に&lt;color=#870011&gt;9&lt;/color&gt;ダメージと麻痺+2を与える。",
+    "original": "周囲2マスに&lt;color=#870011&gt;9&lt;/color&gt;ダメージと麻痺+2を与える。",
+    "translation": "周囲2マスに&lt;color=#870011&gt;9&lt;/color&gt;ダメージと麻痺+2を与える。",
     "context": null
   },
   {
@@ -2407,8 +2419,8 @@
   },
   {
     "key": "0.286.xml.context",
-    "original": "周囲3マスの敵に&lt;color=#870011&gt;10×その敵との距離&lt;/color&gt;に等しいダメージを与える。",
-    "translation": "周囲3マスの敵に&lt;color=#870011&gt;10×その敵との距離&lt;/color&gt;に等しいダメージを与える。",
+    "original": "周囲3マスに&lt;color=#870011&gt;10×その敵との距離&lt;/color&gt;に等しいダメージを与える。",
+    "translation": "周囲3マスに&lt;color=#870011&gt;10×その敵との距離&lt;/color&gt;に等しいダメージを与える。",
     "context": null
   },
   {
@@ -2431,8 +2443,8 @@
   },
   {
     "key": "0.288.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル中に1度だけ、自分のHPが半分以下になったときに発動する。自分は&lt;color=#004711&gt;強化+2&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル中に1度だけ、自分のHPが半分以下になったときに発動する。自分は&lt;color=#004711&gt;強化+2&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル中に1度だけ、自分のHPが半分以下になったときに発動する。自分のターン終了時まで、&lt;color=#004711&gt;強化+2&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル中に1度だけ、自分のHPが半分以下になったときに発動する。自分のターン終了時まで、&lt;color=#004711&gt;強化+2&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -2455,8 +2467,8 @@
   },
   {
     "key": "0.290.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)周囲2マスの敵に&lt;color=#870011&gt;18&lt;/color&gt;ダメージを与える。その後、すべての敵に&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)周囲2マスの敵に&lt;color=#870011&gt;18&lt;/color&gt;ダメージを与える。その後、すべての敵に&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)周囲2マスに&lt;color=#870011&gt;18&lt;/color&gt;ダメージを与える。その後、すべての敵に&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)周囲2マスに&lt;color=#870011&gt;18&lt;/color&gt;ダメージを与える。その後、すべての敵に&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2491,8 +2503,8 @@
   },
   {
     "key": "0.294.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)バトル終了時まで、すべての敵の最大MPを-1して、&lt;color=#004711&gt;火傷+10&lt;/color&gt;を与える。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)バトル終了時まで、すべての敵の最大MPを-1して、&lt;color=#004711&gt;火傷+10&lt;/color&gt;を与える。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)バトル終了時まで、すべての敵の最大MPを-1して、&lt;color=#004711&gt;燃焼+10&lt;/color&gt;を与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)バトル終了時まで、すべての敵の最大MPを-1して、&lt;color=#004711&gt;燃焼+10&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2503,8 +2515,8 @@
   },
   {
     "key": "0.295.xml.context",
-    "original": "前方3マスの敵に&lt;color=#870011&gt;10&lt;/color&gt;ダメージと堅牢-2を与える。",
-    "translation": "前方3マスの敵に&lt;color=#870011&gt;10&lt;/color&gt;ダメージと堅牢-2を与える。",
+    "original": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージと堅牢-2を与える。",
+    "translation": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージと堅牢-2を与える。",
     "context": null
   },
   {
@@ -2515,8 +2527,8 @@
   },
   {
     "key": "0.296.xml.context",
-    "original": "5ターン目以降に発動できる。周囲3マスの敵に&lt;color=#870011&gt;30&lt;/color&gt;ダメージを与える。",
-    "translation": "5ターン目以降に発動できる。周囲3マスの敵に&lt;color=#870011&gt;30&lt;/color&gt;ダメージを与える。",
+    "original": "5ターン目以降に発動できる。周囲3マスに&lt;color=#870011&gt;30&lt;/color&gt;ダメージを与える。",
+    "translation": "5ターン目以降に発動できる。周囲3マスに&lt;color=#870011&gt;30&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {
@@ -2527,8 +2539,8 @@
   },
   {
     "key": "0.297.xml.context",
-    "original": "距離3以内の最も近い敵に&lt;color=#870011&gt;5&lt;/color&gt;ダメージを与え、ダメージを与えた敵に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,135&gt;暴走&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。これを6回行う。",
-    "translation": "距離3以内の最も近い敵に&lt;color=#870011&gt;5&lt;/color&gt;ダメージを与え、ダメージを与えた敵に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,135&gt;暴走&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。これを6回行う。",
+    "original": "距離3以内の最も近い敵に&lt;color=#870011&gt;5&lt;/color&gt;ダメージを与え、その敵に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,135&gt;暴走&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。これを6回行う。",
+    "translation": "距離3以内の最も近い敵に&lt;color=#870011&gt;5&lt;/color&gt;ダメージを与え、その敵に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,135&gt;暴走&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。これを6回行う。",
     "context": null
   },
   {
@@ -2599,8 +2611,8 @@
   },
   {
     "key": "0.301.xml.context",
-    "original": "自分が受ける100以上のダメージは100になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵が一度に20以上のバリアを得た時に発動する。自分は&lt;color=#004711&gt;加護+&lt;b&gt;X&lt;/b&gt;&lt;/color&gt;を得る。&lt;b&gt;X&lt;/b&gt;は敵が得たバリアの値に等しい。",
-    "translation": "自分が受ける100以上のダメージは100になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵が一度に20以上のバリアを得た時に発動する。自分は&lt;color=#004711&gt;加護+&lt;b&gt;X&lt;/b&gt;&lt;/color&gt;を得る。&lt;b&gt;X&lt;/b&gt;は敵が得たバリアの値に等しい。",
+    "original": "自分が受ける100以上のダメージは100になる。",
+    "translation": "自分が受ける100以上のダメージは100になる。",
     "context": null
   },
   {
@@ -2647,8 +2659,8 @@
   },
   {
     "key": "0.305.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスの敵に&lt;color=#870011&gt;40&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;頭痛+1&lt;/color&gt;を与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分は強化+6を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスの敵に&lt;color=#870011&gt;40&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;頭痛+1&lt;/color&gt;を与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分は強化+6を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスに&lt;color=#870011&gt;40&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;頭痛+1&lt;/color&gt;を与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分は強化+6を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスに&lt;color=#870011&gt;40&lt;/color&gt;ダメージと&lt;color=#004711&gt;妨害+1&lt;/color&gt;と&lt;color=#004711&gt;頭痛+1&lt;/color&gt;を与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分は強化+6を得る。",
     "context": null
   },
   {
@@ -2671,8 +2683,8 @@
   },
   {
     "key": "0.307.xml.context",
-    "original": "敵がカードをプレイする毎に、&lt;color=#004711&gt;蓄積+1&lt;/color&gt;を得る。&lt;br&gt;自分がターンを終了する毎に、&lt;color=#004711&gt;蓄積+5&lt;/color&gt;を失う。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル開始時に発動する。すべての敵に&lt;color=#004711&gt;頭痛+2&lt;/color&gt;を与える。",
-    "translation": "敵がカードをプレイする毎に、&lt;color=#004711&gt;蓄積+1&lt;/color&gt;を得る。&lt;br&gt;自分がターンを終了する毎に、&lt;color=#004711&gt;蓄積+5&lt;/color&gt;を失う。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル開始時に発動する。すべての敵に&lt;color=#004711&gt;頭痛+2&lt;/color&gt;を与える。",
+    "original": "敵がカードをプレイする毎に、&lt;color=#004711&gt;蓄積+1&lt;/color&gt;を得る。&lt;br&gt;自分がターンを終了する毎に、&lt;color=#004711&gt;蓄積+3&lt;/color&gt;を失う。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル開始時に発動する。すべての敵に&lt;color=#004711&gt;頭痛+2&lt;/color&gt;を与える。",
+    "translation": "敵がカードをプレイする毎に、&lt;color=#004711&gt;蓄積+1&lt;/color&gt;を得る。&lt;br&gt;自分がターンを終了する毎に、&lt;color=#004711&gt;蓄積+3&lt;/color&gt;を失う。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル開始時に発動する。すべての敵に&lt;color=#004711&gt;頭痛+2&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2745,18 +2757,6 @@
     "key": "0.314.xml.context",
     "original": "敵を1体対象にする。次の自分のターンの終了時まで、&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。その後、距離2マスまたは3マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
     "translation": "敵を1体対象にする。次の自分のターンの終了時まで、&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。その後、距離2マスまたは3マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
-    "context": null
-  },
-  {
-    "key": "0.315.xml.name",
-    "original": "オブファスケーター",
-    "translation": "オブファスケーター",
-    "context": null
-  },
-  {
-    "key": "0.315.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のプレイしたカードが敵によって&lt;b&gt;&lt;color=#352F00&gt;無効化&lt;/color&gt;&lt;/b&gt;されたときに発動する。:その敵に&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のプレイしたカードが敵によって&lt;b&gt;&lt;color=#352F00&gt;無効化&lt;/color&gt;&lt;/b&gt;されたときに発動する。:その敵に&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {
@@ -2887,8 +2887,8 @@
   },
   {
     "key": "0.38.xml.context",
-    "original": "カードを1枚ドローする、そのカードのMPコストを1にする。",
-    "translation": "カードを1枚ドローする、そのカードのMPコストを1にする。",
+    "original": "デッキの上から2枚を確認しその中の1枚を選んで手札に加える。そのカードのMPコストを1にする。",
+    "translation": "デッキの上から2枚を確認しその中の1枚を選んで手札に加える。そのカードのMPコストを1にする。",
     "context": null
   },
   {
@@ -3043,8 +3043,8 @@
   },
   {
     "key": "0.5.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;color=#870011&gt;距離2以内の最も近い敵に自分バリアの半分&lt;/color&gt;に等しいダメージを与える。(小数切り捨て)",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;color=#870011&gt;距離2以内の最も近い敵に自分バリアの半分&lt;/color&gt;に等しいダメージを与える。(小数切り捨て)",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;color=#870011&gt;距離2マス以内の最も近い敵に自分のバリアの半分&lt;/color&gt;に等しいダメージを与える。(小数切り捨て)",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;color=#870011&gt;距離2マス以内の最も近い敵に自分のバリアの半分&lt;/color&gt;に等しいダメージを与える。(小数切り捨て)",
     "context": null
   },
   {
@@ -3055,8 +3055,8 @@
   },
   {
     "key": "0.50.xml.context",
-    "original": "カードを3枚ドローし、その後手札のカード2枚を選択して墓地に送る。",
-    "translation": "カードを3枚ドローし、その後手札のカード2枚を選択して墓地に送る。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;クールダウン&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;カードを3枚ドローし、その後手札のカード2枚を選択して墓地に送る。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;クールダウン&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;カードを3枚ドローし、その後手札のカード2枚を選択して墓地に送る。",
     "context": null
   },
   {
@@ -3091,8 +3091,8 @@
   },
   {
     "key": "0.53.xml.context",
-    "original": "前方1マスに&lt;color=#870011&gt;5&lt;/color&gt;ダメージを与える。与えたダメージ分だけ自分のHPを回復する。",
-    "translation": "前方1マスに&lt;color=#870011&gt;5&lt;/color&gt;ダメージを与える。与えたダメージ分だけ自分のHPを回復する。",
+    "original": "前方1マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。与えたダメージ分だけ自分のHPを回復する。",
+    "translation": "前方1マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。与えたダメージ分だけ自分のHPを回復する。",
     "context": null
   },
   {
@@ -3115,8 +3115,8 @@
   },
   {
     "key": "0.55.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;保留&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲の敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを2回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;保留&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲の敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを2回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;保留&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲1マスに&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを2回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;保留&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲1マスに&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与え、MPを2回復する。自分が元々のMPコストが5以上のカードをプレイした場合に1度だけ手札のこのカードのMPコストを-3する。",
     "context": null
   },
   {
@@ -3139,8 +3139,8 @@
   },
   {
     "key": "0.57.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;敵がカードを発動した時に発動出来る。カードを1枚選択し、そのカードによって受けるダメージを無効する。&lt;color=#870011&gt;そのダメージの値&lt;/color&gt;に等しいダメージを相手に与える。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;敵がカードを発動した時に発動出来る。カードを1枚選択し、そのカードによって受けるダメージを無効する。&lt;color=#870011&gt;そのダメージの値&lt;/color&gt;に等しいダメージを相手に与える。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;敵がカードを発動した時に発動出来る。カードを1枚選択し、そのカードによって受けるダメージを無効にする。&lt;color=#870011&gt;そのダメージの値&lt;/color&gt;に等しいダメージを相手に与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;敵がカードを発動した時に発動出来る。カードを1枚選択し、そのカードによって受けるダメージを無効にする。&lt;color=#870011&gt;そのダメージの値&lt;/color&gt;に等しいダメージを相手に与える。",
     "context": null
   },
   {
@@ -3223,8 +3223,8 @@
   },
   {
     "key": "0.63.xml.context",
-    "original": "周囲2マスの敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをドローした時に発動する。カードを1枚ドローする。",
-    "translation": "周囲2マスの敵に&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをドローした時に発動する。カードを1枚ドローする。",
+    "original": "周囲2マスに&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをドローした時に発動する。カードを1枚ドローする。",
+    "translation": "周囲2マスに&lt;color=#870011&gt;14&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをドローした時に発動する。カードを1枚ドローする。",
     "context": null
   },
   {
@@ -3331,8 +3331,8 @@
   },
   {
     "key": "0.72.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分がアクティブカードによってダメージを受けた時に発動する。近くの敵に&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分がアクティブカードによってダメージを受けた時に発動する。近くの敵に&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分がアクティブカードによってダメージを受けた時に発動する。最も近い敵に&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分がアクティブカードによってダメージを受けた時に発動する。最も近い敵に&lt;color=#870011&gt;3&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {
@@ -3391,8 +3391,8 @@
   },
   {
     "key": "0.77.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を1枚選んで除外する。: 前方2マスに&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与える",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を1枚選んで除外する。: 前方2マスに&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与える",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を1枚選んで除外する。: 前方2マスに&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を1枚選んで除外する。: 前方2マスに&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {
@@ -3583,8 +3583,8 @@
   },
   {
     "key": "0.91.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分のターンを開始する度に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分のターンを開始する度に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分のターンを開始する度に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分のターンを開始する度に&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;して手札に加える。",
     "context": null
   },
   {
@@ -4087,8 +4087,8 @@
   },
   {
     "key": "4.3.xml.context",
-    "original": "自分はバトル開始時に&lt;color=#004711&gt;霊体化+2&lt;/color&gt;を得る。",
-    "translation": "自分はバトル開始時に&lt;color=#004711&gt;霊体化+2&lt;/color&gt;を得る。",
+    "original": "自分は1ターン目の開始時に&lt;color=#004711&gt;霊体化+2&lt;/color&gt;を得る。",
+    "translation": "自分は1ターン目の開始時に&lt;color=#004711&gt;霊体化+2&lt;/color&gt;を得る。",
     "context": null
   },
   {
