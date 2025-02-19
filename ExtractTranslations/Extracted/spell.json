@@ -2623,8 +2623,8 @@
   },
   {
     "key": "0.302.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスに&lt;color=#870011&gt;38&lt;/color&gt;ダメージを与える。自分は激昂+3を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がパーマネントカードをプレイしたときに発動する。その敵に毒5を与える。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスに&lt;color=#870011&gt;38&lt;/color&gt;ダメージを与える。自分は激昂+3を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がパーマネントカードをプレイしたときに発動する。その敵に毒5を与える。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスに&lt;color=#870011&gt;38&lt;/color&gt;ダメージを与える。自分は激昂+3を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がパーマネントカードをプレイしたときに発動する。その敵に&lt;color=#004711&gt;毒+5&lt;/color&gt;を与える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;周囲2マスに&lt;color=#870011&gt;38&lt;/color&gt;ダメージを与える。自分は激昂+3を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がパーマネントカードをプレイしたときに発動する。その敵に&lt;color=#004711&gt;毒+5&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2671,8 +2671,8 @@
   },
   {
     "key": "0.306.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに誘発する。ヴォイドを1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに誘発する。ヴォイドを1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに誘発する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに誘発する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
     "context": null
   },
   {
@@ -2697,6 +2697,18 @@
     "key": "0.308.xml.context",
     "original": "敵がカードをプレイする毎に、自分はHPを5回復する。自分は1ターンの間に合計400までしかダメージを受けない。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル開始時に発動する。すべての敵に&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
     "translation": "敵がカードをプレイする毎に、自分はHPを5回復する。自分は1ターンの間に合計400までしかダメージを受けない。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;バトル開始時に発動する。すべての敵に&lt;color=#004711&gt;麻痺+5&lt;/color&gt;を与える。",
+    "context": null
+  },
+  {
+    "key": "0.309.xml.name",
+    "original": "[変性]{へんせい}",
+    "translation": "[変性]{へんせい}",
+    "context": null
+  },
+  {
+    "key": "0.309.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;このカードはプレイ能力を持たない。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをドローした時に発動する。自分はランダムな手札のカード1枚を除外する。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;このカードはプレイ能力を持たない。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;このカードをドローした時に発動する。自分はランダムな手札のカード1枚を除外する。",
     "context": null
   },
   {
@@ -2731,8 +2743,8 @@
   },
   {
     "key": "0.311.xml.context",
-    "original": "距離2マスにいる敵に&lt;color=#870011&gt;12&lt;/color&gt;ダメージを与える。次の自分のターン終了時まで&lt;color=#004711&gt;棘+8&lt;/color&gt;を得る。",
-    "translation": "距離2マスにいる敵に&lt;color=#870011&gt;12&lt;/color&gt;ダメージを与える。次の自分のターン終了時まで&lt;color=#004711&gt;棘+8&lt;/color&gt;を得る。",
+    "original": "距離2マスにいる敵に&lt;color=#870011&gt;12&lt;/color&gt;ダメージを与える。すべての敵に、次の自分のターン終了時まで&lt;color=#004711&gt;妨害+3&lt;/color&gt;を与える。",
+    "translation": "距離2マスにいる敵に&lt;color=#870011&gt;12&lt;/color&gt;ダメージを与える。すべての敵に、次の自分のターン終了時まで&lt;color=#004711&gt;妨害+3&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2748,6 +2760,18 @@
     "context": null
   },
   {
+    "key": "0.313.xml.name",
+    "original": "[活性]{かっせい}",
+    "translation": "[活性]{かっせい}",
+    "context": null
+  },
+  {
+    "key": "0.313.xml.context",
+    "original": "自分のターン終了時に&lt;color=#004711&gt;蓄積+4&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;合計50以上のダメージを受けた時に1度発動する。自分は&lt;color=#004711&gt;蓄積-4&lt;/color&gt;を得る。&lt;br&gt;合計は自分のターン終了時にリセットされる。",
+    "translation": "自分のターン終了時に&lt;color=#004711&gt;蓄積+4&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;合計50以上のダメージを受けた時に1度発動する。自分は&lt;color=#004711&gt;蓄積-4&lt;/color&gt;を得る。&lt;br&gt;合計は自分のターン終了時にリセットされる。",
+    "context": null
+  },
+  {
     "key": "0.314.xml.name",
     "original": "ディメント",
     "translation": "ディメント",
@@ -2757,6 +2781,18 @@
     "key": "0.314.xml.context",
     "original": "敵を1体対象にする。次の自分のターンの終了時まで、&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。その後、距離2マスまたは3マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
     "translation": "敵を1体対象にする。次の自分のターンの終了時まで、&lt;color=#004711&gt;知力-1&lt;/color&gt;を与える。その後、距離2マスまたは3マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
+    "context": null
+  },
+  {
+    "key": "0.315.xml.name",
+    "original": "[浸食]{しんしょく}",
+    "translation": "[浸食]{しんしょく}",
+    "context": null
+  },
+  {
+    "key": "0.315.xml.context",
+    "original": "自分のターン終了時に&lt;color=#004711&gt;強化+5&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;合計50以上のダメージを受けた時に1度発動する。自分は&lt;color=#004711&gt;強化-5&lt;/color&gt;を得る。&lt;br&gt;合計は自分のターン終了時にリセットされる。",
+    "translation": "自分のターン終了時に&lt;color=#004711&gt;強化+5&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;合計50以上のダメージを受けた時に1度発動する。自分は&lt;color=#004711&gt;強化-5&lt;/color&gt;を得る。&lt;br&gt;合計は自分のターン終了時にリセットされる。",
     "context": null
   },
   {
@@ -2803,8 +2839,8 @@
   },
   {
     "key": "0.319.xml.context",
-    "original": "[&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;]敵1体を対象にする。その敵のデッキにヴォイドを5枚加えてシャッフルする。さらに知力+2を与える。",
-    "translation": "[&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;]敵1体を対象にする。その敵のデッキにヴォイドを5枚加えてシャッフルする。さらに知力+2を与える。",
+    "original": "[&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;]敵1体を対象にする。その敵のデッキに&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を5枚加えてシャッフルする。さらに&lt;color=#004711&gt;知力+2&lt;/color&gt;を与える。",
+    "translation": "[&lt;b&gt;&lt;color=#352F00&gt;廃棄&lt;/color&gt;&lt;/b&gt;]敵1体を対象にする。その敵のデッキに&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を5枚加えてシャッフルする。さらに&lt;color=#004711&gt;知力+2&lt;/color&gt;を与える。",
     "context": null
   },
   {
@@ -2817,6 +2853,78 @@
     "key": "0.32.xml.context",
     "original": "自分の手札のカードを1枚選んで&lt;b&gt;&lt;color=#352F00&gt;破壊&lt;/color&gt;&lt;/b&gt;し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。",
     "translation": "自分の手札のカードを1枚選んで&lt;b&gt;&lt;color=#352F00&gt;破壊&lt;/color&gt;&lt;/b&gt;し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。",
+    "context": null
+  },
+  {
+    "key": "0.320.xml.name",
+    "original": "[鉄騎]{てっき}の[侵攻]{しんこう}",
+    "translation": "[鉄騎]{てっき}の[侵攻]{しんこう}",
+    "context": null
+  },
+  {
+    "key": "0.320.xml.context",
+    "original": "距離2マスまたは3マスに&lt;color=#870011&gt;18&lt;/color&gt;ダメージを与え、バリア&lt;color=#002A66&gt;15&lt;/color&gt;を得る。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,309&gt;変性&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、このカードの攻撃範囲外にいる敵のデッキの一番上に加える。",
+    "translation": "距離2マスまたは3マスに&lt;color=#870011&gt;18&lt;/color&gt;ダメージを与え、バリア&lt;color=#002A66&gt;15&lt;/color&gt;を得る。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,309&gt;変性&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、このカードの攻撃範囲外にいる敵のデッキの一番上に加える。",
+    "context": null
+  },
+  {
+    "key": "0.321.xml.name",
+    "original": "ポテンシャル・アップ",
+    "translation": "ポテンシャル・アップ",
+    "context": null
+  },
+  {
+    "key": "0.321.xml.context",
+    "original": "自分及び味方は、自分はバリア&lt;color=#002A66&gt;12&lt;/color&gt;を得る。",
+    "translation": "自分及び味方は、自分はバリア&lt;color=#002A66&gt;12&lt;/color&gt;を得る。",
+    "context": null
+  },
+  {
+    "key": "0.322.xml.name",
+    "original": "ディスアピア・プロテクション",
+    "translation": "ディスアピア・プロテクション",
+    "context": null
+  },
+  {
+    "key": "0.322.xml.context",
+    "original": "８方向の距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。攻撃範囲外の敵に&lt;color=#004711&gt;堅牢-3&lt;/color&gt;を与える。",
+    "translation": "８方向の距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。攻撃範囲外の敵に&lt;color=#004711&gt;堅牢-3&lt;/color&gt;を与える。",
+    "context": null
+  },
+  {
+    "key": "0.323.xml.name",
+    "original": "[腐食]{ふしょく}",
+    "translation": "[腐食]{ふしょく}",
+    "context": null
+  },
+  {
+    "key": "0.323.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;すべての敵のMPを-1する。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵のターン終了時に発動する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,309&gt;変性&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、その敵の手札に加える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[プレイ]&lt;/color&gt;&lt;/b&gt;すべての敵のMPを-1する。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵のターン終了時に発動する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,309&gt;変性&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、その敵の手札に加える。",
+    "context": null
+  },
+  {
+    "key": "0.324.xml.name",
+    "original": "エックスレイ",
+    "translation": "エックスレイ",
+    "context": null
+  },
+  {
+    "key": "0.324.xml.context",
+    "original": "&lt;b&gt;X&lt;/b&gt;字方向に&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,309&gt;変性&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、このカードの攻撃範囲外にいる敵のデッキの一番上に加える。",
+    "translation": "&lt;b&gt;X&lt;/b&gt;字方向に&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,309&gt;変性&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、このカードの攻撃範囲外にいる敵のデッキの一番上に加える。",
+    "context": null
+  },
+  {
+    "key": "0.325.xml.name",
+    "original": "ディスアピア・エナジー",
+    "translation": "ディスアピア・エナジー",
+    "context": null
+  },
+  {
+    "key": "0.325.xml.context",
+    "original": "8方向の距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。攻撃範囲外の敵に&lt;color=#004711&gt;強化-3&lt;/color&gt;を与える。",
+    "translation": "8方向の距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。攻撃範囲外の敵に&lt;color=#004711&gt;強化-3&lt;/color&gt;を与える。",
     "context": null
   },
   {

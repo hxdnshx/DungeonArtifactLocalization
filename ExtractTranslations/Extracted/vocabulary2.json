@@ -2212,5 +2212,11 @@
     "original": "敵のアーティファクトを表示する",
     "translation": "敵のアーティファクトを表示する",
     "context": null
+  },
+  {
+    "key": "extra_turn_count",
+    "original": "追加ターン+{0}",
+    "translation": "追加ターン+{0}",
+    "context": null
   }
 ]

@@ -36,6 +36,12 @@
     "context": null
   },
   {
+    "key": "Entity.cancer.xml.name",
+    "original": "キャンサー",
+    "translation": "キャンサー",
+    "context": null
+  },
+  {
     "key": "Entity.curcular.xml.name",
     "original": "サーキュラー",
     "translation": "サーキュラー",
@@ -153,6 +159,12 @@
     "key": "Entity.spyder.xml.name",
     "original": "スパイダー",
     "translation": "スパイダー",
+    "context": null
+  },
+  {
+    "key": "Entity.stem.xml.name",
+    "original": "ステム",
+    "translation": "ステム",
     "context": null
   },
   {
