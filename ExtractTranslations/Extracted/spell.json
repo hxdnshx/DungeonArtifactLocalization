@@ -451,8 +451,8 @@
   },
   {
     "key": "0.131.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;バトル中に1回のみ、敵がカードを発動した時に発動できる。敵のカードを1枚選択し、そのカードによって受けるダメージを無効する。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;バトル中に1回のみ、敵がカードを発動した時に発動できる。敵のカードを1枚選択し、そのカードによって受けるダメージを無効する。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;バトル中に1回のみ、敵がカードを発動した時に発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを2払う。:敵のカードを1枚選択し、そのカードによって受けるダメージを無効する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;バトル中に1回のみ、敵がカードを発動した時に発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを2払う。:敵のカードを1枚選択し、そのカードによって受けるダメージを無効する。",
     "context": null
   },
   {
@@ -1843,8 +1843,8 @@
   },
   {
     "key": "0.241.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;パーマネントカード以外の手札を2枚墓地に送る。:自分の手札か墓地からパーマネントカード1枚を選択し、フィールドに置く。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;パーマネントカード以外の手札を2枚墓地に送る。:自分の手札か墓地からパーマネントカード1枚を選択し、フィールドに置く。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。:自分は手札か墓地からパーマネントカード1枚をMPコストを払わずに発動できる。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札を2枚墓地に送る。:自分は手札か墓地からパーマネントカード1枚をMPコストを払わずに発動できる。",
     "context": null
   },
   {
@@ -1999,8 +1999,8 @@
   },
   {
     "key": "0.254.xml.context",
-    "original": "自分のMP最大値を+2する。自分はバトル開始時に&lt;color=#004711&gt;麻痺+1&lt;/color&gt;を得る。",
-    "translation": "自分のMP最大値を+2する。自分はバトル開始時に&lt;color=#004711&gt;麻痺+1&lt;/color&gt;を得る。",
+    "original": "自分のMP最大値を+2する。自分はバトル開始時及び自分のターン終了時に&lt;color=#004711&gt;麻痺+1&lt;/color&gt;を得る。",
+    "translation": "自分のMP最大値を+2する。自分はバトル開始時及び自分のターン終了時に&lt;color=#004711&gt;麻痺+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -2395,8 +2395,8 @@
   },
   {
     "key": "0.284.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に誘発する。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に誘発する。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;color=#004711&gt;強化+1&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -2671,8 +2671,8 @@
   },
   {
     "key": "0.306.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに誘発する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに誘発する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がアーティファクトカード以外の能力でカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに発動する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;敵がアーティファクトカード以外の能力でカードを&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;したときに発動する。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,188&gt;ヴォイド&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;してその敵のデッキの一番上に加える。",
     "context": null
   },
   {
@@ -3775,8 +3775,8 @@
   },
   {
     "key": "0.98.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。フィールドのこのカードを墓地に送る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。フィールドのこのカードを墓地に送る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを1払う。:フィールドのこのカードを墓地に送る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;自分と敵の全てのダメージは2倍になる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;[アクティベート]&lt;/color&gt;&lt;/b&gt;自分のターンに発動できる。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;MPを1払う。:フィールドのこのカードを墓地に送る。",
     "context": null
   },
   {
@@ -4255,8 +4255,8 @@
   },
   {
     "key": "4.8.xml.context",
-    "original": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,71&gt;インテリジェント・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚デッキに加えてシャッフルする。",
-    "translation": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,71&gt;インテリジェント・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚デッキに加えてシャッフルする。",
+    "original": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,71&gt;インテリジェント・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、デッキに加えてシャッフルする。",
+    "translation": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,71&gt;インテリジェント・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、デッキに加えてシャッフルする。",
     "context": null
   },
   {
@@ -4267,8 +4267,8 @@
   },
   {
     "key": "4.9.xml.context",
-    "original": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,70&gt;アルケミー・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚デッキに加えてシャッフルする。",
-    "translation": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,70&gt;アルケミー・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を1枚デッキに加えてシャッフルする。",
+    "original": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,70&gt;アルケミー・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、デッキに加えてシャッフルする。",
+    "translation": "前方3マスに&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。&lt;u&gt;&lt;color=#004436&gt;&lt;link=0,70&gt;アルケミー・コア&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;1枚を&lt;b&gt;&lt;color=#352F00&gt;生成&lt;/color&gt;&lt;/b&gt;し、デッキに加えてシャッフルする。",
     "context": null
   },
   {
@@ -4351,8 +4351,8 @@
   },
   {
     "key": "5.6.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。手札のカードをランダムに1枚除外する。その後、この能力によって除外されているカードをそれぞれ&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。手札のカードをランダムに1枚除外する。その後、この能力によって除外されているカードをそれぞれ&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札のカードをランダムに1枚除外する。:このカードによって除外されているカードをそれぞれ&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;[パーマネント]&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;[トリガー]&lt;/color&gt;&lt;/b&gt;自分のターン終了時に発動する。&lt;b&gt;&lt;color=#352F00&gt;[コスト]&lt;/color&gt;&lt;/b&gt;手札のカードをランダムに1枚除外する。:このカードによって除外されているカードをそれぞれ&lt;b&gt;&lt;color=#352F00&gt;コピー&lt;/color&gt;&lt;/b&gt;する。",
     "context": null
   },
   {

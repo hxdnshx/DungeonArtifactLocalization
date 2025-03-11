@@ -1009,8 +1009,8 @@
   },
   {
     "key": "gainhpmax_msg",
-    "original": "HP最大値{0}",
-    "translation": "HP最大値{0}",
+    "original": "最大HP{0}",
+    "translation": "最大HP{0}",
     "context": null
   },
   {
