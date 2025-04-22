@@ -16,6 +16,8 @@ namespace catrice.DungeonArtifactTrans
         public static Dictionary<string, string> ScenarioInfo = null;
         public static Dictionary<string, TranslationItem> LangDescription = null;
         public static Dictionary<string, string> EntityInfo = null;
+        public static Dictionary<string, string> AchievementAccumlateInfo = null;
+        public static Dictionary<string, string> AchievementTitleInfo = null;
         
         public static void Init()
         {
@@ -159,6 +161,46 @@ namespace catrice.DungeonArtifactTrans
                 }
 
                 VocabularyInfo2 = dst;
+            }
+            
+            {
+                // 读取 JSON 文件内容
+                string jsonContent = File.ReadAllText(
+                    Path.Join(modPath, "AchievementAccumlate_translated.json"));
+
+                // 反序列化 JSON 字符串为 TranslationItem 结构体的列表
+                var items = JsonConvert.DeserializeObject<List<TranslationItem>>(jsonContent);
+                var dst = new Dictionary<string, string>();
+                foreach (var item in items)
+                {
+                    if (!dst.TryAdd(item.Key, item.Translation))
+                    {
+                        Logger.Log($"Find Duplicated Item {item.Original}, content {item.Translation}");
+                        continue;
+                    }
+                }
+
+                AchievementAccumlateInfo = dst;
+            }
+            
+            {
+                // 读取 JSON 文件内容
+                string jsonContent = File.ReadAllText(
+                    Path.Join(modPath, "AchievementTitle_translated.json"));
+
+                // 反序列化 JSON 字符串为 TranslationItem 结构体的列表
+                var items = JsonConvert.DeserializeObject<List<TranslationItem>>(jsonContent);
+                var dst = new Dictionary<string, string>();
+                foreach (var item in items)
+                {
+                    if (!dst.TryAdd(item.Key, item.Translation))
+                    {
+                        Logger.Log($"Find Duplicated Item {item.Original}, content {item.Translation}");
+                        continue;
+                    }
+                }
+
+                AchievementTitleInfo = dst;
             }
         }
         

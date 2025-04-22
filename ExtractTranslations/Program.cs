@@ -31,6 +31,10 @@ public class Program
             Path.Join(jsonFilePath, "vocabulary.json"));
         VocabularyTrans.ExtractTsv(Path.Join(directoryPath, "Language/Japanese.tsv"),
             Path.Join(jsonFilePath, "vocabulary2.json"));
+        VocabularyTrans.ExtractTsvAchievementAcc(Path.Join(directoryPath, "Japanese/AchievementAccumlate.tsv"),
+            Path.Join(jsonFilePath, "AchievementAccumlate.json"));
+        VocabularyTrans.ExtractTsvAchievementTitle(Path.Join(directoryPath, "Japanese/AchievementTitle.tsv"),
+            Path.Join(jsonFilePath, "AchievementTitle.json"));
         
         Console.WriteLine("转换完成喵！");
         

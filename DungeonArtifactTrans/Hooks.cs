@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using Achievement;
 using BepInEx;
 using Compiler;
 using HarmonyLib;
@@ -186,6 +187,50 @@ namespace catrice.DungeonArtifactTrans
             }
         }
     }
+    
+    [HarmonyPatch(typeof(LocalAchievementStats), MethodType.Constructor)]
+    public static class AchievementsFix
+    {
+        public static void Postfix(LocalAchievementStats __instance)
+        {
+            var titles = AccessTools.Field(typeof(LocalAchievementStats), "titles");
+            var accumulates = AccessTools.Property(typeof(LocalAchievementStats), "accumulates");
+            if (titles.GetValue(__instance) is List<AchievementTitle> titleList)
+            {
+                Logger.Log($"Process title, {titleList.Count}");
+                foreach (var title in titleList)
+                {
+                    if (TranslationDB.AchievementTitleInfo.TryGetValue($"Ach_{title.code}_Title", out var transValue))
+                    {
+                        Logger.Log($"{title.title} to {transValue}");
+                        if (!transValue.Trim().IsNullOrWhiteSpace())
+                            title.title = transValue;
+                    }
+
+                    if (TranslationDB.AchievementTitleInfo.TryGetValue($"Ach_{title.code}_Desc", out var transValue2))
+                    {
+                        Logger.Log($"{title.discription} to {transValue2}");
+                        if (!transValue2.Trim().IsNullOrWhiteSpace())
+                            title.discription = transValue2;
+                    }
+                }
+            }
+            /* Description 不需要翻译
+            if (accumulates.GetValue(__instance) is List<AchiementntAccumulate> accList)
+            {
+                foreach (var title in accList)
+                {
+                    if (TranslationDB.EntityInfo.TryGetValue($"Ach_{title.key}_Title", out var transValue))
+                    {
+                        Logger.Log($"{title.title} to {transValue}");
+                        if (!transValue.Trim().IsNullOrWhiteSpace())
+                            title. = transValue;
+                    }
+                }
+            }
+            */
+        }
+    }
 
     [HarmonyPatch(typeof(Controler), nameof(PlayableCharacter.LoadResource))]
     public static class EntityFix
@@ -199,6 +244,7 @@ namespace catrice.DungeonArtifactTrans
             }
         }
     }
+    
 
     [HarmonyPatch(typeof(CreditComponent), "Update")]
     public static class CreditFix

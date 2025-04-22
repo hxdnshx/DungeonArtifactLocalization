@@ -2218,5 +2218,29 @@
     "original": "追加ターン+{0}",
     "translation": "追加ターン+{0}",
     "context": null
+  },
+  {
+    "key": "reroll_done",
+    "original": "リロールを使用した",
+    "translation": "リロールを使用した",
+    "context": null
+  },
+  {
+    "key": "time_simple_format",
+    "original": "h': 'mm':'ss",
+    "translation": "h': 'mm':'ss",
+    "context": null
+  },
+  {
+    "key": "achievement_clear",
+    "original": "実績クリア!",
+    "translation": "実績クリア!",
+    "context": null
+  },
+  {
+    "key": "achievement",
+    "original": "実績",
+    "translation": "実績",
+    "context": null
   }
 ]

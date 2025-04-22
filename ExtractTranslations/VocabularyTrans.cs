@@ -66,4 +66,54 @@ public static class VocabularyTrans
         string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
         File.WriteAllText(outJsonPath, json);
     }
+    
+    public static void ExtractTsvAchievementAcc(string filePath, string outJsonPath)
+    {
+        var jsonList = new List<Dictionary<string, object>>();
+        var stringElements = File.ReadAllLines(filePath);
+        foreach (var element in stringElements)
+        {
+            var values = element.Split("\t");
+            if (values.Length < 2) continue;
+            
+            jsonList.Add(new Dictionary<string, object>
+            {
+                { "key", values[0] },
+                { "original", values[4] },
+                { "translation", values[4] },
+                { "context", null }
+            });
+        }
+        string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
+        File.WriteAllText(outJsonPath, json);
+    }
+    
+    public static void ExtractTsvAchievementTitle(string filePath, string outJsonPath)
+    {
+        var jsonList = new List<Dictionary<string, object>>();
+        var stringElements = File.ReadAllLines(filePath);
+        foreach (var element in stringElements)
+        {
+            var values = element.Split("\t");
+            if (values.Length < 2) continue;
+            
+            jsonList.Add(new Dictionary<string, object>
+            {
+                { "key", "Ach_" + values[0] + "_Title" },
+                { "original", values[3] },
+                { "translation", values[3] },
+                { "context", null }
+            });
+            
+            jsonList.Add(new Dictionary<string, object>
+            {
+                { "key", "Ach_" + values[0] + "_Desc" },
+                { "original", values[4] },
+                { "translation", values[4] },
+                { "context", null }
+            });
+        }
+        string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
+        File.WriteAllText(outJsonPath, json);
+    }
 }
