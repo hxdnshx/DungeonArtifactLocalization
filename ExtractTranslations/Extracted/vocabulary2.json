@@ -2242,5 +2242,29 @@
     "original": "実績",
     "translation": "実績",
     "context": null
+  },
+  {
+    "key": "now_loading",
+    "original": "ロード中",
+    "translation": "ロード中",
+    "context": null
+  },
+  {
+    "key": "autoTurnEnd",
+    "original": "自動で自分のターンを終了する",
+    "translation": "自動で自分のターンを終了する",
+    "context": null
+  },
+  {
+    "key": "achievement_start",
+    "original": "Achievement",
+    "translation": "Achievement",
+    "context": null
+  },
+  {
+    "key": "achievement_exp",
+    "original": "実績の進捗状況を確認できます。",
+    "translation": "実績の進捗状況を確認できます。",
+    "context": null
   }
 ]

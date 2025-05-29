@@ -95,10 +95,6 @@ namespace catrice.DungeonArtifactTrans
                 Vocabulary.VrbToStr = ApplyLocalization(Vocabulary.VrbToStr);
                 Vocabulary.AuxToStr = ApplyLocalization(Vocabulary.AuxToStr);
             }
-
-            var fi = AccessTools.Field(typeof(GameProgress), "values");
-            var value = fi.GetValue(null) as GameProgress.Progress;
-            value.exp += 999999;
         }
     }
 
