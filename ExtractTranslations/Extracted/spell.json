@@ -979,8 +979,8 @@
   },
   {
     "key": "0.171.xml.context",
-    "original": "前方2マスに4ダメージを与える。ターン終了時まで&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
-    "translation": "前方2マスに4ダメージを与える。ターン終了時まで&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
+    "original": "前方2マスに&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。ターン終了時まで&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "前方2マスに&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。ターン終了時まで&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -1075,8 +1075,8 @@
   },
   {
     "key": "0.179.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。前方3マスに4ダメージを与える。&lt;color=#004711&gt;&lt;link=e,14,1&gt;激昂+1&lt;/link&gt;&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。前方3マスに4ダメージを与える。&lt;color=#004711&gt;&lt;link=e,14,1&gt;激昂+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。:前方3マスに&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。&lt;color=#004711&gt;&lt;link=e,14,1&gt;激昂+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。:前方3マスに&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。&lt;color=#004711&gt;&lt;link=e,14,1&gt;激昂+1&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -3019,8 +3019,8 @@
   },
   {
     "key": "0.38.xml.context",
-    "original": "デッキの上から2枚を確認しその中の1枚を選んで手札に加える。そのカードのMPコストを1にする。",
-    "translation": "デッキの上から2枚を確認しその中の1枚を選んで手札に加える。そのカードのMPコストを1にする。",
+    "original": "デッキの上から2枚を確認しその中の1枚を選んで手札に加える。そのカードのMPコストが1以上ならMPコストを1にする。",
+    "translation": "デッキの上から2枚を確認しその中の1枚を選んで手札に加える。そのカードのMPコストが1以上ならMPコストを1にする。",
     "context": null
   },
   {
@@ -3031,8 +3031,8 @@
   },
   {
     "key": "0.39.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターン目の自分のターン開始時に発動する。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。:カードを2枚ドローする。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターン目の自分のターン開始時に発動する。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。:カードを2枚ドローする。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターン目の自分のターン開始時に発動する。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを2枚墓地に送る。:カードを2枚ドローする。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターン目の自分のターン開始時に発動する。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを2枚墓地に送る。:カードを2枚ドローする。",
     "context": null
   },
   {
