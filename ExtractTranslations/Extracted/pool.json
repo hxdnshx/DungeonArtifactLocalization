@@ -82,5 +82,29 @@
     "original": "敵の魔法を妨害",
     "translation": "敵の魔法を妨害",
     "context": null
+  },
+  {
+    "key": "7.pool.title",
+    "original": "リディア:拡張セット4",
+    "translation": "リディア:拡張セット4",
+    "context": null
+  },
+  {
+    "key": "7.pool.context",
+    "original": "傷エンチャント",
+    "translation": "傷エンチャント",
+    "context": null
+  },
+  {
+    "key": "8.pool.title",
+    "original": "スミルナ:拡張セット4",
+    "translation": "スミルナ:拡張セット4",
+    "context": null
+  },
+  {
+    "key": "8.pool.context",
+    "original": "帯電エンチャント",
+    "translation": "帯電エンチャント",
+    "context": null
   }
 ]

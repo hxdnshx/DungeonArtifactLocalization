@@ -1423,8 +1423,8 @@
   },
   {
     "key": "unselectable_msg",
-    "original": "一度クリアで選択可能になります",
-    "translation": "一度クリアで選択可能になります",
+    "original": "一度クリアすると閲覧することができます。",
+    "translation": "一度クリアすると閲覧することができます。",
     "context": null
   },
   {
@@ -2265,6 +2265,66 @@
     "key": "achievement_exp",
     "original": "実績の進捗状況を確認できます。",
     "translation": "実績の進捗状況を確認できます。",
+    "context": null
+  },
+  {
+    "key": "destroy_field_conf",
+    "original": "フィールドのカードを破壊しますか?",
+    "translation": "フィールドのカードを破壊しますか?",
+    "context": null
+  },
+  {
+    "key": "destroy_player_field_conf",
+    "original": "自分フィールドのカードを破壊してもよいですか?",
+    "translation": "自分フィールドのカードを破壊してもよいですか?",
+    "context": null
+  },
+  {
+    "key": "get_four_electrification",
+    "original": "帯電+4を得る。",
+    "translation": "帯電+4を得る。",
+    "context": null
+  },
+  {
+    "key": "double_electrification",
+    "original": "(廃棄)を持つ。帯電の値を2倍にする。",
+    "translation": "(廃棄)を持つ。帯電の値を2倍にする。",
+    "context": null
+  },
+  {
+    "key": "barriar_per_damage",
+    "original": "ダメージを与える毎にバリア{0}を得る。",
+    "translation": "ダメージを与える毎にバリア{0}を得る。",
+    "context": null
+  },
+  {
+    "key": "select_remove_enchant",
+    "original": "{0}するエンチャントを選択してください。",
+    "translation": "{0}するエンチャントを選択してください。",
+    "context": null
+  },
+  {
+    "key": "add_enchant_count",
+    "original": "このターン、エンチャントを{0}回得た",
+    "translation": "このターン、エンチャントを{0}回得た",
+    "context": null
+  },
+  {
+    "key": "deal_damage_count",
+    "original": "ダメージを{0}回与えた",
+    "translation": "ダメージを{0}回与えた",
+    "context": null
+  },
+  {
+    "key": "select_delete_enchant",
+    "original": "消去するエンチャントを選択してください。",
+    "translation": "消去するエンチャントを選択してください。",
+    "context": null
+  },
+  {
+    "key": "delete_enchant_conf",
+    "original": "{0}を消去してもよいですか？",
+    "translation": "{0}を消去してもよいですか？",
     "context": null
   }
 ]

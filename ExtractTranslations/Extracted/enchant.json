@@ -168,6 +168,30 @@
     "context": null
   },
   {
+    "key": "21.xml.name",
+    "original": "傷",
+    "translation": "傷",
+    "context": null
+  },
+  {
+    "key": "21.xml.context",
+    "original": "受けるダメージが+{0}される。ダメージを受ける毎に傷の値を+1する。自分のターン終了時に傷の値を0にする。",
+    "translation": "受けるダメージが+{0}される。ダメージを受ける毎に傷の値を+1する。自分のターン終了時に傷の値を0にする。",
+    "context": null
+  },
+  {
+    "key": "22.xml.name",
+    "original": "帯電",
+    "translation": "帯電",
+    "context": null
+  },
+  {
+    "key": "22.xml.context",
+    "original": "帯電の値が変動する毎に、周囲2マスの最も近い敵に帯電の値に等しいダメージを与える。",
+    "translation": "帯電の値が変動する毎に、周囲2マスの最も近い敵に帯電の値に等しいダメージを与える。",
+    "context": null
+  },
+  {
     "key": "3.xml.name",
     "original": "軽量化",
     "translation": "軽量化",

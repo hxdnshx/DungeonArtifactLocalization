@@ -192,6 +192,60 @@
     "context": null
   },
   {
+    "key": "gameclearexhibitiondemo.txt.ダンジョンアーティファクトの試遊ありがとうございます！",
+    "original": "ダンジョンアーティファクトの試遊ありがとうございます！",
+    "translation": "ダンジョンアーティファクトの試遊ありがとうございます！",
+    "context": null
+  },
+  {
+    "key": "gameclearexhibitiondemo.txt.体験版のためゲームはここまでとなっています。",
+    "original": "体験版のためゲームはここまでとなっています。",
+    "translation": "体験版のためゲームはここまでとなっています。",
+    "context": null
+  },
+  {
+    "key": "gameclearexhibitiondemo.txt.現在Steamでアーリーアクセス版が販売中なので、チェックしていただけると嬉しいです。",
+    "original": "現在Steamでアーリーアクセス版が販売中なので、チェックしていただけると嬉しいです。",
+    "translation": "現在Steamでアーリーアクセス版が販売中なので、チェックしていただけると嬉しいです。",
+    "context": null
+  },
+  {
+    "key": "gameclearsteamdemo.txt.ダンジョンアーティファクトの試遊ありがとうございます！",
+    "original": "ダンジョンアーティファクトの試遊ありがとうございます！",
+    "translation": "ダンジョンアーティファクトの試遊ありがとうございます！",
+    "context": null
+  },
+  {
+    "key": "gameclearsteamdemo.txt.体験版のためゲームはここまでとなっています。",
+    "original": "体験版のためゲームはここまでとなっています。",
+    "translation": "体験版のためゲームはここまでとなっています。",
+    "context": null
+  },
+  {
+    "key": "gameclearsteamdemo.txt.完成までお待ちください！",
+    "original": "完成までお待ちください！",
+    "translation": "完成までお待ちください！",
+    "context": null
+  },
+  {
+    "key": "gamecleartrial.txt.ダンジョンアーティファクトの試遊ありがとうございます！",
+    "original": "ダンジョンアーティファクトの試遊ありがとうございます！",
+    "translation": "ダンジョンアーティファクトの試遊ありがとうございます！",
+    "context": null
+  },
+  {
+    "key": "gamecleartrial.txt.体験版のためゲームはここまでとなっています。",
+    "original": "体験版のためゲームはここまでとなっています。",
+    "translation": "体験版のためゲームはここまでとなっています。",
+    "context": null
+  },
+  {
+    "key": "gamecleartrial.txt.現在Steamでアーリーアクセス版が販売中なので、チェックしていただけると嬉しいです。",
+    "original": "現在Steamでアーリーアクセス版が販売中なので、チェックしていただけると嬉しいです。",
+    "translation": "現在Steamでアーリーアクセス版が販売中なので、チェックしていただけると嬉しいです。",
+    "context": null
+  },
+  {
     "key": "helloworld.txt.このゲームの目的は30階層からなるダンジョンを攻略し、最深部のボスを倒すことです。",
     "original": "このゲームの目的は30階層からなるダンジョンを攻略し、最深部のボスを倒すことです。",
     "translation": "このゲームの目的は30階層からなるダンジョンを攻略し、最深部のボスを倒すことです。",

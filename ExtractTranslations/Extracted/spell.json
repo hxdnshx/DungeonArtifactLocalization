@@ -1152,6 +1152,18 @@
     "context": null
   },
   {
+    "key": "0.185.xml.name",
+    "original": "バックドラフト",
+    "translation": "バックドラフト",
+    "context": null
+  },
+  {
+    "key": "0.185.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,21,_&gt;[プレイ]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;&lt;link=e,0,5&gt;強化+5&lt;/link&gt;&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に&lt;color=#004711&gt;&lt;link=e,0,1&gt;強化+1&lt;/link&gt;&lt;/color&gt;を失う。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,21,_&gt;[プレイ]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;&lt;link=e,0,5&gt;強化+5&lt;/link&gt;&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に&lt;color=#004711&gt;&lt;link=e,0,1&gt;強化+1&lt;/link&gt;&lt;/color&gt;を失う。",
+    "context": null
+  },
+  {
     "key": "0.186.xml.name",
     "original": "カブレラストーン",
     "translation": "カブレラストーン",
@@ -1209,6 +1221,18 @@
     "key": "0.19.xml.context",
     "original": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;6&lt;/color&gt;ダメージを与える。",
     "translation": "距離2マス以内の最も近い敵に&lt;color=#870011&gt;6&lt;/color&gt;ダメージを与える。",
+    "context": null
+  },
+  {
+    "key": "0.190.xml.name",
+    "original": "[解呪]{かいじゅ}",
+    "translation": "[解呪]{かいじゅ}",
+    "context": null
+  },
+  {
+    "key": "0.190.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。: 自分のエンチャント1つを選択して消去する(値を0にする)。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。: 自分のエンチャント1つを選択して消去する(値を0にする)。",
     "context": null
   },
   {
@@ -1524,6 +1548,18 @@
     "context": null
   },
   {
+    "key": "0.214.xml.name",
+    "original": "ディフェンシブ・プロトコル",
+    "translation": "ディフェンシブ・プロトコル",
+    "context": null
+  },
+  {
+    "key": "0.214.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,2,_&gt;カウントダウン&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:2)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分がダメージを与える毎にバリア&lt;color=#002A66&gt;3&lt;/color&gt;を得る。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,2,_&gt;カウントダウン&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:2)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分がダメージを与える毎にバリア&lt;color=#002A66&gt;3&lt;/color&gt;を得る。",
+    "context": null
+  },
+  {
     "key": "0.215.xml.name",
     "original": "[物質化]{ぶっしつか}",
     "translation": "[物質化]{ぶっしつか}",
@@ -1605,6 +1641,18 @@
     "key": "0.220.xml.context",
     "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,20,_&gt;[アクティベート]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンに1度、「リプリント」以外のカードを発動した時に発動できる。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,14,_&gt;スタック&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;上の自分のカード1枚を選択し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。",
     "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,20,_&gt;[アクティベート]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンに1度、「リプリント」以外のカードを発動した時に発動できる。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,14,_&gt;スタック&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;上の自分のカード1枚を選択し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。",
+    "context": null
+  },
+  {
+    "key": "0.221.xml.name",
+    "original": "[黒鋼弾]{くろがねだん}",
+    "translation": "[黒鋼弾]{くろがねだん}",
+    "context": null
+  },
+  {
+    "key": "0.221.xml.context",
+    "original": "前方3マスに&lt;color=#870011&gt;15&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで手札から墓地に送られたときに発動する。自分は&lt;color=#004711&gt;&lt;link=e,13,2&gt;軽減+2&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "前方3マスに&lt;color=#870011&gt;15&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで手札から墓地に送られたときに発動する。自分は&lt;color=#004711&gt;&lt;link=e,13,2&gt;軽減+2&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -4533,6 +4581,246 @@
     "key": "6.9.xml.context",
     "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;敵がカードをプレイした時に発動できる。前方3マスに&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与え、2マス&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,4,_&gt;ノックバック&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;させる。",
     "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;敵がカードをプレイした時に発動できる。前方3マスに&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与え、2マス&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,4,_&gt;ノックバック&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;させる。",
+    "context": null
+  },
+  {
+    "key": "7.0.xml.name",
+    "original": "[切]{き}り[裂]{さ}き",
+    "translation": "[切]{き}り[裂]{さ}き",
+    "context": null
+  },
+  {
+    "key": "7.0.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲2マスの敵すべてに&lt;color=#004711&gt;&lt;link=e,21,2&gt;傷+2&lt;/link&gt;&lt;/color&gt;を与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲2マスの敵すべてに&lt;color=#004711&gt;&lt;link=e,21,2&gt;傷+2&lt;/link&gt;&lt;/color&gt;を与える。",
+    "context": null
+  },
+  {
+    "key": "7.1.xml.name",
+    "original": "[陽光]{ようこう}の[結界]{けっかい}",
+    "translation": "[陽光]{ようこう}の[結界]{けっかい}",
+    "context": null
+  },
+  {
+    "key": "7.1.xml.context",
+    "original": "カードを1枚引く。バリア10を得る。すべての手札のカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。&lt;br&gt;(手札以外の領域に移動するまで&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;は有効)",
+    "translation": "カードを1枚引く。バリア10を得る。すべての手札のカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。&lt;br&gt;(手札以外の領域に移動するまで&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;は有効)",
+    "context": null
+  },
+  {
+    "key": "7.2.xml.name",
+    "original": "ダイダルウェーブ",
+    "translation": "ダイダルウェーブ",
+    "context": null
+  },
+  {
+    "key": "7.2.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲2マスの最も近い敵に5ダメージを与える。これを3回行う。&lt;br&gt;自分がカードをプレイする度に手札のこのカードのMPコストを-1する。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲2マスの最も近い敵に5ダメージを与える。これを3回行う。&lt;br&gt;自分がカードをプレイする度に手札のこのカードのMPコストを-1する。",
+    "context": null
+  },
+  {
+    "key": "7.3.xml.name",
+    "original": "[瓦割]{かわらわ}り",
+    "translation": "[瓦割]{かわらわ}り",
+    "context": null
+  },
+  {
+    "key": "7.3.xml.context",
+    "original": "周囲1マスに15ダメージと&lt;color=#004711&gt;&lt;link=e,21,4&gt;傷+4&lt;/link&gt;&lt;/color&gt;を与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードが除外された時に発動する。このカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。",
+    "translation": "周囲1マスに15ダメージと&lt;color=#004711&gt;&lt;link=e,21,4&gt;傷+4&lt;/link&gt;&lt;/color&gt;を与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードが除外された時に発動する。このカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。",
+    "context": null
+  },
+  {
+    "key": "7.4.xml.name",
+    "original": "[十字]{じゅうじ}の[刻印]{こくいん}",
+    "translation": "[十字]{じゅうじ}の[刻印]{こくいん}",
+    "context": null
+  },
+  {
+    "key": "7.4.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,21,_&gt;[プレイ]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;u&gt;&lt;color=#004436&gt;&lt;link=s,0,36&gt;ファントムブレード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚手札に加える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分が敵にダメージを与えた時、その敵が傷を持っていないなら、その敵に&lt;color=#004711&gt;&lt;link=e,21,2&gt;傷+2&lt;/link&gt;&lt;/color&gt;を与える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,21,_&gt;[プレイ]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;u&gt;&lt;color=#004436&gt;&lt;link=s,0,36&gt;ファントムブレード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚手札に加える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分が敵にダメージを与えた時、その敵が傷を持っていないなら、その敵に&lt;color=#004711&gt;&lt;link=e,21,2&gt;傷+2&lt;/link&gt;&lt;/color&gt;を与える。",
+    "context": null
+  },
+  {
+    "key": "7.5.xml.name",
+    "original": "グラススパイク",
+    "translation": "グラススパイク",
+    "context": null
+  },
+  {
+    "key": "7.5.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲2マス以内の敵1体を選んで&lt;color=#004711&gt;&lt;link=e,21,5&gt;傷+5&lt;/link&gt;&lt;/color&gt;を与える。その後、その敵のパーマネント1枚を&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,12,_&gt;破壊&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;できる。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;周囲2マス以内の敵1体を選んで&lt;color=#004711&gt;&lt;link=e,21,5&gt;傷+5&lt;/link&gt;&lt;/color&gt;を与える。その後、その敵のパーマネント1枚を&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,12,_&gt;破壊&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;できる。",
+    "context": null
+  },
+  {
+    "key": "7.6.xml.name",
+    "original": "プライ",
+    "translation": "プライ",
+    "context": null
+  },
+  {
+    "key": "7.6.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,17,_&gt;クールダウン&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;前方2マスに&lt;color=#870011&gt;7&lt;/color&gt;ダメージと&lt;color=#004711&gt;&lt;link=e,21,1&gt;傷+1&lt;/link&gt;&lt;/color&gt;を与える。カードを1枚引く。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,17,_&gt;クールダウン&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;前方2マスに&lt;color=#870011&gt;7&lt;/color&gt;ダメージと&lt;color=#004711&gt;&lt;link=e,21,1&gt;傷+1&lt;/link&gt;&lt;/color&gt;を与える。カードを1枚引く。",
+    "context": null
+  },
+  {
+    "key": "7.7.xml.name",
+    "original": "ホログラム",
+    "translation": "ホログラム",
+    "context": null
+  },
+  {
+    "key": "7.7.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンに敵にダメージを4回与える毎に発動する。&lt;br&gt;自分はMPを1回復する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンに敵にダメージを4回与える毎に発動する。&lt;br&gt;自分はMPを1回復する。",
+    "context": null
+  },
+  {
+    "key": "7.8.xml.name",
+    "original": "アークテンペスト",
+    "translation": "アークテンペスト",
+    "context": null
+  },
+  {
+    "key": "7.8.xml.context",
+    "original": "自分がカードを発動した時に発動できる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードをプレイした時に発動する。自分が発動したカードを1枚選択し、それを&lt;b&gt;X&lt;/b&gt;回&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。&lt;b&gt;X&lt;/b&gt;はこのターンに発動したカードの枚数である。",
+    "translation": "自分がカードを発動した時に発動できる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードをプレイした時に発動する。自分が発動したカードを1枚選択し、それを&lt;b&gt;X&lt;/b&gt;回&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。&lt;b&gt;X&lt;/b&gt;はこのターンに発動したカードの枚数である。",
+    "context": null
+  },
+  {
+    "key": "7.9.xml.name",
+    "original": "メタモルフォーシス",
+    "translation": "メタモルフォーシス",
+    "context": null
+  },
+  {
+    "key": "7.9.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,20,_&gt;[アクティベート]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターンに一度、自分のターンに発動できる。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカード1枚を除外する。&lt;br&gt;:バリア&lt;color=#002A66&gt;6&lt;/color&gt;を得る。&lt;u&gt;&lt;color=#004436&gt;&lt;link=s,0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,9,_&gt;生成&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;して手札に加える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,20,_&gt;[アクティベート]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターンに一度、自分のターンに発動できる。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカード1枚を除外する。&lt;br&gt;:バリア&lt;color=#002A66&gt;6&lt;/color&gt;を得る。&lt;u&gt;&lt;color=#004436&gt;&lt;link=s,0,89&gt;エンチャンテッド・ソード&lt;/link&gt;&lt;/color&gt;&lt;/u&gt;を2枚&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,9,_&gt;生成&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;して手札に加える。",
+    "context": null
+  },
+  {
+    "key": "8.0.xml.name",
+    "original": "[誘導電流]{ゆうどうでんりゅう}",
+    "translation": "[誘導電流]{ゆうどうでんりゅう}",
+    "context": null
+  },
+  {
+    "key": "8.0.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分は&lt;color=#004711&gt;&lt;link=e,22,10&gt;帯電+10&lt;/link&gt;&lt;/color&gt;を得る。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで手札から墓地に送られた時に発動する。自分のエンチャントのうち、バフであり値が正であるものを全て+1する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分は&lt;color=#004711&gt;&lt;link=e,22,10&gt;帯電+10&lt;/link&gt;&lt;/color&gt;を得る。&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで手札から墓地に送られた時に発動する。自分のエンチャントのうち、バフであり値が正であるものを全て+1する。",
+    "context": null
+  },
+  {
+    "key": "8.1.xml.name",
+    "original": "リパルシブ・フォース",
+    "translation": "リパルシブ・フォース",
+    "context": null
+  },
+  {
+    "key": "8.1.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。&lt;br&gt;:自分はバリアを&lt;color=#002A66&gt;10&lt;/color&gt;得る。&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカードを1枚墓地に送る。&lt;br&gt;:自分はバリアを&lt;color=#002A66&gt;10&lt;/color&gt;得る。&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。",
+    "context": null
+  },
+  {
+    "key": "8.2.xml.name",
+    "original": "グリッジ",
+    "translation": "グリッジ",
+    "context": null
+  },
+  {
+    "key": "8.2.xml.context",
+    "original": "[&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;]&lt;br&gt;&lt;color=#004711&gt;&lt;link=e,6,1&gt;霊体化+1&lt;/link&gt;&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで墓地に送られた時に発動する。このカードをコストを支払わずに墓地からプレイする。",
+    "translation": "[&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;]&lt;br&gt;&lt;color=#004711&gt;&lt;link=e,6,1&gt;霊体化+1&lt;/link&gt;&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで墓地に送られた時に発動する。このカードをコストを支払わずに墓地からプレイする。",
+    "context": null
+  },
+  {
+    "key": "8.3.xml.name",
+    "original": "インパルス",
+    "translation": "インパルス",
+    "context": null
+  },
+  {
+    "key": "8.3.xml.context",
+    "original": "自分は&lt;color=#004711&gt;&lt;link=e,22,1&gt;帯電+1&lt;/link&gt;&lt;/color&gt;を得る。これを3回行う。",
+    "translation": "自分は&lt;color=#004711&gt;&lt;link=e,22,1&gt;帯電+1&lt;/link&gt;&lt;/color&gt;を得る。これを3回行う。",
+    "context": null
+  },
+  {
+    "key": "8.4.xml.name",
+    "original": "[閃光]{せんこう}の[予兆]{よちょう}",
+    "translation": "[閃光]{せんこう}の[予兆]{よちょう}",
+    "context": null
+  },
+  {
+    "key": "8.4.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;自分は&lt;color=#004711&gt;&lt;link=e,22,8&gt;帯電+8&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;自分は&lt;color=#004711&gt;&lt;link=e,22,8&gt;帯電+8&lt;/link&gt;&lt;/color&gt;を得る。",
+    "context": null
+  },
+  {
+    "key": "8.5.xml.name",
+    "original": "[封魔]{ふうま}の[契約]{けいやく}",
+    "translation": "[封魔]{ふうま}の[契約]{けいやく}",
+    "context": null
+  },
+  {
+    "key": "8.5.xml.context",
+    "original": "敵がカードを発動した時に発動できる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のバフであるエンチャントを一つ選択して-5する。:敵のカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,13,_&gt;無効化&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。",
+    "translation": "敵がカードを発動した時に発動できる。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のバフであるエンチャントを一つ選択して-5する。:敵のカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,13,_&gt;無効化&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。",
+    "context": null
+  },
+  {
+    "key": "8.6.xml.name",
+    "original": "[異常電圧]{いじょうでんあつ}",
+    "translation": "[異常電圧]{いじょうでんあつ}",
+    "context": null
+  },
+  {
+    "key": "8.6.xml.context",
+    "original": "2つの能力から1つ選んで適用する。&lt;br&gt;1.&lt;indent=5%&gt;自分は&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。&lt;/indent&gt;&lt;br&gt;2.&lt;indent=5%&gt;(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)自分の帯電の値を2倍にする。&lt;/indent&gt;",
+    "translation": "2つの能力から1つ選んで適用する。&lt;br&gt;1.&lt;indent=5%&gt;自分は&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。&lt;/indent&gt;&lt;br&gt;2.&lt;indent=5%&gt;(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)自分の帯電の値を2倍にする。&lt;/indent&gt;",
+    "context": null
+  },
+  {
+    "key": "8.7.xml.name",
+    "original": "アイオナイズ",
+    "translation": "アイオナイズ",
+    "context": null
+  },
+  {
+    "key": "8.7.xml.context",
+    "original": "前方3マスに&lt;color=#870011&gt;16&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで墓地に送られた時に発動する。:自分は&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "前方3マスに&lt;color=#870011&gt;16&lt;/color&gt;ダメージを与える。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで墓地に送られた時に発動する。:自分は&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。",
+    "context": null
+  },
+  {
+    "key": "8.8.xml.name",
+    "original": "チェインライトニング",
+    "translation": "チェインライトニング",
+    "context": null
+  },
+  {
+    "key": "8.8.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,21,_&gt;[プレイ]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,20,_&gt;[アクティベート]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分のターンに一度発動できる。MPを1払う:&lt;color=#004711&gt;&lt;link=e,22,1&gt;帯電+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,21,_&gt;[プレイ]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;&lt;link=e,22,4&gt;帯電+4&lt;/link&gt;&lt;/color&gt;を得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,20,_&gt;[アクティベート]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分のターンに一度発動できる。MPを1払う:&lt;color=#004711&gt;&lt;link=e,22,1&gt;帯電+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "context": null
+  },
+  {
+    "key": "8.9.xml.name",
+    "original": "[霊脈]{れいみゃく}の[指輪]{ゆびわ}",
+    "translation": "[霊脈]{れいみゃく}の[指輪]{ゆびわ}",
+    "context": null
+  },
+  {
+    "key": "8.9.xml.context",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンにエンチャントを3回得る度に発動する。自分はMPを1回復する",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンにエンチャントを3回得る度に発動する。自分はMPを1回復する",
     "context": null
   }
 ]
