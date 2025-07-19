@@ -211,8 +211,8 @@
   },
   {
     "key": "0.113.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がデッキをシャッフルした時に発動する。自分は&lt;color=#004711&gt;&lt;link=e,7,1&gt;加護+1&lt;/link&gt;&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がデッキをシャッフルした時に発動する。自分は&lt;color=#004711&gt;&lt;link=e,7,1&gt;加護+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がデッキをシャッフルした時に発動する。自分はバリア&lt;color=#002A66&gt;3&lt;/color&gt;と&lt;color=#004711&gt;&lt;link=e,7,1&gt;加護+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がデッキをシャッフルした時に発動する。自分はバリア&lt;color=#002A66&gt;3&lt;/color&gt;と&lt;color=#004711&gt;&lt;link=e,7,1&gt;加護+1&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -523,8 +523,8 @@
   },
   {
     "key": "0.137.xml.context",
-    "original": "前方2マスに&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はこのカードまたはこのカードの同名カードをバトル中に発動した回数に等しい。&lt;br&gt;(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,11,_&gt;キッカー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:2)このカードは発動後手札に戻る。",
-    "translation": "前方2マスに&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はこのカードまたはこのカードの同名カードをバトル中に発動した回数に等しい。&lt;br&gt;(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,11,_&gt;キッカー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:2)このカードは発動後手札に戻る。",
+    "original": "前方2マスに&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はこのカードまたはこのカードの同名カードをバトル中に発動した回数に等しい。&lt;br&gt;(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,11,_&gt;キッカー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:1)このカードは発動後手札に戻る。",
+    "translation": "前方2マスに&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はこのカードまたはこのカードの同名カードをバトル中に発動した回数に等しい。&lt;br&gt;(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,11,_&gt;キッカー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:1)このカードは発動後手札に戻る。",
     "context": null
   },
   {
@@ -559,8 +559,8 @@
   },
   {
     "key": "0.14.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のカウンターカードのMPコストを-2する。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のカウンターカードのMPコストを-2する。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分がカウンターカードをプレイする毎に発動する。自分はMPを1回復する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分がカウンターカードをプレイする毎に発動する。自分はMPを1回復する。",
     "context": null
   },
   {
@@ -907,8 +907,8 @@
   },
   {
     "key": "0.166.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;前方1マスに&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;&lt;link=e,0,_&gt;強化+&lt;b&gt;X&lt;/b&gt;&lt;/link&gt;&lt;/color&gt;を得る。&lt;b&gt;X&lt;/b&gt;は与えたダメージに等しい。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;前方1マスに&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;&lt;link=e,0,_&gt;強化+&lt;b&gt;X&lt;/b&gt;&lt;/link&gt;&lt;/color&gt;を得る。&lt;b&gt;X&lt;/b&gt;は与えたダメージに等しい。",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;前方1マスに&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;&lt;link=e,0,_&gt;強化+&lt;b&gt;X&lt;/b&gt;&lt;/link&gt;&lt;/color&gt;を得る。&lt;b&gt;X&lt;/b&gt;は与えたダメージに等しい。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;前方1マスに&lt;color=#870011&gt;1&lt;/color&gt;ダメージを与える。その後、&lt;color=#004711&gt;&lt;link=e,0,_&gt;強化+&lt;b&gt;X&lt;/b&gt;&lt;/link&gt;&lt;/color&gt;を得る。&lt;b&gt;X&lt;/b&gt;は与えたダメージに等しい。",
     "context": null
   },
   {
@@ -1039,8 +1039,8 @@
   },
   {
     "key": "0.176.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。自分は&lt;color=#004711&gt;&lt;link=e,0,1&gt;強化+1&lt;/link&gt;&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。自分は&lt;color=#004711&gt;&lt;link=e,0,1&gt;強化+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンにカードを3回プレイする度に発動する。自分は&lt;color=#004711&gt;&lt;link=e,0,1&gt;強化+1&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターンにカードを3回プレイする度に発動する。自分は&lt;color=#004711&gt;&lt;link=e,0,1&gt;強化+1&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -1171,8 +1171,8 @@
   },
   {
     "key": "0.186.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターンに1度、自分がアーティファクトカード以外の自分のカードによってエンチャントを得た時に発動する。最初に得たエンチャントを再度得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターンに1度、自分がアーティファクトカード以外の自分のカードによってエンチャントを得た時に発動する。最初に得たエンチャントを再度得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターンに1度、自分がアーティファクトカード以外の自分のカードによってエンチャント/バフを得た時に発動する。最初に得たエンチャントを再度得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;1ターンに1度、自分がアーティファクトカード以外の自分のカードによってエンチャント/バフを得た時に発動する。最初に得たエンチャントを再度得る。",
     "context": null
   },
   {
@@ -1387,8 +1387,8 @@
   },
   {
     "key": "0.201.xml.context",
-    "original": "距離3以内の最も近い敵に&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。さらにその敵に&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はその敵との距離である。",
-    "translation": "距離3以内の最も近い敵に&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。さらにその敵に&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はその敵との距離である。",
+    "original": "距離4以内の最も近い敵に&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。さらにその敵に&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はその敵との距離である。",
+    "translation": "距離4以内の最も近い敵に&lt;color=#870011&gt;4&lt;/color&gt;ダメージを与える。さらにその敵に&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×4&lt;/color&gt;ダメージを与える。&lt;b&gt;X&lt;/b&gt;はその敵との距離である。",
     "context": null
   },
   {
@@ -1411,8 +1411,8 @@
   },
   {
     "key": "0.203.xml.context",
-    "original": "自分または敵がターン終了時にMPを1回復する。",
-    "translation": "自分または敵がターン終了時にMPを1回復する。",
+    "original": "自分または敵がターンを終了する度にMPを1回復する。",
+    "translation": "自分または敵がターンを終了する度にMPを1回復する。",
     "context": null
   },
   {
@@ -2011,8 +2011,8 @@
   },
   {
     "key": "0.249.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がカウンターカードを発動した時に発動する。距離3マス以内の最も近い敵に&lt;color=#870011&gt;7&lt;/color&gt;ダメージを与える。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がカウンターカードを発動した時に発動する。距離3マス以内の最も近い敵に&lt;color=#870011&gt;7&lt;/color&gt;ダメージを与える。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がカウンターカードを発動した時に発動する。距離3マス以内の最も近い敵に&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;br&gt;自分がカウンターカードを発動した時に発動する。距離3マス以内の最も近い敵に&lt;color=#870011&gt;10&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {
@@ -2083,8 +2083,8 @@
   },
   {
     "key": "0.255.xml.context",
-    "original": "自分の全てのカードは&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;を得る。自分はターン中にカードを10枚までしか発動できない。",
-    "translation": "自分の全てのカードは&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;を得る。自分はターン中にカードを10枚までしか発動できない。",
+    "original": "自分の全てのカードは&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;を得る。自分の手札制限枚数を-2する。",
+    "translation": "自分の全てのカードは&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,18,_&gt;保留&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;を得る。自分の手札制限枚数を-2する。",
     "context": null
   },
   {
@@ -2647,8 +2647,8 @@
   },
   {
     "key": "0.3.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。&lt;color=#004711&gt;&lt;link=e,0,2&gt;強化+2&lt;/link&gt;&lt;/color&gt;を得る。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。&lt;color=#004711&gt;&lt;link=e,0,2&gt;強化+2&lt;/link&gt;&lt;/color&gt;を得る。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のターン開始時に発動する。&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
@@ -3331,8 +3331,8 @@
   },
   {
     "key": "0.58.xml.context",
-    "original": "自分のデッキからアクティブカードを1枚選んで除外し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。その後デッキをシャッフルする。",
-    "translation": "自分のデッキからアクティブカードを1枚選んで除外し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。その後デッキをシャッフルする。",
+    "original": "自分のデッキからアクティブカードまたはパーマネントカードを1枚選んで除外し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。その後デッキをシャッフルする。",
+    "translation": "自分のデッキからアクティブカードまたはパーマネントカードを1枚選んで除外し、そのカードを&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,19,_&gt;コピー&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;する。その後デッキをシャッフルする。",
     "context": null
   },
   {
@@ -3715,8 +3715,8 @@
   },
   {
     "key": "0.88.xml.context",
-    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,2,_&gt;カウントダウン&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:4)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のカードで与えるダメージはそのカードの元々のMPコスト分上昇する。",
-    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,2,_&gt;カウントダウン&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;:4)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のカードで与えるダメージはそのカードの元々のMPコスト分上昇する。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のカードで与えるダメージはそのカードの元々のMPコスト分上昇する。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,1,_&gt;[パーマネント]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;自分のカードで与えるダメージはそのカードの元々のMPコスト分上昇する。",
     "context": null
   },
   {
@@ -3859,8 +3859,8 @@
   },
   {
     "key": "0.99.xml.context",
-    "original": "自分はバトル開始時に&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
-    "translation": "自分はバトル開始時に&lt;color=#004711&gt;&lt;link=e,0,3&gt;強化+3&lt;/link&gt;&lt;/color&gt;を得る。",
+    "original": "自分はバトル開始時に&lt;color=#004711&gt;&lt;link=e,0,4&gt;強化+4&lt;/link&gt;&lt;/color&gt;を得る。",
+    "translation": "自分はバトル開始時に&lt;color=#004711&gt;&lt;link=e,0,4&gt;強化+4&lt;/link&gt;&lt;/color&gt;を得る。",
     "context": null
   },
   {
