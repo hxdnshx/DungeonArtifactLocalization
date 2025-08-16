@@ -1183,8 +1183,8 @@
   },
   {
     "key": "0.187.xml.context",
-    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;カードのプレイ後に、自分の手札が0枚なら発動する。自分はカードを1枚ドローする。",
-    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;カードのプレイ後に、自分の手札が0枚なら発動する。自分はカードを1枚ドローする。",
+    "original": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札からカードをプレイする度に、自分の手札が0枚なら発動する。自分はカードを1枚ドローする。",
+    "translation": "&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札からカードをプレイする度に、自分の手札が0枚なら発動する。自分はカードを1枚ドローする。",
     "context": null
   },
   {
@@ -2997,6 +2997,54 @@
     "key": "0.325.xml.context",
     "original": "8方向の距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。攻撃範囲外の敵に&lt;color=#004711&gt;&lt;link=e,0,-3&gt;強化-3&lt;/link&gt;&lt;/color&gt;を与える。",
     "translation": "8方向の距離3マスに&lt;color=#870011&gt;25&lt;/color&gt;ダメージを与える。攻撃範囲外の敵に&lt;color=#004711&gt;&lt;link=e,0,-3&gt;強化-3&lt;/link&gt;&lt;/color&gt;を与える。",
+    "context": null
+  },
+  {
+    "key": "0.326.xml.name",
+    "original": "サクリファイス",
+    "translation": "サクリファイス",
+    "context": null
+  },
+  {
+    "key": "0.326.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカード&lt;b&gt;X&lt;/b&gt;枚を除外する。このカードのMPコストは&lt;b&gt;X&lt;/b&gt;減少する。:距離2以内の最も近い敵に&lt;color=#870011&gt;5&lt;/color&gt;ダメージを&lt;b&gt;X&lt;/b&gt;回与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;手札のカード&lt;b&gt;X&lt;/b&gt;枚を除外する。このカードのMPコストは&lt;b&gt;X&lt;/b&gt;減少する。:距離2以内の最も近い敵に&lt;color=#870011&gt;5&lt;/color&gt;ダメージを&lt;b&gt;X&lt;/b&gt;回与える。",
+    "context": null
+  },
+  {
+    "key": "0.327.xml.name",
+    "original": "ブラッドアーツ",
+    "translation": "ブラッドアーツ",
+    "context": null
+  },
+  {
+    "key": "0.327.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;HPを3払う。:前方2マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;HPを3払う。:前方2マスに&lt;color=#870011&gt;20&lt;/color&gt;ダメージを与える。",
+    "context": null
+  },
+  {
+    "key": "0.328.xml.name",
+    "original": "[終結]{しゅうけつ}",
+    "translation": "[終結]{しゅうけつ}",
+    "context": null
+  },
+  {
+    "key": "0.328.xml.context",
+    "original": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;&lt;link=e,18,_&gt;蓄積&lt;b&gt;X&lt;/b&gt;&lt;/link&gt;&lt;/color&gt;を失う。:周囲2マスに&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×&lt;b&gt;X&lt;/b&gt;&lt;/color&gt;ダメージを与える。",
+    "translation": "(&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,6,_&gt;廃棄&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;)&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,5,_&gt;[コスト]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;&lt;color=#004711&gt;&lt;link=e,18,_&gt;蓄積&lt;b&gt;X&lt;/b&gt;&lt;/link&gt;&lt;/color&gt;を失う。:周囲2マスに&lt;color=#870011&gt;&lt;b&gt;X&lt;/b&gt;×&lt;b&gt;X&lt;/b&gt;&lt;/color&gt;ダメージを与える。",
+    "context": null
+  },
+  {
+    "key": "0.329.xml.name",
+    "original": "ファイアーウォール",
+    "translation": "ファイアーウォール",
+    "context": null
+  },
+  {
+    "key": "0.329.xml.context",
+    "original": "自分はバリアを&lt;color=#002A66&gt;10&lt;/color&gt;得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで墓地に送られたときに発動する。周囲2マス以内の最も近い敵に&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与える。",
+    "translation": "自分はバリアを&lt;color=#002A66&gt;10&lt;/color&gt;得る。&lt;br&gt;&lt;b&gt;&lt;color=#352F00&gt;&lt;link=k,0,_&gt;[トリガー]&lt;/link&gt;&lt;/color&gt;&lt;/b&gt;このカードがコストで墓地に送られたときに発動する。周囲2マス以内の最も近い敵に&lt;color=#870011&gt;8&lt;/color&gt;ダメージを与える。",
     "context": null
   },
   {

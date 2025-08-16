@@ -13,8 +13,8 @@
   },
   {
     "key": "handless",
-    "original": "{0}の枚数が0枚です",
-    "translation": "{0}の枚数が0枚です",
+    "original": "{0}の枚数が0枚です。",
+    "translation": "{0}の枚数が0枚です。",
     "context": null
   },
   {
@@ -913,8 +913,8 @@
   },
   {
     "key": "downfloor",
-    "original": "移動先のマスを選択してください",
-    "translation": "移動先のマスを選択してください",
+    "original": "移動先のマスを選択してください。",
+    "translation": "移動先のマスを選択してください。",
     "context": null
   },
   {
@@ -1321,26 +1321,26 @@
   },
   {
     "key": "illgal_terget",
-    "original": "対象が不適正です",
-    "translation": "対象が不適正です",
+    "original": "対象が不適正です。",
+    "translation": "対象が不適正です。",
     "context": null
   },
   {
     "key": "play_cancel",
-    "original": "プレイがキャンセルされました",
-    "translation": "プレイがキャンセルされました",
+    "original": "プレイがキャンセルされました。",
+    "translation": "プレイがキャンセルされました。",
     "context": null
   },
   {
     "key": "invaild_range",
-    "original": "攻撃範囲外または移動先がありません",
-    "translation": "攻撃範囲外または移動先がありません",
+    "original": "攻撃範囲外または移動先がありません。",
+    "translation": "攻撃範囲外または移動先がありません。",
     "context": null
   },
   {
     "key": "invalid_direction",
-    "original": "方向が選択されていません",
-    "translation": "方向が選択されていません",
+    "original": "方向が選択されていません。",
+    "translation": "方向が選択されていません。",
     "context": null
   },
   {
@@ -1393,8 +1393,8 @@
   },
   {
     "key": "lack_experience",
-    "original": "経験値が不足しています",
-    "translation": "経験値が不足しています",
+    "original": "経験値が不足しています。",
+    "translation": "経験値が不足しています。",
     "context": null
   },
   {
@@ -1405,8 +1405,8 @@
   },
   {
     "key": "dispose_conf",
-    "original": "経験値を消費して、カードを解放できます",
-    "translation": "経験値を消費して、カードを解放できます",
+    "original": "経験値を消費して、カードを解放できます。",
+    "translation": "経験値を消費して、カードを解放できます。",
     "context": null
   },
   {
@@ -1537,8 +1537,8 @@
   },
   {
     "key": "extra_menu_conf",
-    "original": "経験値を消費してカードを解放できます",
-    "translation": "経験値を消費してカードを解放できます",
+    "original": "経験値を消費してカードを解放できます。",
+    "translation": "経験値を消費してカードを解放できます。",
     "context": null
   },
   {
@@ -1597,8 +1597,8 @@
   },
   {
     "key": "select_double_damage",
-    "original": "ダメージを2倍にするカードを1枚選択してください",
-    "translation": "ダメージを2倍にするカードを1枚選択してください",
+    "original": "ダメージを2倍にするカードを1枚選択してください。",
+    "translation": "ダメージを2倍にするカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1609,8 +1609,8 @@
   },
   {
     "key": "select_add_damage",
-    "original": "ダメージを{0}するカードを1枚選択してください",
-    "translation": "ダメージを{0}するカードを1枚選択してください",
+    "original": "ダメージを{0}するカードを1枚選択してください。",
+    "translation": "ダメージを{0}するカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1627,8 +1627,8 @@
   },
   {
     "key": "select_regist_damage",
-    "original": "ダメージを無効にするカードを1枚選択してください",
-    "translation": "ダメージを無効にするカードを1枚選択してください",
+    "original": "ダメージを無効にするカードを1枚選択してください。",
+    "translation": "ダメージを無効にするカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1639,8 +1639,8 @@
   },
   {
     "key": "select_reflection",
-    "original": "ダメージを反射するカードを1枚選択してください",
-    "translation": "ダメージを反射するカードを1枚選択してください",
+    "original": "ダメージを反射するカードを1枚選択してください。",
+    "translation": "ダメージを反射するカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1681,8 +1681,8 @@
   },
   {
     "key": "select_x_value",
-    "original": "Xの値を決定してください",
-    "translation": "Xの値を決定してください",
+    "original": "Xの値を決定してください。",
+    "translation": "Xの値を決定してください。",
     "context": null
   },
   {
@@ -1693,26 +1693,26 @@
   },
   {
     "key": "select_field_grave",
-    "original": "フィールドから墓地に送るカードを{0}枚選択してください",
-    "translation": "フィールドから墓地に送るカードを{0}枚選択してください",
+    "original": "フィールドから墓地に送るカードを{0}枚選択してください。",
+    "translation": "フィールドから墓地に送るカードを{0}枚選択してください。",
     "context": null
   },
   {
     "key": "select_hand_grave",
-    "original": "手札から墓地に送るカードを{0}枚選択してください",
-    "translation": "手札から墓地に送るカードを{0}枚選択してください",
+    "original": "手札から墓地に送るカードを{0}枚選択してください。",
+    "translation": "手札から墓地に送るカードを{0}枚選択してください。",
     "context": null
   },
   {
     "key": "select_copy_counter",
-    "original": "能力をコピーするカウンターカードを1枚選択してください",
-    "translation": "能力をコピーするカウンターカードを1枚選択してください",
+    "original": "能力をコピーするカウンターカードを1枚選択してください。",
+    "translation": "能力をコピーするカウンターカードを1枚選択してください。",
     "context": null
   },
   {
     "key": "select_cost_down",
-    "original": "コストを減らすカードを1枚選択してください",
-    "translation": "コストを減らすカードを1枚選択してください",
+    "original": "コストを減らすカードを1枚選択してください。",
+    "translation": "コストを減らすカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1735,20 +1735,20 @@
   },
   {
     "key": "no_exist_graveyard",
-    "original": "{0}が墓地に存在しません",
-    "translation": "{0}が墓地に存在しません",
+    "original": "{0}が墓地に存在しません。",
+    "translation": "{0}が墓地に存在しません。",
     "context": null
   },
   {
     "key": "no_exist_target",
-    "original": "対象のカードが存在しません",
-    "translation": "対象のカードが存在しません",
+    "original": "対象のカードが存在しません。",
+    "translation": "対象のカードが存在しません。",
     "context": null
   },
   {
     "key": "select_copy_ability",
-    "original": "能力をコピーするカードを1枚選択してください",
-    "translation": "能力をコピーするカードを1枚選択してください",
+    "original": "能力をコピーするカードを1枚選択してください。",
+    "translation": "能力をコピーするカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1759,38 +1759,38 @@
   },
   {
     "key": "could_not_drow",
-    "original": "ドローできませんでした",
-    "translation": "ドローできませんでした",
+    "original": "ドローできませんでした。",
+    "translation": "ドローできませんでした。",
     "context": null
   },
   {
     "key": "mpcost_change_format",
-    "original": "{0}のMPコストを{1}にする",
-    "translation": "{0}のMPコストを{1}にする",
+    "original": "{0}のMPコストを{1}にする。",
+    "translation": "{0}のMPコストを{1}にする。",
     "context": null
   },
   {
     "key": "select_search_card",
-    "original": "手札に加えるカードを1枚選択してください",
-    "translation": "手札に加えるカードを1枚選択してください",
+    "original": "手札に加えるカードを1枚選択してください。",
+    "translation": "手札に加えるカードを1枚選択してください。",
     "context": null
   },
   {
     "key": "select_cost_half",
-    "original": "MPコストを半分にするカードを選択してください",
-    "translation": "MPコストを半分にするカードを選択してください",
+    "original": "MPコストを半分にするカードを選択してください。",
+    "translation": "MPコストを半分にするカードを選択してください。",
     "context": null
   },
   {
     "key": "mpcost_half_format",
-    "original": "{0}のMPコストを半減する",
-    "translation": "{0}のMPコストを半減する",
+    "original": "{0}のMPコストを半減する。",
+    "translation": "{0}のMPコストを半減する。",
     "context": null
   },
   {
     "key": "select_apply_ability",
-    "original": "適用する能力を選択してください",
-    "translation": "適用する能力を選択してください",
+    "original": "適用する能力を選択してください。",
+    "translation": "適用する能力を選択してください。",
     "context": null
   },
   {
@@ -1801,20 +1801,20 @@
   },
   {
     "key": "select_generate_permanent",
-    "original": "生成するパーマネントカードを1枚選択してください",
-    "translation": "生成するパーマネントカードを1枚選択してください",
+    "original": "生成するパーマネントカードを1枚選択してください。",
+    "translation": "生成するパーマネントカードを1枚選択してください。",
     "context": null
   },
   {
     "key": "select_salvage_format",
-    "original": "フィールドに戻すカードを1枚選択してください",
-    "translation": "フィールドに戻すカードを1枚選択してください",
+    "original": "フィールドに戻すカードを1枚選択してください。",
+    "translation": "フィールドに戻すカードを1枚選択してください。",
     "context": null
   },
   {
     "key": "select_dispell",
-    "original": "無効化するカードを1枚選択してください",
-    "translation": "無効化するカードを1枚選択してください",
+    "original": "無効化するカードを1枚選択してください。",
+    "translation": "無効化するカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1825,26 +1825,26 @@
   },
   {
     "key": "select_put_field",
-    "original": "フィールドに置くカードを1枚選んでください",
-    "translation": "フィールドに置くカードを1枚選んでください",
+    "original": "フィールドに置くカードを1枚選んでください。",
+    "translation": "フィールドに置くカードを1枚選んでください。",
     "context": null
   },
   {
     "key": "select_enemy",
-    "original": "対象の敵を選択してください",
-    "translation": "対象の敵を選択してください",
+    "original": "対象の敵を選択してください。",
+    "translation": "対象の敵を選択してください。",
     "context": null
   },
   {
     "key": "select_destroy_field",
-    "original": "破壊するフィールドのカードを1枚選択してください",
-    "translation": "破壊するフィールドのカードを1枚選択してください",
+    "original": "破壊するフィールドのカードを1枚選択してください。",
+    "translation": "破壊するフィールドのカードを1枚選択してください。",
     "context": null
   },
   {
     "key": "select_send_graveyard",
-    "original": "墓地に送るフィールドのカードを1枚選択してください",
-    "translation": "墓地に送るフィールドのカードを1枚選択してください",
+    "original": "墓地に送るフィールドのカードを1枚選択してください。",
+    "translation": "墓地に送るフィールドのカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1861,8 +1861,8 @@
   },
   {
     "key": "select_invoke_active",
-    "original": "発動するアクティブカードを1枚選択してください",
-    "translation": "発動するアクティブカードを1枚選択してください",
+    "original": "発動するアクティブカードを1枚選択してください。",
+    "translation": "発動するアクティブカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1879,20 +1879,20 @@
   },
   {
     "key": "no_exist_targetenemy",
-    "original": "対象の敵が存在しません",
-    "translation": "対象の敵が存在しません",
+    "original": "対象の敵が存在しません。",
+    "translation": "対象の敵が存在しません。",
     "context": null
   },
   {
     "key": "no_exist_coord",
-    "original": "選択された座標が存在しません",
-    "translation": "選択された座標が存在しません",
+    "original": "選択された座標が存在しません。",
+    "translation": "選択された座標が存在しません。",
     "context": null
   },
   {
     "key": "select_destroy_hand",
-    "original": "破壊する手札のカードを選択してください",
-    "translation": "破壊する手札のカードを選択してください",
+    "original": "破壊する手札のカードを選択してください。",
+    "translation": "破壊する手札のカードを選択してください。",
     "context": null
   },
   {
@@ -1933,14 +1933,14 @@
   },
   {
     "key": "select_hold_card",
-    "original": "保留するカードを1枚選択してください",
-    "translation": "保留するカードを1枚選択してください",
+    "original": "保留するカードを1枚選択してください。",
+    "translation": "保留するカードを1枚選択してください。",
     "context": null
   },
   {
     "key": "select_destination",
-    "original": "移動先を選択してください",
-    "translation": "移動先を選択してください",
+    "original": "移動先を選択してください。",
+    "translation": "移動先を選択してください。",
     "context": null
   },
   {
@@ -1951,8 +1951,8 @@
   },
   {
     "key": "select_card_generate",
-    "original": "生成するカードを1枚選択してください",
-    "translation": "生成するカードを1枚選択してください",
+    "original": "生成するカードを1枚選択してください。",
+    "translation": "生成するカードを1枚選択してください。",
     "context": null
   },
   {
@@ -1963,8 +1963,8 @@
   },
   {
     "key": "select_banish_card",
-    "original": "除外するカードを1枚選んでください",
-    "translation": "除外するカードを1枚選んでください",
+    "original": "除外するカードを1枚選んでください。",
+    "translation": "除外するカードを1枚選んでください。",
     "context": null
   },
   {
@@ -1981,8 +1981,8 @@
   },
   {
     "key": "log_nothing",
-    "original": "ログがありません",
-    "translation": "ログがありません",
+    "original": "ログがありません。",
+    "translation": "ログがありません。",
     "context": null
   },
   {
@@ -1993,8 +1993,8 @@
   },
   {
     "key": "select_generate_same",
-    "original": "同名カードを生成する対象を1枚選択してください",
-    "translation": "同名カードを生成する対象を1枚選択してください",
+    "original": "同名カードを生成する対象を1枚選択してください。",
+    "translation": "同名カードを生成する対象を1枚選択してください。",
     "context": null
   },
   {
@@ -2101,8 +2101,8 @@
   },
   {
     "key": "too_large_value",
-    "original": "値が大きすぎます",
-    "translation": "値が大きすぎます",
+    "original": "値が大きすぎます。",
+    "translation": "値が大きすぎます。",
     "context": null
   },
   {
@@ -2293,8 +2293,8 @@
   },
   {
     "key": "barriar_per_damage",
-    "original": "ダメージを与える毎にバリア{0}を得る。",
-    "translation": "ダメージを与える毎にバリア{0}を得る。",
+    "original": "ダメージを与える毎にバリア{0}を得る",
+    "translation": "ダメージを与える毎にバリア{0}を得る",
     "context": null
   },
   {
@@ -2325,6 +2325,24 @@
     "key": "delete_enchant_conf",
     "original": "{0}を消去してもよいですか？",
     "translation": "{0}を消去してもよいですか？",
+    "context": null
+  },
+  {
+    "key": "select_hand_banish",
+    "original": "手札から除外するカードを{0}枚選択してください",
+    "translation": "手札から除外するカードを{0}枚選択してください",
+    "context": null
+  },
+  {
+    "key": "select_pay_enchant",
+    "original": "{0}のうち、コストとして失う値を選択してください。",
+    "translation": "{0}のうち、コストとして失う値を選択してください。",
+    "context": null
+  },
+  {
+    "key": "lose_number",
+    "original": "{0}失う",
+    "translation": "{0}失う",
     "context": null
   }
 ]
