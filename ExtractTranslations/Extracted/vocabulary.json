@@ -708,9 +708,9 @@
     "context": null
   },
   {
-    "key": "/VocabularyXml/cardType/stringアイテムカード",
-    "original": "アイテムカード",
-    "translation": "アイテムカード",
+    "key": "/VocabularyXml/cardType/string呪いカード",
+    "original": "呪いカード",
+    "translation": "呪いカード",
     "context": null
   },
   {
@@ -849,12 +849,6 @@
     "key": "/VocabularyXml/keyWords/string[プレイ]",
     "original": "[プレイ]",
     "translation": "[プレイ]",
-    "context": null
-  },
-  {
-    "key": "/VocabularyXml/keyWords/stringノックバック",
-    "original": "ノックバック",
-    "translation": "ノックバック",
     "context": null
   },
   {

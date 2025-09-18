@@ -1,4 +1,5 @@
-﻿using System.Xml.Linq;
+﻿using System.Text.RegularExpressions;
+using System.Xml.Linq;
 using Newtonsoft.Json;
 
 namespace ExtractTranslations;
@@ -16,29 +17,40 @@ public static class CardTrans
         foreach (var filePath in Directory.GetFiles(directoryPath, "*.xml", SearchOption.AllDirectories))
         {
             FileInfo fi = new FileInfo(filePath);
-            var parentName = fi.Directory.Name;
-            var doc = XDocument.Load(filePath);
-            var mainClass = doc.Root.Element("mainClass")?.Value;
-            var name = doc.Root.Element("name")?.Value;
-            var context = doc.Root.Element("context")?.Value;
-
-            if (mainClass != null)
+            var parentName = fi.Name;
+            var fileNumber = 0;
+            Match match = Regex.Match(parentName, @"\d+");
+            if (match.Success)
             {
-                translations.Add(new Dictionary<string, object>
-                {
-                    { "key", $"{parentName}.{fi.Name}.name" },
-                    { "original", name },
-                    { "translation", name },
-                    { "context", null }
-                });
+                fileNumber = int.Parse(match.Value);
+            }
+            var txt = File.ReadAllLines(filePath);
+            foreach (var line in txt)
+            {
+                var doc = XDocument.Parse(line);
+                var mainClass = doc.Root.Element("mainClass")?.Value;
+                var name = doc.Root.Element("name")?.Value;
+                var id = doc.Root.Element("id")?.Value;
+                var context = doc.Root.Element("context")?.Value;
 
-                translations.Add(new Dictionary<string, object>
+                if (mainClass != null)
                 {
-                    { "key", $"{parentName}.{fi.Name}.context" },
-                    { "original", context },
-                    { "translation", context },
-                    { "context", null }
-                });
+                    translations.Add(new Dictionary<string, object>
+                    {
+                        { "key", $"{fileNumber}.{id}.xml.name" },
+                        { "original", name },
+                        { "translation", name },
+                        { "context", null }
+                    });
+
+                    translations.Add(new Dictionary<string, object>
+                    {
+                        { "key", $"{fileNumber}.{id}.xml.context" },
+                        { "original", context },
+                        { "translation", context },
+                        { "context", null }
+                    });
+                }
             }
         }
         

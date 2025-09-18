@@ -133,14 +133,8 @@
   },
   {
     "key": "Entity.player.xml.name",
-    "original": "リディア",
-    "translation": "リディア",
-    "context": null
-  },
-  {
-    "key": "Entity.rock.xml.name",
-    "original": "かかし",
-    "translation": "かかし",
+    "original": "Player",
+    "translation": "Player",
     "context": null
   },
   {

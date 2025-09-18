@@ -6,15 +6,15 @@ namespace ExtractTranslations;
 public class CharacterTrans
 {
     
-    public static void ExtractCharacterText(string directoryPath, string outJsonPath)
+    public static void ExtractCharacterText(string directoryPath, string directoryPath2, string outJsonPath)
     {
         
         var translations = new List<Dictionary<string, object>>();
 
-       
-
+        var anotherDir = Directory.GetFiles(directoryPath2, "*.xml", SearchOption.AllDirectories);
+        var elements = Directory.GetFiles(directoryPath, "*.xml", SearchOption.AllDirectories).Concat(anotherDir);
         
-        foreach (var filePath in Directory.GetFiles(directoryPath, "*.xml", SearchOption.AllDirectories))
+        foreach (var filePath in elements)
         {
             FileInfo fi = new FileInfo(filePath);
             var parentName = fi.Directory.Name;

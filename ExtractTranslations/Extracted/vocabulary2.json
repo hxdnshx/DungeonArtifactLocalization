@@ -799,8 +799,8 @@
   },
   {
     "key": "language_conf",
-    "original": "言語設定はタイトルに戻ると反映されます。",
-    "translation": "言語設定はタイトルに戻ると反映されます。",
+    "original": "表示言語を変更するとタイトルに戻ります。よろしいですか？",
+    "translation": "表示言語を変更するとタイトルに戻ります。よろしいですか？",
     "context": null
   },
   {
@@ -2343,6 +2343,12 @@
     "key": "lose_number",
     "original": "{0}失う",
     "translation": "{0}失う",
+    "context": null
+  },
+  {
+    "key": "language_msg",
+    "original": "表示言語を変更します。",
+    "translation": "表示言語を変更します。",
     "context": null
   }
 ]

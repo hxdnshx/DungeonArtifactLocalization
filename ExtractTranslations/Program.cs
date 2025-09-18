@@ -21,19 +21,20 @@ public class Program
         var directoryPath = opts.InputDirectory;
         var jsonFilePath = opts.OutputDirectory;
 
-        CardTrans.ExtractCardText(Path.Join(directoryPath, "Spell"), Path.Join(jsonFilePath, "spell.json"));
-        CardTrans.ExtractCardPollText(Path.Join(directoryPath, "Spell"), Path.Join(jsonFilePath, "pool.json"));
-        EnchantTrans.ExtractEnchantText(Path.Join(directoryPath, "Enchant"), Path.Join(jsonFilePath, "enchant.json"));
+        CardTrans.ExtractCardText(Path.Join(directoryPath, "Japanese/Spell"), Path.Join(jsonFilePath, "spell.json"));
+        CardTrans.ExtractCardPollText(Path.Join(directoryPath, "Japanese/Spell"), Path.Join(jsonFilePath, "pool.json"));
+        EnchantTrans.ExtractEnchantText(Path.Join(directoryPath, "Japanese/Enchant"), Path.Join(jsonFilePath, "enchant.json"));
         ScenarioTrans.ExtractScenario(Path.Join(directoryPath, "Scenario"), Path.Join(jsonFilePath, "scenario.json"));
-        CharacterTrans.ExtractCharacterText(Path.Join(directoryPath, "Japanese"), Path.Join(jsonFilePath, "entity.json"));
+        CharacterTrans.ExtractCharacterText(Path.Join(directoryPath, "Japanese/Character"), 
+            Path.Join(directoryPath, "Japanese/Entity"), Path.Join(jsonFilePath, "entity.json"));
 
-        VocabularyTrans.ExtractVocabulary(Path.Join(directoryPath, "Language/Japanese_Vocabulary.txt"),
+        VocabularyTrans.ExtractVocabulary(Path.Join(directoryPath, "Japanese/vocabulary.xml"),
             Path.Join(jsonFilePath, "vocabulary.json"));
-        VocabularyTrans.ExtractTsv(Path.Join(directoryPath, "Language/Japanese.tsv"),
+        VocabularyTrans.ExtractTsv(Path.Join(directoryPath, "Japanese/uitext.tsv"),
             Path.Join(jsonFilePath, "vocabulary2.json"));
-        VocabularyTrans.ExtractTsvAchievementAcc(Path.Join(directoryPath, "Japanese/AchievementAccumlate.tsv"),
+        VocabularyTrans.ExtractTsvAchievementAcc(Path.Join(directoryPath, "Japanese/achievement_accumlate.tsv"),
             Path.Join(jsonFilePath, "AchievementAccumlate.json"));
-        VocabularyTrans.ExtractTsvAchievementTitle(Path.Join(directoryPath, "Japanese/AchievementTitle.tsv"),
+        VocabularyTrans.ExtractTsvAchievementTitle(Path.Join(directoryPath, "Japanese/achievement_title.tsv"),
             Path.Join(jsonFilePath, "AchievementTitle.json"));
         
         Console.WriteLine("转换完成喵！");
