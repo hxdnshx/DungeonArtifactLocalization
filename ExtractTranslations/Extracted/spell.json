@@ -3991,8 +3991,8 @@
   },
   {
     "key": "0.336.xml.context",
-    "original": "カードをドローする度に、自分はバリアを&lt;color=#002A66&gt;2&lt;/color&gt;得る。",
-    "translation": "カードをドローする度に、自分はバリアを&lt;color=#002A66&gt;2&lt;/color&gt;得る。",
+    "original": "能力でカードをドローする度に、自分はバリアを&lt;color=#002A66&gt;2&lt;/color&gt;得る。",
+    "translation": "能力でカードをドローする度に、自分はバリアを&lt;color=#002A66&gt;2&lt;/color&gt;得る。",
     "context": null
   },
   {
