@@ -438,6 +438,12 @@
     "context": null
   },
   {
+    "key": "release_button",
+    "original": "離す",
+    "translation": "離す",
+    "context": null
+  },
+  {
     "key": "hand",
     "original": "手札",
     "translation": "手札",
@@ -2349,6 +2355,30 @@
     "key": "language_msg",
     "original": "表示言語を変更します。",
     "translation": "表示言語を変更します。",
+    "context": null
+  },
+  {
+    "key": "tutorial_start_msg",
+    "original": "チュートリアルを開始します。",
+    "translation": "チュートリアルを開始します。",
+    "context": null
+  },
+  {
+    "key": "permanent_tutorial_start_msg",
+    "original": "パーマネントカードのチュートリアルを開始します。",
+    "translation": "パーマネントカードのチュートリアルを開始します。",
+    "context": null
+  },
+  {
+    "key": "counter_tutorial_start_msg",
+    "original": "カウンターカードのチュートリアルを開始します。",
+    "translation": "カウンターカードのチュートリアルを開始します。",
+    "context": null
+  },
+  {
+    "key": "disable_cancel_msg",
+    "original": "今はキャンセルできません。",
+    "translation": "今はキャンセルできません。",
     "context": null
   }
 ]

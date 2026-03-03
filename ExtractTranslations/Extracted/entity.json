@@ -162,6 +162,12 @@
     "context": null
   },
   {
+    "key": "Entity.tutorial.xml.name",
+    "original": "サーキュラー",
+    "translation": "サーキュラー",
+    "context": null
+  },
+  {
     "key": "Entity.unsigned.xml.name",
     "original": "アンサインド",
     "translation": "アンサインド",
