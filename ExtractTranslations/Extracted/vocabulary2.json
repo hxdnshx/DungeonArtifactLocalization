@@ -1975,14 +1975,14 @@
   },
   {
     "key": "salvage_ability",
-    "original": "墓地のカードを手札に加える",
-    "translation": "墓地のカードを手札に加える",
+    "original": "墓地のカードを手札に加える。",
+    "translation": "墓地のカードを手札に加える。",
     "context": null
   },
   {
     "key": "pull_ability",
-    "original": "(廃棄)を持つ。除外領域のカードを手札に加える",
-    "translation": "(廃棄)を持つ。除外領域のカードを手札に加える",
+    "original": "(廃棄)を持つ。除外領域のカードを手札に加える。",
+    "translation": "(廃棄)を持つ。除外領域のカードを手札に加える。",
     "context": null
   },
   {
@@ -2335,8 +2335,8 @@
   },
   {
     "key": "select_hand_banish",
-    "original": "手札から除外するカードを{0}枚選択してください",
-    "translation": "手札から除外するカードを{0}枚選択してください",
+    "original": "手札から除外するカードを{0}枚選択してください。",
+    "translation": "手札から除外するカードを{0}枚選択してください。",
     "context": null
   },
   {
@@ -2379,6 +2379,138 @@
     "key": "disable_cancel_msg",
     "original": "今はキャンセルできません。",
     "translation": "今はキャンセルできません。",
+    "context": null
+  },
+  {
+    "key": "select_force_play",
+    "original": "プレイするカードを1枚選択してください。",
+    "translation": "プレイするカードを1枚選択してください。",
+    "context": null
+  },
+  {
+    "key": "play_conf_format",
+    "original": "{0}をプレイしますか?",
+    "translation": "{0}をプレイしますか?",
+    "context": null
+  },
+  {
+    "key": "copy_with_direction",
+    "original": "カードをコピーする時、方向を再選択しないようにする",
+    "translation": "カードをコピーする時、方向を再選択しないようにする",
+    "context": null
+  },
+  {
+    "key": "card_release",
+    "original": "カード開放",
+    "translation": "カード開放",
+    "context": null
+  },
+  {
+    "key": "go_to_next",
+    "original": "次へ進む",
+    "translation": "次へ進む",
+    "context": null
+  },
+  {
+    "key": "next_action",
+    "original": "次の行動",
+    "translation": "次の行動",
+    "context": null
+  },
+  {
+    "key": "enemy_action_unknown",
+    "original": "不明",
+    "translation": "不明",
+    "context": null
+  },
+  {
+    "key": "enemy_action_attack",
+    "original": "{0}ダメージを与えようとしている。",
+    "translation": "{0}ダメージを与えようとしている。",
+    "context": null
+  },
+  {
+    "key": "enemy_action_barrier",
+    "original": "バリアを予定している",
+    "translation": "バリアを予定している",
+    "context": null
+  },
+  {
+    "key": "enemy_action_move",
+    "original": "移動を予定している",
+    "translation": "移動を予定している",
+    "context": null
+  },
+  {
+    "key": "enemy_action_buff",
+    "original": "バフを予定している",
+    "translation": "バフを予定している",
+    "context": null
+  },
+  {
+    "key": "enemy_action_debuff",
+    "original": "デバフを予定している",
+    "translation": "デバフを予定している",
+    "context": null
+  },
+  {
+    "key": "enemy_action_special",
+    "original": "特殊な行動を予定している",
+    "translation": "特殊な行動を予定している",
+    "context": null
+  },
+  {
+    "key": "enemy_action_heal",
+    "original": "回復を予定している",
+    "translation": "回復を予定している",
+    "context": null
+  },
+  {
+    "key": "demo_version_limitation",
+    "original": "体験版では選択できません。",
+    "translation": "体験版では選択できません。",
+    "context": null
+  },
+  {
+    "key": "select_ability_to_activate",
+    "original": "発動する能力を選択してください。",
+    "translation": "発動する能力を選択してください。",
+    "context": null
+  },
+  {
+    "key": "selection_generation_failed",
+    "original": "選択肢の生成に失敗しました",
+    "translation": "選択肢の生成に失敗しました",
+    "context": null
+  },
+  {
+    "key": "selection_result_error",
+    "original": "選択肢の結果にエラーがありました",
+    "translation": "選択肢の結果にエラーがありました",
+    "context": null
+  },
+  {
+    "key": "select_target_enemy",
+    "original": "対象の敵を選択してください",
+    "translation": "対象の敵を選択してください",
+    "context": null
+  },
+  {
+    "key": "barrier_reduction_msg",
+    "original": "バリアを得られる量が半分になる",
+    "translation": "バリアを得られる量が半分になる",
+    "context": null
+  },
+  {
+    "key": "debuff_double_confirm",
+    "original": "デバフを2倍にしてもよいですか?",
+    "translation": "デバフを2倍にしてもよいですか?",
+    "context": null
+  },
+  {
+    "key": "highlander_achievement",
+    "original": "ハイランダー",
+    "translation": "ハイランダー",
     "context": null
   }
 ]

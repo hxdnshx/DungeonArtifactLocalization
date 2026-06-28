@@ -978,9 +978,9 @@
     "context": null
   },
   {
-    "key": "/VocabularyXml/keyWordsExp/string[プレイ]に続くテキストは、カードを発動して適用される能力を表す。通常、このテキストは省略されている。",
-    "original": "[プレイ]に続くテキストは、カードを発動して適用される能力を表す。通常、このテキストは省略されている。",
-    "translation": "[プレイ]に続くテキストは、カードを発動して適用される能力を表す。通常、このテキストは省略されている。",
+    "key": "/VocabularyXml/keyWordsExp/string[プレイ]に続くテキストは、カードを手札から発動して適用される能力を表す。なお、他のカードでは基本的に[プレイ]は省略されている。",
+    "original": "[プレイ]に続くテキストは、カードを手札から発動して適用される能力を表す。なお、他のカードでは基本的に[プレイ]は省略されている。",
+    "translation": "[プレイ]に続くテキストは、カードを手札から発動して適用される能力を表す。なお、他のカードでは基本的に[プレイ]は省略されている。",
     "context": null
   },
   {
@@ -1014,9 +1014,9 @@
     "context": null
   },
   {
-    "key": "/VocabularyXml/categories/stringカード能力でのみ入手可能",
-    "original": "カード能力でのみ入手可能",
-    "translation": "カード能力でのみ入手可能",
+    "key": "/VocabularyXml/categories/string生成でのみプレイ可能",
+    "original": "生成でのみプレイ可能",
+    "translation": "生成でのみプレイ可能",
     "context": null
   },
   {

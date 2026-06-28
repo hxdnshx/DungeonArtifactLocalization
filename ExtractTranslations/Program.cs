@@ -21,20 +21,27 @@ public class Program
         var directoryPath = opts.InputDirectory;
         var jsonFilePath = opts.OutputDirectory;
 
-        CardTrans.ExtractCardText(Path.Join(directoryPath, "Japanese/Spell"), Path.Join(jsonFilePath, "spell.json"));
-        CardTrans.ExtractCardPollText(Path.Join(directoryPath, "Japanese/Spell"), Path.Join(jsonFilePath, "pool.json"));
-        EnchantTrans.ExtractEnchantText(Path.Join(directoryPath, "Japanese/Enchant"), Path.Join(jsonFilePath, "enchant.json"));
-        ScenarioTrans.ExtractScenario(Path.Join(directoryPath, "Scenario"), Path.Join(jsonFilePath, "scenario.json"));
-        CharacterTrans.ExtractCharacterText(Path.Join(directoryPath, "Japanese/Character"), 
-            Path.Join(directoryPath, "Japanese/Entity"), Path.Join(jsonFilePath, "entity.json"));
+        Directory.CreateDirectory(jsonFilePath);
 
-        VocabularyTrans.ExtractVocabulary(Path.Join(directoryPath, "Japanese/vocabulary.xml"),
+        var spellDirectory = LocalizedAssetPaths.ResolveDirectory(directoryPath, "Spell");
+        var enchantDirectory = LocalizedAssetPaths.ResolveDirectory(directoryPath, "Enchant");
+        var scenarioDirectory = LocalizedAssetPaths.ResolveDirectory(directoryPath, "Scenario");
+        var characterDirectory = LocalizedAssetPaths.ResolveDirectory(directoryPath, "Character");
+        var entityDirectory = LocalizedAssetPaths.ResolveDirectory(directoryPath, "Entity");
+
+        CardTrans.ExtractCardText(spellDirectory, Path.Join(jsonFilePath, "spell.json"));
+        CardTrans.ExtractCardPollText(spellDirectory, Path.Join(jsonFilePath, "pool.json"));
+        EnchantTrans.ExtractEnchantText(enchantDirectory, Path.Join(jsonFilePath, "enchant.json"));
+        ScenarioTrans.ExtractScenario(scenarioDirectory, Path.Join(jsonFilePath, "scenario.json"));
+        CharacterTrans.ExtractCharacterText(characterDirectory, entityDirectory, Path.Join(jsonFilePath, "entity.json"));
+
+        VocabularyTrans.ExtractVocabulary(LocalizedAssetPaths.ResolveFile(directoryPath, "vocabulary.xml"),
             Path.Join(jsonFilePath, "vocabulary.json"));
-        VocabularyTrans.ExtractTsv(Path.Join(directoryPath, "Japanese/uitext.tsv"),
+        VocabularyTrans.ExtractTsv(LocalizedAssetPaths.ResolveFile(directoryPath, "uitext.tsv"),
             Path.Join(jsonFilePath, "vocabulary2.json"));
-        VocabularyTrans.ExtractTsvAchievementAcc(Path.Join(directoryPath, "Japanese/achievement_accumlate.tsv"),
+        VocabularyTrans.ExtractTsvAchievementAcc(LocalizedAssetPaths.ResolveFile(directoryPath, "achievement_accumlate.tsv"),
             Path.Join(jsonFilePath, "AchievementAccumlate.json"));
-        VocabularyTrans.ExtractTsvAchievementTitle(Path.Join(directoryPath, "Japanese/achievement_title.tsv"),
+        VocabularyTrans.ExtractTsvAchievementTitle(LocalizedAssetPaths.ResolveFile(directoryPath, "achievement_title.tsv"),
             Path.Join(jsonFilePath, "AchievementTitle.json"));
         
         Console.WriteLine("转换完成喵！");
