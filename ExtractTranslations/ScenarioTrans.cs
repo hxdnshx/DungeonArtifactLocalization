@@ -26,7 +26,7 @@ public class ScenarioTrans
                         { "key", $"{fi.Name}.{text}" },
                         { "original", text },
                         { "translation", text },
-                        { "context", null }
+                        { "context", "" }
                     });
                 }
             }

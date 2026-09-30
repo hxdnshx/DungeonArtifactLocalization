@@ -40,7 +40,7 @@ public static class CardTrans
                         { "key", $"{fileNumber}.{id}.xml.name" },
                         { "original", name },
                         { "translation", name },
-                        { "context", null }
+                        { "context", "" }
                     });
 
                     translations.Add(new Dictionary<string, object>
@@ -48,7 +48,7 @@ public static class CardTrans
                         { "key", $"{fileNumber}.{id}.xml.context" },
                         { "original", context },
                         { "translation", context },
-                        { "context", null }
+                        { "context", "" }
                     });
                 }
             }
@@ -82,7 +82,7 @@ public static class CardTrans
                     { "key", $"{fi.Name}.title" },
                     { "original", title },
                     { "translation", title },
-                    { "context", null }
+                    { "context", "" }
                 });
 
                 translations.Add(new Dictionary<string, object>
@@ -90,7 +90,7 @@ public static class CardTrans
                     { "key", $"{fi.Name}.context" },
                     { "original", context },
                     { "translation", context },
-                    { "context", null }
+                    { "context", "" }
                 });
             }
         }

@@ -29,7 +29,7 @@ public static class EnchantTrans
                     { "key", $"{fi.Name}.name" },
                     { "original", name },
                     { "translation", name },
-                    { "context", null }
+                    { "context", "" }
                 });
 
                 translations.Add(new Dictionary<string, object>
@@ -37,7 +37,7 @@ public static class EnchantTrans
                     { "key", $"{fi.Name}.context" },
                     { "original", context },
                     { "translation", context },
-                    { "context", null }
+                    { "context", "" }
                 });
             }
         }

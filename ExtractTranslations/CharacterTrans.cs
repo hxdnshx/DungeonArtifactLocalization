@@ -29,7 +29,7 @@ public class CharacterTrans
                     { "key", $"{parentName}.{fi.Name}.name" },
                     { "original", name },
                     { "translation", name },
-                    { "context", null }
+                    { "context", "" }
                 });
             }
 
@@ -41,7 +41,7 @@ public class CharacterTrans
                     { "key", $"{parentName}.{fi.Name}.discription" },
                     { "original", discription },
                     { "translation", discription },
-                    { "context", null }
+                    { "context", "" }
                 });
             }
         }

@@ -38,7 +38,7 @@ public static class VocabularyTrans
                 { "key", xPath + value },
                 { "original", value },
                 { "translation", value },
-                { "context", null }
+                { "context", "" }
             });
         }
 
@@ -60,7 +60,7 @@ public static class VocabularyTrans
                 { "key", values[0] },
                 { "original", values[1] },
                 { "translation", values[1] },
-                { "context", null }
+                { "context", "" }
             });
         }
         string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
@@ -81,7 +81,7 @@ public static class VocabularyTrans
                 { "key", values[0] },
                 { "original", values[4] },
                 { "translation", values[4] },
-                { "context", null }
+                { "context", "" }
             });
         }
         string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
@@ -102,7 +102,7 @@ public static class VocabularyTrans
                 { "key", "Ach_" + values[0] + "_Title" },
                 { "original", values[3] },
                 { "translation", values[3] },
-                { "context", null }
+                { "context", "" }
             });
             
             jsonList.Add(new Dictionary<string, object>
@@ -110,7 +110,7 @@ public static class VocabularyTrans
                 { "key", "Ach_" + values[0] + "_Desc" },
                 { "original", values[4] },
                 { "translation", values[4] },
-                { "context", null }
+                { "context", "" }
             });
         }
         string json = JsonConvert.SerializeObject(jsonList, Formatting.Indented);
